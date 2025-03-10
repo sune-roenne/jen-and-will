@@ -1,0 +1,36 @@
+[
+  {
+    "Words" : "The Forest",
+	"Color" : "rgb(0,0,0)",
+	"IsBold": true,
+	"IsItalic": false
+  },
+  {
+    "Words" : "The Mother",
+	"Color" : "rgb(255,0,0)",
+	"IsBold": true,
+	"IsItalic": false
+  },
+  {
+    "Words" : "The Father",
+	"Color" : "rgb(255,0,0)",
+	"IsBold": true,
+	"IsItalic": false
+  },
+  {
+    "Words" : "HIM",
+	"Color" : "rgb(129,5,35)",
+	"IsBold": false,
+	"IsItalic": false,
+	"FontFamily": "DrippingMarker"
+  },
+  {
+    "Words" : "HE",
+	"Color" : "rgb(129,5,35)",
+	"IsBold": false,
+	"IsItalic": false,
+	"FontFamily": "DrippingMarker"
+  }
+
+
+]
