@@ -41,6 +41,7 @@
 		"Character":"will",
 		"ShowName": "Will",
 		"FullName": "Will Tetens",
+		"Rank": "Senior Detective",
 		"Color": "rgb(0,0,0)",
 		"SiteFont": "Old Standard TT",
 		"Font": "Old Standard TT"
@@ -49,6 +50,7 @@
 		"Character":"peter",
 		"ShowName": "Peter",
 		"FullName": "Peter Wiggins",
+		"Rank": "Officer",
 		"Color": "rgb(0,0,0)",
 		"SiteFont": "Old Standard TT",
 		"Font": "Old Standard TT"
@@ -57,11 +59,36 @@
 		"Character":"katja",
 		"ShowName": "Katja",
 		"FullName": "Katja Severinsen",
-		"Color": "rgb(176,7,134)",
-		"FontNot": "Chiller",
-		"SiteFont": "Gloria Hallelujah",
-		"Font": "Gloria Hallelujah"
-	}
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},
+	{
+		"Character":"abe",
+		"ShowName": "Abe",
+		"FullName": "Abel Abramowicz",
+		"Rank": "Consultant",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},
+	{
+		"Character":"k",
+		"ShowName": "K",
+		"FullName": "Cain Abramowicz",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},
+	{
+		"Character":"bori",
+		"ShowName": "Bori",
+		"FullName": "Borislav Abramowicz",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	}		
+	
     ]
 	
 }
