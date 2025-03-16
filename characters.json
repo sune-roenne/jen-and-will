@@ -1,0 +1,67 @@
+{
+	"Characters" : [
+	{
+		"Character":"laura",
+		"ShowName": "Laura",
+		"Rank": "Cadet",
+		"FullName": "Laura Andersson"
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+		
+	},
+	{
+		"Character":"michael",
+		"ShowName": "Michael",
+		"FullName": "Michael Mortensen",
+		"Rank": "Detective",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},
+	{
+		"Character":"bjarke",
+		"ShowName": "Bjarke",
+		"FullName": "Bjarke Hansen",
+		"Rank": "Inspector",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},
+	{
+		"Character":"jen",
+		"ShowName": "Jen",
+		"FullName": "Jennifer Adams",
+		"Rank": "Deputy Inspector",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},
+	{
+		"Character":"will",
+		"ShowName": "Will",
+		"FullName": "Will Tetens",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},
+	{
+		"Character":"peter",
+		"ShowName": "Peter",
+		"FullName": "Peter Wiggins",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},	
+	{
+		"Character":"katja",
+		"ShowName": "Katja",
+		"FullName": "Katja Severinsen",
+		"Color": "rgb(176,7,134)",
+		"FontNot": "Chiller",
+		"SiteFont": "Gloria Hallelujah",
+		"Font": "Gloria Hallelujah"
+	}
+    ]
+	
+}
