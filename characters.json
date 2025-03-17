@@ -8,8 +8,16 @@
 		"Color": "rgb(0,0,0)",
 		"SiteFont": "Old Standard TT",
 		"Font": "Old Standard TT"
-		
 	},
+	{
+		"Character":"danny",
+		"ShowName": "Danny",
+		"Rank": "Officer",
+		"FullName": "Danny Duale"
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},	
 	{
 		"Character":"michael",
 		"ShowName": "Michael",
@@ -55,6 +63,33 @@
 		"SiteFont": "Old Standard TT",
 		"Font": "Old Standard TT"
 	},	
+	{
+		"Character":"jim",
+		"ShowName": "Jim",
+		"FullName": "Jim Halback",
+		"Rank": "Detective",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},		
+	{
+		"Character":"Bjarni",
+		"ShowName": "Bjarni",
+		"FullName": "Bjarni Gunnarson",
+		"Rank": "Cadet",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},			
+	{
+		"Character":"Björki",
+		"ShowName": "Björki",
+		"FullName": "Björki Gunnarson",
+		"Rank": "Cadet",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},				
 	{
 		"Character":"katja",
 		"ShowName": "Katja",

@@ -59,7 +59,7 @@ Will opens the ear phone case, intending to resume his audio book.
 - (Will) "Yes" [not meeting Jen's eyes]
   "I know what you're asking... I'm just not real good at those kinds of mental health temperature checks"
   "But I think I'm alright" [looking at Jen, squinting his eyes defensively]
-- (Jen) "Are you staying off the horse?"
+- (Jen) "Are you staying off horse?"
 - (Will) "How direct!"
   "Yes... I'm clean" [smiles faintly]
 
