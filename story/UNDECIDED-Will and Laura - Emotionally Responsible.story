@@ -1,3 +1,4 @@
+#(dialog)
 - (Laura) "So, how are you getting on after your breakup with the Deputy Inspector?"
 - (Will) "Hmmm..." [looking pensively at Laura]
 "I think I'm getting along fine" [without much expression]
@@ -64,9 +65,11 @@
 "I think you should give it at least 7 sessions..."
 - (Will) "I can do that"
 - (Laura) "Good!" [smiling]
+#end
 
 ...
 
+#(dialog)
 - (Laura) "What a minute..."
 "Did you just make me emotionally responsible for your life?"
 - (Will) "Of course not..."
@@ -75,3 +78,4 @@
 "I need to think about this..."
 - (Will) "..." [looking skeptically at Laura]
 "You do that" [leaning back in his seat and closes his eyes, slight smile on his lips]
+#end

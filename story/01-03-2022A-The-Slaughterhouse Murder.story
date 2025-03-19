@@ -75,7 +75,7 @@ Still, Laura likes buddying up with Michael, seeing as his assignments are usual
 "I feel so bad!"
 "Hey, could you look at me for 2 seconds while I apologize to you?"
 
-As Michael takes his eyes off the road to briefly glance at Laura, he sees her pointing his own phone at him as if taking a picture.
+As Michael takes his eyes off the road to briefly glance at Laura, he sees her pointing his own phone at him as if helping him 'selfie'.
 
 #(dialog)
 - (Laura) "Thank you Face ID!"
