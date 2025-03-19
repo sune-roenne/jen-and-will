@@ -1,3 +1,4 @@
+
 #(dialog)
 - (Laura) "So, how are you getting on after your breakup with the Deputy Inspector?"
 - (Will) "Hmmm..." [looking pensively at Laura]
