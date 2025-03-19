@@ -36,16 +36,16 @@
 "Is that it?"
 "That's your story?" [starting up the car and taking it back on the road]
 "That was WEAK!"
-- (Will) "..." [looking expresionless out of the front window]
+- (Will) "..." [looking expressionless out of the front window]
 - (Laura) "I mean, it was new, I'll give you that..."
 "YOU gramps, have decided that it will be too emotionally PAINFUL working through your breakup..."
-"... You may actually believe that manure you just spewed back there..." [pointing back in time out of the rearview mirror]
+"... You may actually believe that manure you just spewed back there..." [pointing back in time out of the rear-view mirror]
 "... but deep down inside, I bet you know that you are just a scared little boy afraid to face your own hurt feelings..."
 - (Will) "Is that what you think?" [looking at Laura, one eyebrow cocked]
 - (Laura) "No, it's what I know!"
 - (Will) "I'll be honest with you: I find that a little offensive!"
 "... but let's run with this..."
-"You're essentially telling me to find a head shrink, lay back on the couch and cry out all my supressed feelings?"
+"You're essentially telling me to find a head shrink, lay back on the couch and cry out all my suppressed feelings?"
 - (Laura) "Something like that, yes!"
 - (Will) "Hmmm"
 "..."
@@ -53,13 +53,13 @@
 - (Laura) "What?"
 - (Will) "Strictly for the sake of argument..." [hands in a defensive position]
 "There are all kinds of therapists, right?"
-"Cognitive Behavioural Therapists, Couples Councellors, Life Crisis Specialists..."
+"Cognitive Behavioral Therapists, Couples Counselors, Life Crisis Specialists..."
 "How would I figure out what is the right one?"
 - (Laura) "Hmmm..."
 "You know what? I've been through a couple of therapists... I think I have a good one for you..."
 - (Will) "And then what??!"
 "I just dedicate 2 by 50 minutes every week until they get tired of my bullshit and money and call me cured...?"
-"Or should I go in for 3 sessions, and then we'll evalute and make a gameplan...?"
+"Or should I go in for 3 sessions, and then we'll evaluate and make a game-plan...?"
 - (Laura) "Hmmm..."
 "I think you should give it at least 7 sessions..."
 - (Will) "I can do that"
@@ -73,5 +73,5 @@
 "I'm just a scared little boy who has finally found salvation through YOUR wisdom!"
 - (Laura) "Hmmm..."
 "I need to think about this..."
-- (Will) "..." [looking sceptively at Laura]
+- (Will) "..." [looking skeptically at Laura]
 "You do that" [leaning back in his seat and closes his eyes, slight smile on his lips]
