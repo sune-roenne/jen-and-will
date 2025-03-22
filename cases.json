@@ -1,11 +1,29 @@
 [{
 	"CaseNo":"293823",
 	"Victim": "Sandy Higgins",
-	"Essence": "Rape & murder"
+	"Essence": "Rape & murder",
+	"GroupKey": "bdsm"
 },
 {
 	"CaseNo":"293825",
 	"Victim": "Aubrey Williams",
-	"Essence": "Rape & murder"
+	"Essence": "Rape & murder",
+	"GroupKey": "bdsm"
+},
+{
+	"CaseNo": "H72838803",
+	"Victim": "Trine Cornelius",
+	"GroupKey": "prostitute"
+},
+{
+	"CaseNo": "H72838956",
+	"Victim": "Maya Swanson",
+	"GroupKey": "prostitute"
+},
+{
+	"CaseNo": "H72839223",
+	"Victim": "Karina Mærsk-Jensen",
+	"GroupKey": "prostitute"
 }
+
 ]

@@ -27,7 +27,7 @@ Will manages to get into the passengers seat of the car and get comfortable with
 "Are we doing a music theme today?"
 - (Laura) "Yes..."
 "And it's non-debatable!"
-- (Will) "Really..." [picking up Laura's smart phone connected to the car stereo]
+- (Will) "Really...?" [picking up Laura's smart phone connected to the car stereo]
 "You made this playlist?"
 - (Laura) "I did"
 - (Will) "5 hours?"
@@ -49,7 +49,7 @@ Will manages to get into the passengers seat of the car and get comfortable with
 
 - (Will) "You know..."
 "I once worked with a guy who came into the office one time wearing headphones listening to this song"
-"Heard it on repeat for 5 hours straight without saying a word to anyone"
+"Heard it on repeat for 5 hours straight without saying a word to anyone..."
 "Then left the office blaring the same damn song directly into his cranium"
 "5 hours of Bruno Mars!"
 "Can you imagine the type of damaged soul it takes to do something like that?!" [pondering with amazement over his own story]
@@ -83,7 +83,7 @@ Will manages to get into the passengers seat of the car and get comfortable with
 #(dialog)
 - (Will) "AND EEEEYEEEE E EEEEYEEEE...." [attempt at singing]
 "WILL ALWAYS LOVE YOUOUOUUUUUU"
-"HMMM HMMM NA NA NA" [humming along to the lyrics he don't know]
+"HMMM HMMM HMMM" [humming along to the lyrics he don't know]
 - (Laura) "ALRIGHT! THAT'S JUST CHEATING!" [shouts with the power of an hour of pent-up frustration]
 "Could you at least stick to the songs you actually know?!"
 - (Will) "..." [signaling for Laura to wait a moment]
@@ -104,13 +104,13 @@ Will manages to get into the passengers seat of the car and get comfortable with
 The local police station is a small 1-story building, probably refurbished from an old 1800's grocery store sometime near the middle of the last century. Only a single desk clerk is sitting in the lobby as Will and Laura enters.
 
 - (Will) "Hello..."
-"I am Will Tetens with Europol and this is Laura Andersson of the Hafnia South East District Police Station" [surprisingly official given his recent Whitney Houston impression]
+"I am Will Tetens with Europol and this is Laura Andersson of the Hafnia South East District Police Station" [surprisingly official in light of his recent Whitney Houston impression]
 "We are here regarding the murder cases of Sandy Higgins and Aubrey Williams"
 "Case numbers 293823 and 293824"
 - (Receptionist) "Suspected" [not looking up from her screen]
 - (Will) "Excuse me?" [staring, deadpan]
 - (Receptionist) "Suspected murder cases. They have not officially been labeled as such"
-- (Will) "Both autopsy reports showed signs of repeated forced entry and strangulation, so cut the bull-shit!"
+- (Will) "Both autopsy reports show signs of repeated forced entry and strangulation, so cut the bull-shit!"
 - (Receptionist) "..." [scowling at Will]
 "You'll have to talk to Inspector Jackson" [looking back at her screen]
 - (Will) "And where is Inspector Wilfred Jackson?"
@@ -127,51 +127,148 @@ As Will and Laura takes a seat on the the two chairs across from the Inspector's
 "YOU GET THAT?!"
 - (Will) "..." [staring deadpan up into the eyes of Inspector Wilfred]
 "You either kiss me now, or get the fuck out of my face!" [staring expressionless at the Inspector]
-"..." [adjusting his position to upright as the Inspector draws away seemingly surprised by the unsuspected outlook of homo-erotic tomfoolery this early in the morning]
-"..." [pulling his cell-phone out, turns it off and hands it to Laura]
+"..." [adjusting his position to upright as the Inspector draws away seemingly surprised by the unexpected prospect of homo-erotic tomfoolery this early in the morning]
+"..." [pulling his cell-phone out, turning it off and handing it to Laura]
 "Turn off your phone" [whispering, leaning towards Laura]
-"..." [getting up from his seat, quickly grabbing and tossing the Inspector's phone to Laura]
+"..." [getting up from his seat, quickly grabbing the Inspector's phone from the desk and tossing the to Laura]
 "This one as well"
 
 Walking towards Inspector Wilfred Jackson, Will makes a seemingly spastic motion with his left hand against his chest and then thrusts the hand outwards to his left side. 
 The nonsensical motion is only just enough to throw off the Inspector's attention for a few hundred milliseconds, but it is all Will needs for his full-body cross-punch to land unguarded on the Inspector's chin.
-In an attempt to prove himself above the title of 'one-hit-wonder', Will grabs the sad remains of the Inspector's receding hairline and pulls the man's head down for 3 knees to the side of the man's face, delivered with almost as much feeling as his earlier Bon Jovi rendition, before throwing the limp body of the now unconscious man to the ground, and handcuffing him behind the back.  
+In an attempt to prove himself above the title of 'one-hit-wonder', Will grabs the sad remains of the Inspector's receding hairline and pulls the man's head down for 3 knees to the face, delivered with almost as much feeling as his earlier Bon Jovi rendition, before throwing the limp body of the now unconscious man to the ground, and handcuffing him behind the back.  
 As the Inspector regains consciousness, Will is mounted on top of him, pointing a Glock 17 pistol against his right eye. 
 
 - (Will) "I am going to tell you a story" [deadpan, voice eerily calm]
 "If you say anything before the story is over, I will shoot you"
-"Blink once if you understand"
-- (Inspector Jackson) "..." [blinks once]
 - (Will) "4 months ago, I was ordered to send a message to a small Southern European police precinct..."
 "The message being: you either get in line, or you leave the line"
 "So I walked into the town square where the most decorated sergeant of the precinct was having lunch at a street-walk café"
-"Shot him once in the chest at close range, and once through the head as his dead body had fallen to the ground"
-"I walked out of the square leaving 40 or more witnesses staring after me"
+"Shot him once in the chest at close range, and once through the head as his dead body hit the ground"
+"I walked out of the square leaving 40+ witnesses staring after me"
 "And this is the important part..."
-"Nobody saw a thing!"
-"Officially..."
-"Do you understand why I am telling you this story?"
+"Nobody saw a thing..." 
+"...officially..." [thousand-yard stare looking through the Inspector]
+"Do you understand why I am telling you this story?" [presence returning to his eyes]
 - (Inspector Jackson) "..." [staring speechless up at Will]
 "Yes" [low voice, looking away from Will]
 - (Will) "Good" [getting up from the Inspector]
 "Do you have a clean uniform at the station?" [looking at the pis-stain growing from the man's crotch]
 - (Inspector Jackson) "Yes"
 - (Will) "Good"
-"You've got 5 minutes" [turning the guy onto his side to uncuff him]
-
-...
-
-Laura is staring at Will in horror as the Inspector leaves the room. 
-
-- (Will) "Can I have his phone please?"
+"You have 5 minutes" [turning the guy onto his side to uncuff him]
+- (Laura) "..." [staring in horror at Will]
+- (Will) "Can I have his phone please?" [not meeting Laura's stare]
 - (Laura) "..." [handing Will the phone, still staring at him]
 - (Will) "Thank you" [pocketing the phone]
 
 ...
 
+During the first five minutes of the following car ride, neither Will nor Laura says a word.
 
+#(dialog)
+- (Laura) "Was that true..."
+"what you said back there?"
+- (Will) "No" [staring out of the front window]
+"I've only ever once executed someone, and he wasn't a police officer"
+- (Laura) "..." [expression only slightly relieved]
+"Was THAT really necessary?"
+- (Will) "I think so..."
+"It's hard to say now"
+- (Laura) "..." [eyes still wide in shock]
+- (Will) "Pull into the parking lot of that gas station up there"
+#end
 
+...
 
+- (Will) "Look..." [turning in his seat to optimize eye contact with Laura]
+"I didn't particularly like what happened back there, and if I had seen another option I would have grabbed it" [face void of expression, suppressed sadness behind eyes]
+"In my experience..."
+"when it comes to men like Inspector Jackson..."
+"whose whole personality is in the power they can exercise over others..."
+"if you have to assume an adversarial position to them..."
+"you have to take them to the edge for them to back down..."
+"and then you either go step-by-step with them..."
+"in which case you are likely to find yourself on the wrong side of them compared to the edge..."
+"or you break them immediately using as much force as possible at first given chance..."
+"..." [running out of words]
+"..." [turns in seat to look back out of the window]
+
+...
+
+#(dialog)
+- (Laura) "Do you think the Inspector is going to try and get back at you?"
+"... at us?"
+- (Will) "Hmmm..."
+"... no..."
+"I don't think any of his underlings saw him waddle out to the toilet in his pis-stained pants..."
+"and I think the threat of photo evidence of the incident will deter him..."
+"at least until he realizes that my phone was off..." [a little concerned]
+"but we should probably stick to the plan and get gone tomorrow..." [smiling while looking briefly over at Laura]
+"..." [wiping the apparently inappropriate smile off his face]
+#end
+
+...
+
+#(dialog)
+- (Laura) "How did you know they had an unlisted suspect?" [still emotionally withdrawn in tone of voice and attitude]
+- (Will) "I looked into the case files before we came here, and there were inconsistencies..."
+- (Laura) "..."
+- (Will) "According to the case files, the man who found the bodies of the 2 victims, a Rasmus Yding, age 53..."
+"did so while walking his dog..."
+"The call to the police station was logged in the case files as occurring at 9:37..."
+"I looked up all 'Rasmus Yding's in the area, and there is just one..."
+"and he works as an auctioneer at the fish auction on the harbor..."
+"..." [waiting for Laura to catch on]
+- (Laura) "..." [waiting for Will to continue, keeping eyes on road]
+- (Will) "..." [relenting]
+"Fish auctions around here start at 7:00 in the morning..."
+"..." [pausing for Laura to interject]
+"so at 9:37 on a Wednesday, he would be at work..."
+"which means the call probably didn't come in at 9:37, but much earlier in the morning..."
+- (Laura) "Hmmm..."
+"But aren't there records of the call at the emergency hot-line?"
+- (Will) "There are no records of any emergency calls being made that day..."
+"Which isn't really all that surprising..."
+"It's a small county and the guy who phoned it in is about the same age as the Inspector..."
+"So it's not unreasonable to assume that he knows either the Inspector or one of his officers personally..."
+"so why call the emergency hot-line and wait for them to forward the call to the locals...?"
+"From the deteriorated state of the bodies, it's not like there was any doubt as to whether they were dead or not..."
+- (Laura) "Alright..."
+"So they receive the call at, let's say 5:30 in the morning..." [thawing a little in her expression]
+"but log it as coming in a couple of hours later..."
+"because they wanted to hide whatever they did in the time between receiving the call and the time it was logged...?"
+- (Will) "That's how I see it..."
+"Also..."
+"If you look at the autopsy reports of the two victims..."
+"and forget everything we know about the prostitute murders..."
+"the evidence points to two pretty base, sexually-motivated crimes..."
+"The body of the first victim, Sandy Higgins, has clear signs of sexual abuse..."
+"lacerations around the throat and collarbone and signs of strangulation, possibly with a garrote of sorts..."
+"The body of the second victim, Aubrey Williams, shows signs of sexual abuse and strangulation with a garrote, minus the lacerations around the throat and collarbone..."
+"Suggesting an inexperienced perpetrator narrowing in on his MO..."
+"These types of sexual deviants don't just pop up over night..."
+"A sexually-motivated crime happens in a small county like this..."
+"People are going to suspect someone specific..."
+- (Laura) "And you think the Inspector took a couple of his goons out to the suspects house to have a private talk with him before logging the incident...?"
+- (Will) "Or to kill him..."
+"They might have cut the guy some slack in the past, and feel a responsibility towards the township..."
+"Or they might have had him in for questioning on prior offenses and been unable to make the charges stick..."
+"In any case, I figure they wanted to have a talk with the guy before deciding on what to log"
+- (Laura) "..." [taking it all in]
+#end
+
+...
+
+#(dialog)
+- (Laura) "You don't think these murders were committed by our prostitute killer, do you?"
+- (Will) "No"
+- (Laura) "How do you account for the DNA from Aubrey Williams being found on... IN the body of Trine Cornelius?"
+- (Will) "I can't..."
+"Not yet..."
+"But if we categorize that fact as yet another aspect of the prostitute murders that make no God-damned sense..."
+"What we are left with in regards to the murders of Sandy and Aubrey, is a pretty run-of-the-mill sexually frustrated small-town loser deciding to pass his misery unto others..."
+- (Laura) "Hmm...."
+#end
 
 ...
 

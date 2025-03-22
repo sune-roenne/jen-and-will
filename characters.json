@@ -73,7 +73,7 @@
 		"Font": "Old Standard TT"
 	},		
 	{
-		"Character":"Bjarni",
+		"Character":"bjarni",
 		"ShowName": "Bjarni",
 		"FullName": "Bjarni Gunnarson",
 		"Rank": "Cadet",
@@ -82,7 +82,7 @@
 		"Font": "Old Standard TT"
 	},			
 	{
-		"Character":"Björki",
+		"Character":"björki",
 		"ShowName": "Björki",
 		"FullName": "Björki Gunnarson",
 		"Rank": "Cadet",
