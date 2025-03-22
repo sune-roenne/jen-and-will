@@ -80,3 +80,28 @@
 - (Will) "..." [looking skeptically at Laura]
 "You do that" [leaning back in his seat and closes his eyes, slight smile on his lips]
 #end
+
+...
+
+Will picks up the cell phone on the first ring.
+
+- (Will) "¡Hola!"
+"Un momento"
+"How do you say 'corn' in Spanish?" [looking at Laura]
+- (Laura) "I don't know"
+- (Will) "Hmmm... Fresa o maíz"
+"..." [listening for reply from other end]
+"De la Iglesia Virgen del Valle al Ayuntamiento"
+"... más o menos"
+"¡Hasta luego!"
+
+...
+
+#(dialog)
+- (Laura) "Who was that?"
+- (Will) "A colleague"
+- (Laura) "Man or woman?" [a little cheerful]
+- (Will) "Colleague" [deadpan, looking out the window]
+- (Laura) "Calling for cooking advice?"
+- (Will) "Different culture down there" [glancing briefly at Laura, managing 'what can you do?' using only a 1 second facial expression]
+#end

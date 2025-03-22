@@ -122,7 +122,16 @@
 		"Color": "rgb(0,0,0)",
 		"SiteFont": "Old Standard TT",
 		"Font": "Old Standard TT"
-	}		
+	},
+	{
+		"Character":"wilfred",
+		"ShowName": "Inspector Jackson",
+		"FullName": "Wilfred Jacson",
+		"Rank": "Inspector (Njord County)",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	}	
 	
     ]
 	
