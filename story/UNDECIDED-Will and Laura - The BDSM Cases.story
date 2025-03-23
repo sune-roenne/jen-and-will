@@ -88,7 +88,6 @@ Will manages to get into the passengers seat of the car and get comfortable with
 - (Will) "..." [signaling for Laura to wait a moment]
 "... please don't cry" [singing along]
 - (Laura) "UHHH!" [annoyed groan]
-#end
 
 ...
 
@@ -103,7 +102,7 @@ Will manages to get into the passengers seat of the car and get comfortable with
 The local police station is a small 1-story building, probably refurbished from an old 1800's grocery store sometime near the middle of the last century. Only a single desk clerk is sitting in the lobby as Will and Laura enters.
 
 - (Will) "Hello..."
-"I am Will Tetens with Europol and this is Laura Andersson of the Hafnia South East District Police Station" [surprisingly official in light of his recent Whitney Houston impression]
+"I am Will Tetens with Europol and this is Laura Andersson of the Hafnia South East District Police Station" [surprisingly official in light of his recent Whitney Houston impersonation]
 "We are here regarding the murder cases of Sandy Higgins and Aubrey Williams"
 "Case numbers 293823 and 293824"
 - (Receptionist) "Suspected" [not looking up from her screen]
@@ -112,14 +111,14 @@ The local police station is a small 1-story building, probably refurbished from 
 - (Will) "Both autopsy reports show signs of repeated forced entry and strangulation, so cut the bull-shit!"
 - (Receptionist) "..." [scowling at Will]
 "You'll have to talk to Inspector Jackson" [looking back at her screen]
-- (Will) "And where is Inspector Wilfred Jackson?"
+- (Will) "And where is the good Inspector Wilfred Jackson?"
 - (Receptionist) "Out!"
 - (Will) "Then get him the fuck IN!" [leaning over the receptionist's computer screen, staring down at her]
 
 ...
 
 Inspector Wilfred Jackson, a man in his mid-fifties whose 30+ years of manhandling drunk fishermen are clearly visible on his almost 2 meter tall frame, barges through the door to the lobby from the office region of the station, and gestures for Will and Laura to follow him.
-As Will and Laura takes a seat on the the two chairs across from the Inspector's desk, he slams the door to the office, then walks over and towers over Will.
+As Will and Laura take a seat in the two chairs across from the Inspector's desk, he slams the door to the office, then walks over and towers over Will.
 
 - (Inspector Jackson) "Now you listen to me you piece of shit!" [looking down at Will, trigger-finger pointing at Will's left eye, his head 40 centimeters from Will's]
 "NO SNOTTY BIG CITY COP IS GOING TO COME INTO MY STATION AND ORDER MY SUBORDINATES AROUND!" [closing the distance to Will's head, forcing Will to lean back in the chair and bent his head backwards]
@@ -129,29 +128,29 @@ As Will and Laura takes a seat on the the two chairs across from the Inspector's
 "..." [adjusting his position to upright as the Inspector draws away seemingly surprised by the unexpected prospect of homo-erotic tomfoolery this early in the morning]
 "..." [pulling his cell-phone out, turning it off and handing it to Laura]
 "Turn off your phone" [whispering, leaning towards Laura]
-"..." [getting up from his seat, quickly grabbing the Inspector's phone from the desk and tossing the to Laura]
+"..." [getting up from his seat, quickly grabbing the Inspector's phone from the desk and tossing it to Laura]
 "This one as well"
 
-Walking towards Inspector Wilfred Jackson, Will makes a seemingly spastic motion with his left hand against his chest and then thrusts the hand outwards to his left side. 
-The nonsensical motion is only just enough to throw off the Inspector's attention for a few hundred milliseconds, but it is all Will needs for his full-body cross-punch to land unguarded on the Inspector's chin.
-In an attempt to prove himself above the title of 'one-hit-wonder', Will grabs the sad remains of the Inspector's receding hairline and pulls the man's head down for 3 knees to the face, delivered with almost as much feeling as his earlier Bon Jovi rendition, before throwing the limp body of the now unconscious man to the ground, and handcuffing him behind the back.  
+Walking towards Inspector Wilfred Jackson, Will makes an apparently spastic motion with his left hand against his chest and then thrusts the hand outwards to his left side. 
+The nonsensical motion is only just enough to throw off the Inspector's attention for a few hundred milliseconds, but it's all Will needs for his full-body cross-punch to land unguarded on the Inspector's chin.
+In an attempt to prove himself above the rank of 'one-hit-wonder', Will grabs the sad remains of the Inspector's receding hairline and pulls the man's head down for 3 knees to the face, delivered with almost as much feeling as his earlier Bon Jovi rendition, before throwing the limp body of the now unconscious man to the ground, and handcuffing him behind the back.  
 As the Inspector regains consciousness, Will is mounted on top of him, pointing a Glock 17 pistol against his right eye. 
 
 - (Will) "I am going to tell you a story" [deadpan, voice eerily calm]
-"If you say anything before the story is over, I will shoot you"
+"If you say anything before the story is over, I'll shoot you"
 - (Will) "4 months ago, I was ordered to send a message to a small Southern European police precinct..."
 "The message being: you either get in line, or you leave the line"
 "So I walked into the town square where the most decorated sergeant of the precinct was having lunch at a street-walk café"
 "Shot him once in the chest at close range, and once through the head as his dead body hit the ground"
 "I walked out of the square leaving 40+ witnesses staring after me"
-"And this is the important part..."
+"and here comes the important part..."
 "Nobody saw a thing..." 
 "...officially..." [thousand-yard stare looking through the Inspector]
 "Do you understand why I am telling you this story?" [presence returning to his eyes]
 - (Inspector Jackson) "..." [staring speechless up at Will]
 "Yes" [low voice, looking away from Will]
 - (Will) "Good" [getting up from the Inspector]
-"Do you have a clean uniform at the station?" [looking at the pis-stain growing from the man's crotch]
+"Do you have a clean uniform here at the station?" [looking at the pis-stain growing from the man's crotch]
 - (Inspector Jackson) "Yes"
 - (Will) "Good"
 "You have 5 minutes" [turning the guy onto his side to uncuff him]
@@ -170,7 +169,7 @@ During the first five minutes of the following car ride, neither Will nor Laura 
 - (Will) "No" [staring out of the front window]
 "I've only ever once executed someone, and he wasn't a police officer"
 - (Laura) "..." [expression only slightly relieved]
-"Was THAT really necessary?"
+"Was all that really necessary?"
 - (Will) "I think so..."
 "It's hard to say now"
 - (Laura) "..." [eyes still wide in shock]
@@ -187,12 +186,25 @@ During the first five minutes of the following car ride, neither Will nor Laura 
 "if you have to assume an adversarial position to them..."
 "you have to take them to the edge for them to back down..."
 "and then you either go step-by-step with them..."
-"in which case you are likely to find yourself on the wrong side of them compared to the edge..."
+"in which case you are likely to find yourself between them and the edge..."
 "or you break them immediately using as much force as possible at first given chance..."
 "..." [running out of words]
 "..." [turns in seat to look back out of the window]
+"Hold on before setting off, I need to use the rest room" [getting out of the car]
 
 ...
+
+#(dialog)
+- (Laura) "What did you buy?"
+- (Will) "It's litter..."
+- (Laura) "Litter...?"
+"As in trash collected from the ground?"
+- (Will) "Public service is public service"
+- (Laura) "..." [staring questioning at Will]
+- (Will) "You can take us back on the road now..." [smiles without looking at Laura]
+#end
+
+... 
 
 #(dialog)
 - (Laura) "Do you think the Inspector is going to try and get back at you?"
@@ -251,7 +263,7 @@ During the first five minutes of the following car ride, neither Will nor Laura 
 - (Laura) "And you think the Inspector took a couple of his goons out to the suspects house to have a private talk with him before logging the incident...?"
 - (Will) "Or to kill him..."
 "They might have cut the guy some slack in the past, and feel a responsibility towards the township..."
-"Or they might have had him in for questioning on prior offenses and been unable to make the charges stick..."
+"or they might have had him in for questioning on prior offenses and been unable to make the charges stick..."
 "In any case, I figure they wanted to have a talk with the guy before deciding on what to log"
 - (Laura) "..." [taking it all in]
 #end
@@ -268,6 +280,192 @@ During the first five minutes of the following car ride, neither Will nor Laura 
 "What we are left with in regards to the murders of Sandy and Aubrey, is a pretty run-of-the-mill sexually frustrated small-town loser deciding to pass his misery unto others..."
 - (Laura) "Hmm...."
 #end
+
+...
+
+#(dialog)
+- (Laura) "The house looks creepy"
+- (Will) "Hmmm..."
+"You think?" [looking at Laura]
+"What is it about the house that is creepy to you?"
+"Because to me it most of all looks deserted"
+- (Laura) "I don't know..." [staring at the house, pensive]
+"Maybe it's just that I know what he's done..." [shrugs]
+- (Will) "Technically, we can't be sure that he's done anything..."
+- (Laura) "Yeah, but look at what Inspector Jackson told us:"
+"Lived alone with his mother all his life"
+"social outkast"
+"awkward around girls in school"
+"buys used women's underwear from thrift shops...?"
+"I don't think there is a more direct way to spell raping & murdering freak!"
+- (Will) "For what it's worth: I agree with you!"
+"And he probably IS guilty as all hell..."
+"But I need you to keep an open mind in there"
+- (Laura) "In there?"
+"We don't have a warrant!"
+- (Will) "Sure we do!" [smiling while dangling his bag of litter]
+#end
+
+...
+
+#(dialog)
+- (Laura) "Why did you bother with the doorbell if you know you're going to break in anyways?"
+- (Will) "It would have been easier if he'd just come out and let us in" [shrugs]
+"Let's go around back" [putting on latex gloves]
+"..."
+"I don't know what you usually do during B&E's and raids..."
+"but when we are in there, here is what I want you to do..." [while scattering cigarette buds and broken beer bottles around on the back-porch]
+"Stay behind me unless instructed to do otherwise..."
+"Keep your gun out, but keep the safety on unless you know there is something in there you want to shoot..."
+"Communicate your intuitive threat assessment to me when it changes, using colors: green, yellow and red"
+"You don't need to be able to justify it..."
+"If you are able to say: red, I saw movement at 3 o' clock..."
+"or: green, all entrances accounted for..."
+"Great!"
+"If you sense some kind of threat without being able to explain it, you say: red"
+"If nothing else, it let's me know I should avoid sudden movements if I don't want to get capped by friendly fire" [smiling at Laura]
+"Are we clear?"
+- (Laura) "We're clear..." [looking confident]
+"but, how do we know he's not home?"
+- (Will) "We don't" [while smashing the little window next to the door using a broken beer bottle]
+"..." [sticking his arm through the broken window and opening the door]
+"..." [entering the kitchen through the door, gun outstretched in a downward ankle]
+- (Laura) "Yellow..." [low voice]
+"... two entrances..."
+- (Will) "..." [nodding]
+"..." [signaling for Laura to keep an eye on the door on the left side of the kitchen while they move straight towards the entrance to the living room]
+"..." [glancing around the small living room]
+"green, thick layer of dust, seems unused"
+"..." [signaling for Laura to go back to the kitchen]
+"..." [pointing for Laura to take the lead and open the door]
+- (Laura) "..." [taking the lead]
+"..." [listening for a moment in-front of the door before opening it]
+"..." [stepping carefully on each step leading up the dark, narrow passageway to the upstairs floor]
+"..." [bringing out a flashlight to illuminate the small windowless hallway on the first floor]
+"..." [getting in position in-front of the only door in the hallway and listening for sounds]
+"..." [slowly sliding the door open, to an obviously empty bed-room]
+"green, room vacant"
+"..." [waiting for acknowledgment from Will]
+"..." [turning around to look at Will, surprised to see he's not there]
+"Will?"
+- (Will) "Coming..."
+"..." [playing the creek piano while climbing the stairs]
+- (Laura) "I thought you were going to cover my back...?!" [a little accusingly]
+- (Will) "Yeah..."
+"I figured that would be a little too noisy with those stairs..."
+"And I was pretty sure the house was empty" [smiling at Laura, holstering his gun]
+#end
+
+...
+
+Back on the back porch, Will is busy doing something on his smartphone.
+#(dialog)
+- (Laura) "So, could you stop shooting birds at pigs for a moment or whatever and listen to me?"
+- (Will) "I'll multitask" [smiling, while only briefly glancing up at Laura]
+- (Laura) "..." [rolling her eyes at 'the generation that was raised without smartphone addictions']
+"Nobody's seen the guy around since a couple of months before the two bodies were found..."
+"It seems like the house has been deserted for a while..."
+- (Will) "Mmmm" [not looking up]
+- (Laura) "The refrigerator is still running, and there's rotten food in it that looks like it's been there for a while..."
+"Wouldn't you almost instinctively turn of the electricity and empty the refrigerator if you knew you'd be gone for a long time?"
+- (Will) "Hmmm..." [looking up at Laura]
+"I might forget about cleaning out the fridge, but I would definitely turn off the electricity..." [nodding]
+"But who knows how homicidal maniacs think?" [shrugs, and looks back at his phone]
+- (Laura) "And then there are the clothes..."
+"He had a pretty full wardrobe up there, and there were both boots and snickers in-front of the living room entrance..."
+"He doesn't seem like the kind of guy to have a whole lot of footwear..."
+- (Will) "..." [nodding in agreement]
+- (Laura) "And where did he sleep when the mother was alive?"
+"There was only one bedroom..."
+- (Will) "..." [looking up at Laura with a disgusted face signaling 'let's not talk about that']
+- (Laura) "EEEWW!"
+- (Will) "..." [nodding in agreement while busy on the phone]
+"And there was no toilet in the house..." [looking up at Laura, pocketing his phone]
+"which means there must be an outdoor shitter somewhere on the premise" [getting up and walking into the tall grass leading to the back of the yard]
+- (Laura) "Hmmm..." [getting up to follow Will]
+- (Will) "Over there, pretty well hidden behind those trees" [pointing to the bottom of the yard]
+"..." [closing in on the outhouse, draws gun]
+"green"
+"... because who would hide in a shitter" [smiling to himself]
+- (Laura) "..." [opting not to comment, drawing her gun]
+- (Will) "..." [opening the door to the outhouse to indeed find it empty]
+- (Laura) "..." [pocketing her gun and loosening her shoulders]
+- (Will) "Wait a minute..."
+"Because, according to one map on the internet..."
+"there should be an old WWII bunker around here somewhere..." [going around the outhouse]
+"Look..."
+"Someone has made a small trail through those bushes..." [pointing 3 meters in-front of him]
+"..." [following the small trail]
+"Well, look at that!" [pushing the wooden 1x1 meter cover aside using his left foot, to uncover an entrance into the cement structure]
+"Someone's made an unlawful entrance into a piece of 1900's German history"
+- (Laura) "This is the part where we call for backup, right?" [a little anxious]
+- (Will) "What?" 
+"And have to look over our shoulders every other second to make sure Inspector Dickhead doesn't shoot us in the back?" [lowering himself into the darkness]
+"I'd rather take my chances with the cadet..."
+"Which reminds: you did great back there in the house!" [directing his words up at Laura]
+- (Laura) "..." [shaking her head as she pockets her gun to follow Will]
+- (Will) "..." [turning on the flashlight on his smartphone to illuminate the 5x5 meter room they now find themselves in]
+- (Laura) "..." [looking around the room]
+"yellow"
+- (Will) "..." [nodding]
+"Keep the safety on..."
+"if you have to fire down here, just know that it may be at the expense of your hearing..." [looking sternly back at Laura while putting away his own gun and taking out a hunter's knife]
+"behind me" [low voice, as he heads out the only way out from the room, down a roughly 10x1 meter pitch-black concrete hall]
+- (Laura) "..." [following]
+"..."
+"red" [low voice]
+"..."
+"there is something down here..."
+- (Will) "..." [nodding as he continues down the passageway]
+"... cover our 6 o'clock..."
+- (Laura) "..." [turning around, walking slowly backwards to follow Will]
+- (Will) "In about 3 meters, there's an intersecting passageway on your right side..." [whispering]
+"I'll tell you when to stop"
+- (Laura) "Ok..." [trembling voice]
+- (Will) "Stop"
+"Take a look" [shining the light from his cell phone down the roughly 5 meter intersecting passageway]
+"It looks like someone has sealed off this passage themselves, doesn't it?" [low voice]
+- (Laura) "..." [nodding]
+"yellow" [voice still trembling a little]
+- (Will) "Continue forward" [continuing down the passageway]
+"..." [reaching the end of the passageway and a 90 degree corner leading into a 2m passage leading up to a concrete door]
+"..." [tugging lightly at the heavy metal latch on the door to verify that the door will open]
+"Are you all right?" [whispering back at Laura]
+- (Laura) "red" [whispered in slight terror]
+- (Will) "Stand in the corner and keep your eyes on our 6"
+"..." [pocketing his knife, to slowly pull down the latch on the door]
+"..." [getting ready to open door]
+"MMMMMMGGGHH" [as he struggles to pull open the surprisingly heavy door]
+"Umfff" [as the door gives way, releasing a horribly fowl odor into the small passageway]
+- (Laura) "Awww Jesus Christ!" [as the stench reaches her]
+"..." [struggling to keep from throwing up]
+- (Will) "Hurry and go back to the room where we came in" [struggling to close the door again]
+- (Laura) "What are you going to do?"
+- (Will) "Just go!"
+"I'll be down there in 10 minutes tops"
+#end
+
+...
+
+- (Laura) "Will?" [into the darkness of the corridor]
+"..." [waiting for a reply, but hearing only echoes]
+"red" [almost in a whisper]
+"..." [raising her gun to shoulder-level as she hears foot steps]
+"..." [lowering her gun as she remembers the damage a gunshot will do to her hearing down here]
+"..." [raising her gun again, deciding it's pertinent]
+- (Will) "green" [coming from down the corridor]
+"There are no other exits down here..." [coming into Laura's shivering beam of light]
+- (Laura) "What did you do?"
+- (Will) "Let's talk about that topside" [tired smile]
+
+...
+
+#(dialog)
+- (Laura) "He's dead alright" [re-viewing the 2 minute film Will had recorded of his examination of the decaying corps of Bruno 
+
+
+#end
+
 
 ...
 
