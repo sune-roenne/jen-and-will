@@ -290,14 +290,14 @@ During the first five minutes of the following car ride, neither Will nor Laura 
 "What is it about the house that is creepy to you?"
 "Because to me it most of all looks deserted"
 - (Laura) "I don't know..." [staring at the house, pensive]
-"Maybe it's just that I know what he's done..." [shrugs]
-- (Will) "Technically, we can't be sure that he's done anything..."
+"Maybe it's just that I know what Bruno's done..." [shrugs]
+- (Will) "Technically, we can't be sure that Bruno Munson has done anything..."
 - (Laura) "Yeah, but look at what Inspector Jackson told us:"
 "Lived alone with his mother all his life"
 "social outkast"
 "awkward around girls in school"
 "buys used women's underwear from thrift shops...?"
-"I don't think there is a more direct way to spell raping & murdering freak!"
+"I don't think there is a more direct way to spell raping/murdering freak!"
 - (Will) "For what it's worth: I agree with you!"
 "And he probably IS guilty as all hell..."
 "But I need you to keep an open mind in there"
@@ -315,7 +315,7 @@ During the first five minutes of the following car ride, neither Will nor Laura 
 "..."
 "I don't know what you usually do during B&E's and raids..."
 "but when we are in there, here is what I want you to do..." [while scattering cigarette buds and broken beer bottles around on the back-porch]
-"Stay behind me unless instructed to do otherwise..."
+"Stay behind me unless instructed otherwise..."
 "Keep your gun out, but keep the safety on unless you know there is something in there you want to shoot..."
 "Communicate your intuitive threat assessment to me when it changes, using colors: green, yellow and red"
 "You don't need to be able to justify it..."
@@ -340,7 +340,7 @@ During the first five minutes of the following car ride, neither Will nor Laura 
 "..." [pointing for Laura to take the lead and open the door]
 - (Laura) "..." [taking the lead]
 "..." [listening for a moment in-front of the door before opening it]
-"..." [stepping carefully on each step leading up the dark, narrow passageway to the upstairs floor]
+"..." [stepping carefully on each step leading up the dark, narrow passageway to upstairs]
 "..." [bringing out a flashlight to illuminate the small windowless hallway on the first floor]
 "..." [getting in position in-front of the only door in the hallway and listening for sounds]
 "..." [slowly sliding the door open, to an obviously empty bed-room]
@@ -389,7 +389,7 @@ Back on the back porch, Will is busy doing something on his smartphone.
 "... because who would hide in a shitter" [smiling to himself]
 - (Laura) "..." [opting not to comment, drawing her gun]
 - (Will) "..." [opening the door to the outhouse to indeed find it empty]
-- (Laura) "..." [pocketing her gun and loosening her shoulders]
+- (Laura) "..." [holstering her gun and loosening her shoulders]
 - (Will) "Wait a minute..."
 "Because, according to one map on the internet..."
 "there should be an old WWII bunker around here somewhere..." [going around the outhouse]
@@ -402,15 +402,15 @@ Back on the back porch, Will is busy doing something on his smartphone.
 - (Will) "What?" 
 "And have to look over our shoulders every other second to make sure Inspector Dickhead doesn't shoot us in the back?" [lowering himself into the darkness]
 "I'd rather take my chances with the cadet..."
-"Which reminds: you did great back there in the house!" [directing his words up at Laura]
-- (Laura) "..." [shaking her head as she pockets her gun to follow Will]
+"Which reminds me: you did great back there in the house!" [directing his words up at Laura]
+- (Laura) "..." [shaking her head as she holsters her gun to follow Will]
 - (Will) "..." [turning on the flashlight on his smartphone to illuminate the 5x5 meter room they now find themselves in]
 - (Laura) "..." [looking around the room]
 "yellow"
 - (Will) "..." [nodding]
 "Keep the safety on..."
 "if you have to fire down here, just know that it may be at the expense of your hearing..." [looking sternly back at Laura while putting away his own gun and taking out a hunter's knife]
-"behind me" [low voice, as he heads out the only way out from the room, down a roughly 10x1 meter pitch-black concrete hall]
+"behind me" [low voice, as he heads out of the only way out from the room, down a roughly 10x1 meter pitch-black concrete passageway]
 - (Laura) "..." [following]
 "..."
 "red" [low voice]
@@ -433,9 +433,9 @@ Back on the back porch, Will is busy doing something on his smartphone.
 "Are you all right?" [whispering back at Laura]
 - (Laura) "red" [whispered in slight terror]
 - (Will) "Stand in the corner and keep your eyes on our 6"
-"..." [pocketing his knife, to slowly pull down the latch on the door]
+"..." [holstering his knife, to slowly pull down the latch on the door]
 "..." [getting ready to open door]
-"MMMMMMGGGHH" [as he struggles to pull open the surprisingly heavy door]
+"MMMMMMGGGHH" [as he struggles to pull open the heavy door]
 "Umfff" [as the door gives way, releasing a horribly fowl odor into the small passageway]
 - (Laura) "Awww Jesus Christ!" [as the stench reaches her]
 "..." [struggling to keep from throwing up]
@@ -457,21 +457,138 @@ Back on the back porch, Will is busy doing something on his smartphone.
 "There are no other exits down here..." [coming into Laura's shivering beam of light]
 - (Laura) "What did you do?"
 - (Will) "Let's talk about that topside" [tired smile]
+- (Laura) "Why was it so important for you to go in there alone?" [holstering her gun]
+- (Will) "It wasn't..."
+"I just didn't want you to leave vomit for Inspector Jackson's forensics team" [smiling]
 
 ...
 
 #(dialog)
-- (Laura) "He's dead alright" [re-viewing the 2 minute film Will had recorded of his examination of the decaying corps of Bruno 
-
-
+- (Laura) "He's dead alright" [re-watching the 2 minute recording Will had made of his examination of the decaying corps of Bruno Munson in the bunker's living quarters as they sit on the back porch behind Bruno's house]
+"So, how long would you say he's been dead?"
+- (Will) "About as long as the 2 women..."
+"We're going to have to call this in, and we'll let the local coroner decide..."
+"but let's wait until we leave in the morning"
+- (Laura) "Somebody really wanted Bruno dead, huh...?"
+- (Will) "..." [nodding]
+- (Laura) "20, maybe 30 stab-wounds...?"
+- (Will) "I was thinking around 30 myself"
+"Notice how they are positioned around the torso and head"
+- (Laura) "They are spread out..."
+- (Will) "And not just confined to a single area..."
+"Remind you of anything?"
+- (Laura) "The prostitute killer..." [handing the phone back to Will]
+- (Will) "Summarize what we know and what we think we know"
+- (Laura) "..." [looking at Will]
+"The 2 women were killed by Bruno Munson around 2 months ago..."
+"not long thereafter, the prostitute killer murdered Bruno..."
+"either in the bunker, or he stashed the body there afterwards..."
+"Somebody, possibly our killer, then came back a month later and left the bodies of the 2 women in the forest for an eager dog-walker to find..."
+- (Will) "Go on..."
+- (Laura) "Our killer then used the knife Bruno had used to tie the two murders to the string of prostitute killings..."
+- (Will) "Why?"
+- (Laura) "Deception..."
+"To throw us off course..."
+- (Will) "..." [nodding]
+- (Laura) "But why go through all the trouble?"
+- (Will) "I don't know..."
+"But it sounds like bad news for the 'Sexual Megalomaniac'-theory the psych-brain trust was pushing..."
+"I think sex is just a smoke screen with him..."
+- (Laura) "But they may be onto something about the 'smart-part' though..."
+- (Will) "..." [giving it some thought]
+"maybe" [relenting]
+"... there is a more troubling aspect as I see it though..."
+"How did our killer know about Bruno?"
+- (Laura) "Hmmm..."
+"Some online incel message board?"
+- (Will) "Maybe..."
+"but he would have to be some sweet-talker to pry out the details necessary to identity Bruno..."
+- (Laura) "A local?"
+- (Will) "Hmmm"
+"Not what I was thinking, but it's worth looking into..."
+"I'd like to grab some dinner on the way back to the hotel, and you need to write up your report..." [getting up and walking towards the car]
+- (Laura) "What?!"
+"How am I supposed to write up any of this?"
+"You broke a major rule just about every step of the way..." [getting up to follow Will]
+- (Will) "That's a damned good question!" [continues walking, not turning around while talk]
 #end
 
 
 ...
 
-Will picks up his phone on the second ring.
+Will and Laura manage to meet in the hotel bar at 6:15 the next morning and complete the breakfast ritual without uttering a word to each other, their shared aversion to 'early morning' apparent to the both of them.
+Not before they've been on the road for half an hour, does Laura feel an inclination to re-open the lines of communication.
 
-- (Will) "¡Hola!"
+#(dialog) 
+- (Laura) "Where did you go last night?"
+- (Will) "For a walk" [head leaning against passenger's seat window, eyes closed]
+- (Laura) "Some walk!"
+"You were gone for 4 hours"
+- (Will) "I do great thinking when walking" [still half asleep against window]
+- (Laura) "Why didn't you pick up the phone when I called you?"
+- (Will) "... Oh, it was charging..."
+"and I like to challenge my sense of direction by going 'unchartered' once in a while"
+- (Laura) "You could have called me when you got back"
+- (Will) "..." [sitting up straight and opening his eyes]
+"I was afraid you'd gone to bed" [smiling at Laura]
+"What did you want?"
+- (Laura) "I got to thinking about something last night..."
+"as I was sorting out the events of the day..."
+"the details from the police station were a big blur..."
+"because your..."
+"'conversation'... with Inspector Jackson came as a shock to me..."
+- (Will) "You'll get used to it" [in a 'don't worry about it'-manner]
+- (Laura) "Do you know what it reminded me of?"
+- (Will) "...no..."
+- (Laura) "It reminded me of the prostitute killer..."
+"In the way that he is extreme violence up in your face..."
+- (Will) "Hmmm" [pensive]
+- (Laura) "What if it's all a smoke screen?"
+- (Will) "That is an interesting thought..." [falling deeper into contemplation]
+"Yank the 'gore-crank' to max, and people start to lose focus..."
+"It still takes a special kinda person to carve out someone's reproduction organs, but it's a better explanation for his weird behavior than any other I've heard" [nodding]
+#end
+
+...
+
+- (Will) "Jen" [answering his phone]
+"... Deputy Inspector Adams..." [correcting himself]
+"Hold on a second, I'm going to put you on speaker..."
+- (Jen - over the speaker) "Good morning Cadet Andersson"
+- (Laura) "Good morning Ma'am"
+- (Will) "..." [holding back a laugh]
+- (Jen) "Will, as I was trying to say..."
+"Did you assault Inspector Jackson yesterday?"
+- (Will) "I did no such thing! Did he say that?!" [voice of indignation, face in 'yikes'-expression]
+- (Jen) "Not in so many words..."
+"But he sounded kinda roughed up when he called me last night"
+- (Will) "You are having late-night talks with Inspector Jackson now Jen?" [voice returning to a more monotonous pitch]
+"You can do better than Inspector Jackson!" [still a rather expressionless pitch]
+- (Laura) "..." [suppressing laugh]
+- (Jen) "Alright..."
+"Now that the two of you have had your fun, mind telling me what you were doing walking around out by Njord County Prison last night?"
+- (Will) "I'd rather not" [emotionless]
+- (Jen) "That wasn't really a question Will"
+- (Will) "I..."
+"went for a walk, and..."
+"my phone was low on battery so I left it in the charger, thinking the local landscape didn't seem all that complex..." [a little embarrassed]
+- (Jen) "And you got lost, didn't you?!"
+"Some things never change... " [a little cheerful]
+- (Will) "Yeah, well, maybe we should continue the debriefing at a later stage..."
+- (Jen) "Nevermind, I already read Cadet Anderssons report"
+"It sounds like you did a really good job!"
+"And got a little lucky it seems..."
+"Tell me, what did you do with the dog that lead you to the bunker?"
+- (Will) "We dropped him off at the kennel when we left town"
+- (Laura) "Fuck!" [almost inaudible whisper]
+- (Will) "There wasn't a dog in the report?" [mouthing to Laura]
+- (Laura) "..." [shaking her head dismissively]
+- (Will) "Damn!" [in a whisper]
+- (Jen) "Goodbye Will... Cadet Andersson" [hangs up]
+
+...
+
+- (Will) "¡Hola!" [Will once again on the phone]
 "Medio del semáphoro"
 "Sí..."
 "Creo que tengo algo..." 
@@ -490,7 +607,7 @@ Will is staring out the front window, the events of the last 24 hours still stum
 						  You were the light for me to find my truth
 						  I just wanna say, 'thank you'"
 
-Will's general expression changes for a maximum of 2 seconds, but he knows it was enough Laura to pick up on.
+Will's general expression changes for a maximum of 2 seconds, but he knows it was enough for Laura to pick up on.
 
 #(dialog)
 - (Will) "..." [looking only at Laura's phone as he skips to next, expressionless]

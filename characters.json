@@ -131,8 +131,16 @@
 		"Color": "rgb(0,0,0)",
 		"SiteFont": "Old Standard TT",
 		"Font": "Old Standard TT"
-	}	
-	
+	},
+	{
+		"Character":"bruno",
+		"ShowName": "Bruno Munson",
+		"FullName": "Bruno Munson",
+		"KnownFor": "BDSM Killer",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	}
     ]
 	
 }
