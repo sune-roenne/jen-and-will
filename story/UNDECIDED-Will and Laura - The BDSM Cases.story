@@ -3,7 +3,7 @@ The soldier knew he was in trouble as soon as he came close enough to the camp g
 If he had wanted to escape, he should have done so as soon as he saw the assembly of drunk villagers. Once you saw The Pit, you could be damn sure The Pit had seen you.
 Luck had been on his side lately, but always lingering in the back of his mind had been the realization that it would have to end. Of course it would end in The Pit.
 He hated The Pit.
-It wasn't just the close-quarters aspect of the damn thing, nor the cheap slaps and kidney punches the drunk mob would sneak in once they got into it. They didn't nothing to add to the experience, but more than anything else it was the damn noise of The Pit.
+It wasn't just the close-quarters aspect of it, nor the cheap slaps and kidney punches the drunk mob would sneak in once they got into it. They did nothing to add to the experience, but more than anything else it was the damn NOISE of The Pit.
 The noise always got to him. At a critical stage in the fight, someone would yell something that would yank his attention away from where it needed to be, and that would be it. He'd get caught by a haymaker to the jaw, or get swept or tackled and smash his face into a knee and the rest of the fight would be about saving face, so at least he could say that 'he gave it his all'.
 His opponent looked born and raised in the confines of The Pit.
 Luck had been on his side lately, but luck always runs out he told himself as The Pit opened up to suck him in.
