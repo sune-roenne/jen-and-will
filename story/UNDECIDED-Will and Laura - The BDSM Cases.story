@@ -358,7 +358,7 @@ During the first five minutes of the following car ride, neither Will nor Laura 
 
 ...
 
-Back on the back porch, Will is busy doing something on his smartphone.
+Back out on the back porch, Will is busy doing something on his smartphone.
 #(dialog)
 - (Laura) "So, could you stop shooting birds at pigs for a moment or whatever and listen to me?"
 - (Will) "I'll multitask" [smiling, while only briefly glancing up at Laura]
@@ -398,6 +398,9 @@ Back on the back porch, Will is busy doing something on his smartphone.
 "..." [following the small trail]
 "Well, look at that!" [pushing the wooden 1x1 meter cover aside using his left foot, to uncover an entrance into the cement structure]
 "Someone's made an unlawful entrance into a piece of 1900's German history"
+#end
+
+#(dialog)
 - (Laura) "This is the part where we call for backup, right?" [a little anxious]
 - (Will) "What?" 
 "And have to look over our shoulders every other second to make sure Inspector Dickhead doesn't shoot us in the back?" [lowering himself into the darkness]
