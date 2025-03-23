@@ -367,12 +367,12 @@ Back out on the back porch, Will is busy doing something on his smartphone.
 "It seems like the house has been deserted for a while..."
 - (Will) "Mmmm" [not looking up]
 - (Laura) "The refrigerator is still running, and there's rotten food in it that looks like it's been there for a while..."
-"Wouldn't you almost instinctively turn of the electricity and empty the refrigerator if you knew you'd be gone for a long time?"
+"Wouldn't you almost instinctively turn off the electricity and empty the refrigerator if you knew you'd be gone for a long time?"
 - (Will) "Hmmm..." [looking up at Laura]
 "I might forget about cleaning out the fridge, but I would definitely turn off the electricity..." [nodding]
 "But who knows how homicidal maniacs think?" [shrugs, and looks back at his phone]
 - (Laura) "And then there are the clothes..."
-"He had a pretty full wardrobe up there, and there were both boots and snickers in-front of the living room entrance..."
+"He had a pretty full wardrobe up there, and there were both boots and sneakers in-front of the living room entrance..."
 "He doesn't seem like the kind of guy to have a whole lot of footwear..."
 - (Will) "..." [nodding in agreement]
 - (Laura) "And where did he sleep when the mother was alive?"
@@ -397,7 +397,7 @@ Back out on the back porch, Will is busy doing something on his smartphone.
 "Someone has made a small trail through those bushes..." [pointing 3 meters in-front of him]
 "..." [following the small trail]
 "Well, look at that!" [pushing the wooden 1x1 meter cover aside using his left foot, to uncover an entrance into the cement structure]
-"Someone's made an unlawful entrance into a piece of 1900's German history"
+"Someone's made an unlawful entrance into a piece of 1900's Third Reich history"
 #end
 
 #(dialog)
