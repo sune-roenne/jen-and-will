@@ -48,42 +48,41 @@ Will manages to get into the passengers seat of the car and get comfortable with
 ...
 
 - (Will) "You know..."
-"I once worked with a guy who came into the office one time wearing headphones listening to this song"
+"I once worked with a guy who came into the office one day, listening to this song..."
 "Heard it on repeat for 5 hours straight without saying a word to anyone..."
-"Then left the office blaring the same damn song directly into his cranium"
+"then left the office blaring the same damn song directly into his cranium"
 "5 hours of Bruno Mars!"
-"Can you imagine the type of damaged soul it takes to do something like that?!" [pondering with amazement over his own story]
+"Can you imagine the type of damaged soul it takes to do something like that?!" [pondering with amazement on his own story]
 
 ...
 
 - (Will) "Oh hell yes! This is my shit!"
-"In one single moment your whole life can turn around"
-"I stand there for a minute staring straight into the ground"
+- (Will - singing) "In one single moment your whole life can turn around
+					I stand there for a minute staring straight into the ground
+					...
+					Dry your eyes mate
+					I know you want to make her see how much this pain hurts
+					but you've got to walk away now, it's oooover..." [getting into his groove]
 
 ...
 
-- (Will) "Dry your eyes mate, I know you want to make her see how much this pain hurts" [getting into his groove]
-"but you've got to walk away now, it's oooover..."
-
-...
-
-- (Will) "Tonight, I won't be alone..." [singing]
-"you know it don't mean I'm not lonely..." [grabbing his heart, putting his soul and spirit into it]
-"I've got NOTHING to prove for it's you that I'd die to defend"
+- (Will - singing) "Tonight, I won't be alone...
+					you know it don't mean I'm not lonely... 
+					I've got NOTHING to prove for it's you
+					that I'd die to defend" [grabbing his heart]
 - (Laura) "..." [looking with concern at Will]
 
 
 ...
 
-- (Will) "'CAUSE NOOOOOTHING COMPARES..." [singing]
-"NOTHING COMPARES TO YOOOOOOUUUU" [singing almost aggressively off-key]
+- (Will - singing) "'CAUSE NOOOOOTHING COMPARES... 
+			        NOTHING COMPARES TO YOOOOOOUUUU" [almost aggressively off-key]
 
 ...
 
-#(dialog)
-- (Will) "AND EEEEYEEEE E EEEEYEEEE...." [attempt at singing]
-"WILL ALWAYS LOVE YOUOUOUUUUUU"
-"HMMM HMMM HMMM" [humming along to the lyrics he don't know]
+- (Will - singing) "AND EEEEYEEEE E EEEEYEEEE.... 
+					WILL ALWAYS LOVE YOUOUOUUUUUU
+					HMMM HMMM HMMM" [humming along to the lyrics he don't know]
 - (Laura) "ALRIGHT! THAT'S JUST CHEATING!" [shouts with the power of an hour of pent-up frustration]
 "Could you at least stick to the songs you actually know?!"
 - (Will) "..." [signaling for Laura to wait a moment]
@@ -277,23 +276,23 @@ Will picks up his phone on the second ring.
 - (Will) "¡Hola!"
 "Medio del semáphoro"
 "Sí..."
-"Eché un vistazo al campamento anoche" [lowering his voice slightly, leaning his phone conversation away from Laura]
-"Seguramente, no es una carcel normal"
-"Necesitamos cuatro personas a lo menos"
+"Creo que tengo algo..." 
+"te enviaré las detalles más tarde..."
+"deberías investigar la ubicación"
+"..."
+"Creo que sí"
 "¡Hasta luego!"
 
 ...
 
 Will is staring out the front window, the events of the last 24 hours still stumbling around in his mind like drunk onlookers at a back-alley bare-knuckles fist fight when Macklemore's identifying intro is hurled through the speakers.
 
-#(quote)
-I know you moved onto someone new
-Hope life is beautiful
-You were the light for me to find my truth
-I just wanna say, 'thank you'
-#end
+- (Macklemore - singing) "I know you moved onto someone new
+						  Hope life is beautiful
+						  You were the light for me to find my truth
+						  I just wanna say, 'thank you'"
 
-Will's facial expression doesn't change for more than 2 seconds, but he knows it's enough.
+Will's general expression changes for a maximum of 2 seconds, but he knows it was enough Laura to pick up on.
 
 #(dialog)
 - (Will) "..." [looking only at Laura's phone as he skips to next, expressionless]
