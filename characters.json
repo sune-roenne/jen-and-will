@@ -37,10 +37,29 @@
 		"Font": "Old Standard TT"
 	},
 	{
+		"Character":"sten",
+		"ShowName": "Sten",
+		"FullName": "Sten Navert",
+		"Rank": "Commisioner (former)",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},
+	
+	{
 		"Character":"jen",
 		"ShowName": "Jen",
 		"FullName": "Jennifer Adams",
 		"Rank": "Deputy Inspector",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},
+	{
+		"Character":"rahim",
+		"ShowName": "Rahim",
+		"FullName": "Rahim Ramirez",
+		"Rank": "Commissioner",
 		"Color": "rgb(0,0,0)",
 		"SiteFont": "Old Standard TT",
 		"Font": "Old Standard TT"
