@@ -176,9 +176,9 @@ When Jen awakes in the shadow of the little ruin, she feels lightheaded from mor
 "Local police is arresting anybody with a Northern tint to them and Europol has sent out warnings of major gang-land movements all throughout the region"
 - (Jen) "Alright Mike..."
 "I see my car now, so I'll just head towards the airport"
-- (Mike) "Jen?"
+- (Michael) "Jen?"
 - (Jen) "Yes...?"
-- (Mike) "Be careful"
+- (Michael) "Be careful"
 - (Jen) "Thanks Mike" [tired smile]
 #end
 

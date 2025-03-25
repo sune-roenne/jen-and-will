@@ -557,28 +557,28 @@ Not before they've been on the road for half an hour, does Laura feel an inclina
 - (Will) "Jen" [answering his phone]
 "... Deputy Inspector Adams..." [correcting himself]
 "Hold on a second, I'm going to put you on speaker..."
-- (Jen - over the speaker) "Good morning Cadet Andersson"
+- (Jen - phone) "Good morning Cadet Andersson"
 - (Laura) "Good morning Ma'am"
 - (Will) "..." [holding back a laugh]
-- (Jen) "Will, as I was trying to say..."
+- (Jen - phone) "Will, as I was trying to say..."
 "Did you assault Inspector Jackson yesterday?"
 - (Will) "I did no such thing! Did he say that?!" [voice of indignation, face in 'yikes'-expression]
-- (Jen) "Not in so many words..."
+- (Jen - phone) "Not in so many words..."
 "But he sounded kinda roughed up when he called me last night"
 - (Will) "You are having late-night talks with Inspector Jackson now Jen?" [voice returning to a more monotonous pitch]
 "You can do better than Inspector Jackson!" [still a rather expressionless pitch]
 - (Laura) "..." [suppressing laugh]
-- (Jen) "Alright..."
+- (Jen - phone) "Alright..."
 "Now that the two of you have had your fun, mind telling me what you were doing walking around out by Njord County Prison last night?"
 - (Will) "I'd rather not" [emotionless]
-- (Jen) "That wasn't really a question Will"
+- (Jen - phone) "That wasn't really a question Will"
 - (Will) "I..."
 "went for a walk, and..."
 "my phone was low on battery so I left it in the charger, thinking the local landscape didn't seem all that complex..." [a little embarrassed]
-- (Jen) "And you got lost, didn't you?!"
+- (Jen - phone) "And you got lost, didn't you?!"
 "Some things never change... " [a little cheerful]
 - (Will) "Yeah, well, maybe we should continue the debriefing at a later stage..."
-- (Jen) "Nevermind, I already read Cadet Anderssons report"
+- (Jen - phone) "Nevermind, I already read Cadet Anderssons report"
 "It sounds like you did a really good job!"
 "And got a little lucky it seems..."
 "Tell me, what did you do with the dog that lead you to the bunker?"
@@ -587,11 +587,11 @@ Not before they've been on the road for half an hour, does Laura feel an inclina
 - (Will) "There wasn't a dog in the report?" [mouthing to Laura]
 - (Laura) "..." [shaking her head dismissively]
 - (Will) "Damn!" [in a whisper]
-- (Jen) "Goodbye Will... Cadet Andersson" [hangs up]
+- (Jen - phone) "Goodbye Will... Cadet Andersson" [hangs up]
 
 ...
 
-- (Will) "¡Hola!" [Will once again on the phone]
+- (Will - phone) "¡Hola!" [Will once again on the phone]
 "Medio del semáphoro"
 "Sí..."
 "Creo que tengo algo..." 
@@ -610,7 +610,7 @@ Will is staring out the front window, the events of the last 24 hours still stum
 						  You were the light for me to find my truth
 						  I just wanna say, 'thank you'"
 
-Will's general expression changes for a maximum of 2 seconds, but he knows it was enough for Laura to pick up on.
+Will's general expression changes for a maximum of 2 seconds, but he knows it was enough for Laura to pick up on it.
 
 #(dialog)
 - (Will) "..." [looking only at Laura's phone as he skips to next, expressionless]
