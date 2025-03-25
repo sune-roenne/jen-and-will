@@ -579,7 +579,7 @@ Not before they've been on the road for half an hour, does Laura feel an inclina
 "Some things never change... " [a little cheerful]
 - (Will) "Yeah, well, maybe we should continue the debriefing at a later stage..."
 - (Jen - phone) "Nevermind, I already read Cadet Anderssons report"
-"It sounds like you did a really good job!"
+"It sounds like the two of you did a really good job!"
 "And got a little lucky it seems..."
 "Tell me, what did you do with the dog that lead you to the bunker?"
 - (Will) "We dropped him off at the kennel when we left town"
