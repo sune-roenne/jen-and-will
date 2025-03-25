@@ -346,12 +346,68 @@ As Jen walks into the main office of the Hafnia South East District Police Stati
 ...
 
 #(dialog) 
-- (Laura) "Hell of a way to establish trust in a distrustful environment, isn't it?"
+- (Laura) "Hell of a way to establish trust in a distrustful setup, isn't it?"
 "'Here's 20 million EUR, stop me if you think I cross the line'"
 - (Allan) "I'm not sure I really like the guy, but you gotta hand it to him:"
-"when he takes the stage, he does have a sense of the theatrics!"
+"when he takes the stage, he does have a sense for the theatrics!"
 - (Laura) "..." [nodding in agreement]
 #end
 
+...
 
+#(dialog)
+- (Jen) "Do you think we'll ever get tired of that?"
+- (Michael) "Tired... No"
+"Sore... Yes!"
+- (Jen) "Yeah, I couldn't do another round tonight either" 
+"..." [pensive]
+"Were Bjarke and Sten close?"
+- (Michael) "Hmmm...."
+"I guess they were as close as two people with so vastly different personalities could be..."
+- (Jen) "I was of the impression that they didn't talk much after Sten transferred down south..."
+- (Michael) "Well, they would have had to talk at least for Christmas, right?"
+- (Jen) "..." [turning head to look at Michael]
+- (Michael) "You didn't know their wives are sisters?"
+- (Jen) "No!" [face appending an 'obviously']
+- (Michael) "I guess I only know because Bjarke couldn't hold his liquor"
+- (Jen) "Certainly couldn't hold his tongue when there was liquor involved!"
+"One of several problems pertaining to Bjarke and alcohol..."
+- (Michael) "Sten married the elder of the two..." [hurrying to lead them away from THAT rabbit hole]
+"I think Bjarke's wife is around 5 years younger than her older sister" 
+"... there are two more sisters in the bunch..." [still running]
+- (Jen) "Wow..."
+"Any brothers?"
+- (Michael) "Nope. Four sisters"
+"Bjarke made a great deal about how there were 4 sisters and both his and Sten's wife had given birth to 2 daughters..."
+"No boys..."
+- (Jen) "That IS odd though, isn't it...?"
+- (Michael) "Maybe..."
+"Maybe there were boys and Bjarke just didn't notice..."
+"I could have him pegged as the sorta person who didn't notice that the wife got pregnant and gave still-birth..."
+- (Jen) "Jesus Mike..."
+"That's harsh!"
+"It's true, but harsh..." [smiling]
+- (Michael) "Maybe there is some gene in their family that causes all the boys to be born retarded and get disowned...?"
+- (Jen) "I don't know if that's possible..." [pensive]
+"What about the other 2 sisters?"
+- (Michael) "Well, I don't know about the youngest..."
+"And as for the third in the bunch, you would know better than I would"
+"You know Jenna from CyberSec...?"
+- (Jen) "What?!"
+"She is the last sister?!"
+"I think I have openly mentioned how incredibly stupid Bjarke was to her..." [embarrassed]
+- (Michael) "She probably agreed with you though..." [not worried]
+"Why do you ask about Bjarke and Sten?"
+- (Jen) "It's something Will said..."
+"That Sten founded Los Rocadilleros..."
+- (Michael) "There have been rumors to that effect..."
+- (Jen) "There have been rumors to the effect that Tim paid a stripper 2000 EUR to attend family Christmas and call him Pissy!"
+- (Michael) "A couple of the guys from the old South Precinct Soccer Team have done rotations in Southern Europe..." [hurrying to avoid another conversational rabbit-hole]
+"I can make casual with some of them and try to get a feel for the validity of that claim...?"
+- (Jen) "Would you?"
+- (Michael) "Would it bother you either way?"
+"I mean, whether Will was blatantly lying or not?"
+- (Jen) "I'm not sure..." [pensive]
+"but I think I have a professional obligation to know..." [kisses Michael goodnight]
+#end
 
