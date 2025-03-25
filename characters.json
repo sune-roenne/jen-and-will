@@ -10,6 +10,16 @@
 		"Font": "Old Standard TT"
 	},
 	{
+		"Character":"allan",
+		"ShowName": "Allan",
+		"Rank": "Cadet",
+		"FullName": "Allan Linden"
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},
+	
+	{
 		"Character":"danny",
 		"ShowName": "Danny",
 		"Rank": "Officer",
@@ -59,11 +69,21 @@
 		"Character":"rahim",
 		"ShowName": "Rahim",
 		"FullName": "Rahim Ramirez",
-		"Rank": "Commissioner",
+		"Rank": "Commissioner - GdF (Guardia di Finanza)",
 		"Color": "rgb(0,0,0)",
 		"SiteFont": "Old Standard TT",
 		"Font": "Old Standard TT"
 	},
+	{
+		"Character":"roberto",
+		"ShowName": "Roberto",
+		"FullName": "Roberto Calvano",
+		"Rank": "Inspector - GdF (Guardia di Finanza)",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},
+	
 	{
 		"Character":"will",
 		"ShowName": "Will",
