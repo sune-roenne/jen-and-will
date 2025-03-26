@@ -44,7 +44,7 @@ At 11:00, 8 officers, detectives and cadets are gathered for a short briefing at
 - (Jen) "Look, I know that we aren't exactly lacking in things to do at the moment..." [looking at the room with a tired sincerity]
 "I want you to comply with the standing orders of the Inspector, in a way that doesn't violate your professional integrity..."
 "Do any of you have any work on other assignments keeping you from dedicating time to the case today?"
-- (Jim) "I would like to do another round of questioning of the inhabitants of Woodland Hights..."
+- (Jim) "I would like to do another round of questioning of the inhabitants of Woodland Heights..."
 - (Jen) "Of course, that sounds reasonable..."
 "Please take Cadet Andersson with you..."
 "Come see me before you leave Cadet Andersson"
@@ -92,4 +92,64 @@ At 11:00, 8 officers, detectives and cadets are gathered for a short briefing at
 "Understood?" [staring with barely supressed madness at Laura]
 - (Laura) "Understood" [voice slightly trembling]
 - (Jen) "Be dismissed!" [staring through Laura]
+#end
+
+...
+
+#(dialog)
+- (Bjarki) "Why do you guys refer to Spies Boulevard as 'Heartbreak Boulevard'?"
+- (Danny) "Because my young apprentice, of a little thing called 'TRADITION'" [talking while keeping eyes on road]
+"Not that I would expect someone from the 'snowflake-generation' to understand the concept"
+"..." [not noticing Bjarki's angry stare until he glances over at him, wondering why he has gone all quiet]
+- (Bjarki) "Is that a fucking racial crack?!" [staring at Danny with murderous intent, nostrils flaring]
+- (Danny) "Ooooohhhh shiiiiit" [taking both hands off the wheel to rub them in gleeful excitement]
+"This is going to be sooo good!"
+"Alright, let me just park this bad boy, and I'll tell you all about it!"
+"You finna be LIT!"
+#end
+
+...
+
+#(dialog) 
+- (Danny) "Alright, back in the mid 1980's when prostitution and heroin abuse decided it had grown out of little old Rønne Allé..." [while walking down Spies Boulevard towards aforementioned Rønne Allé]
+"and tried to steal third base by flooding into this here mighty Boulevard..."
+"the Boulevard was an archipelago of small businesses, brokerage firms and investment banking offices for all the major banks in the region..."
+- (Bjarki) "You need water to have an archipelago!"
+- (Danny) "You would know wouldn't you Island-boy...?!"
+- (Bjarki) "FUCK YOU!"
+- (Danny) "..." [once again rubbing his hands in pure, uncut excitement]
+"As I was saying, an archipelago ripe for a good old infection of clap and substance abuse..."
+"You had the investment bankers doing power-snort coke races up and down the boulevard..."
+"the miserable saps who lost everything they owned in the care of said investment bankers drowning their sorrow in the trough of the white horse..."
+"and the ever-gleeful hookers raking in a good ol' fuckton o' money by peddling STD's between all of them..."
+"Everyone thinking the world of themselves, and very little of the world"
+"A day without expansive mob-fights threatening to hurricanize and blow down the entire city or someone being bludgeoned to death on open street or any of the other deviant shit the Boulevard regularly had on offer, was considered an ill omen of some real serious shit to come"
+"Heartbreak Boulevard was the place where marriages died and dreams were shattered into pieces with bolt re-enforced baseball bats"
+- (Bjarki) "Jesus fucking Christ!" [in awe of Danny's story]
+"How did something so beautiful turn into THIS?!" [gesturing with his hand at the gentrified boulevard and it's surroundings]
+- (Danny) "Preaching to the choir brother!" [sad nod of the head]
+#end 
+
+...
+
+#(dialog)
+- (Danny) "Oh shit, I almost forgot the best part!" [stopping 10 meters before their destination with the clear intent of telling Bjarki the best part]
+"So, sometime around the late 80's/early 90's or whatever..."
+"A bunch of these miserable hippie-imitation middle class losers, communists, thespians or whatever the hell.."
+- (Bjarki) "..." [only briefly annoyed by Danny's use of words he clearly doesn't know the meaning of]
+- (Danny) "Take to the street's in protest of some political bullshit..."
+"or they're mommy's running out of skim-milk or whatever the fuck..."
+"and they are causing a hell of a ruckus, so of course the riot police is detached..."
+"which back then meant everyone taken off regular patrol for 'infringement on the bodily sovereignty of the city's citizens'..." [clearly opposed to any restriction formulated using words like 'infringement']
+"I mean, all the real violent psychos on the force and whoever they may have been hammering moonshine and snorting amphetamine with on that particular night..."
+"And it's clear as all hell from the get-go that this is going to be a real banger of a party..."
+"And right before the sergeant in charge of the riot police gives the order to unleash hell on the filthy dissidents..."
+"One of these small local TV stations catches the sergeant barging out his famous 'Heartbreak Boulevard' speech onto the horde of violent psychopaths of the riot police..."
+"Which, if I may say so, is a God-damned waste of some real fine video footage, because the regular viewers of said local TV station were all out on the street some 40 meters away..."
+"getting ready to have their skulls hammered in by the baton's of the fine men of our police force..."
+"But luckily, the clip was picked up by one of the national stations and broadcast across the country..."
+"Inspiring a whole generation of young men with anger-management issues to come to our nations great capitol in the hopes that one day they too would find themselves bashing hippie skulls on 'Heartbreak Boulevard'"
+- (Bjarki) "..." [staring at Danny in amazement]
+"I really like your stories Officer Danny..." [looking really serious]
+"They make me sentimental for a time I have never known!" [a cloud of sadness drifting across his face]
 #end

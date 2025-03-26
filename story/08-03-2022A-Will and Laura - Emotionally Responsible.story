@@ -1,3 +1,11 @@
+#(quote)[Cold War Memoirs|Tipping Point]
+Walking alone through the Siberian waste land allotted the soldier ample time to shift his focus away from the seemingly repeating surroundings.
+It gave him time to shift his concentration from the 3 dimensions of space towards the concept of time, and how the world moves through it. How all of his campaigns seemed to have a structure ingrained in time to them, in much the same way placement of anti-air gun's and machine gun towers have a structure in space.
+It gave him time to think about how a campaign changed in energy and expression over time.
+More than anything, the soldier thought about how he himself changed along the axis of time when engaged in a campaign. Not in any lasting sense, like the soldiers who had returned from World War II and taken to wipe away with alcohol the images of fallen friends and dead civilians. It was his blessing and his curse that he was exempt from any lasting change brought on by the war. But somewhere along time he and how he related to the campaign changed. If he wanted to, he could end his campaign now before it had really gotten underway. It might not sit well with high command, but on a personal level, he could do it. He knew there would a point, where he would no longer be able to stop even if he was ordered to do so. There would be a point where every step he took only increased his resolve to take another, and this time, he would see if he could pinpoint the moment when he changed.  
+Walking alone through the Siberian waste land, the soldier reminded himself to catch the tipping point. 
+#end
+
 
 #(dialog)
 - (Laura) "So, how are you getting on after your breakup with the Deputy Inspector?"
@@ -83,13 +91,13 @@
 
 ...
 
-Will picks up the cell phone on the first ring.
+Will picks up his cell phone on the first ring.
 
-- (Will) "¡Hola!"
+- (Will - phone) "¡Hola!"
 "Un momento"
 "How do you say 'corn' in Spanish?" [looking at Laura]
 - (Laura) "I don't know"
-- (Will) "Hmmm... Fresa o maíz"
+- (Will - phone) "Hmmm... Fresa o maíz"
 "..." [listening for reply from other end]
 "De la Iglesia Virgen del Valle al Ayuntamiento"
 "... más o menos"
