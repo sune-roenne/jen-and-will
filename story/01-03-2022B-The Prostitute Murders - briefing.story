@@ -138,7 +138,7 @@ At 11:00, 8 officers, detectives and cadets are gathered for a short briefing at
 "A bunch of these miserable hippie-imitation middle class losers, communists, thespians or whatever the hell.."
 - (Bjarki) "..." [only briefly annoyed by Danny's use of words he clearly doesn't know the meaning of]
 - (Danny) "Take to the street's in protest of some political bullshit..."
-"or they're mommy's running out of skim-milk or whatever the fuck..."
+"or their mommy running out of skim-milk..."
 "and they are causing a hell of a ruckus, so of course the riot police is detached..."
 "which back then meant everyone taken off regular patrol for 'infringement on the bodily sovereignty of the city's citizens'..." [clearly opposed to any restriction formulated using words like 'infringement']
 "I mean, all the real violent psychos on the force and whoever they may have been hammering moonshine and snorting amphetamine with on that particular night..."
