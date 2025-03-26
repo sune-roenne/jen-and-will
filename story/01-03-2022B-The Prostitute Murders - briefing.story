@@ -151,5 +151,5 @@ At 11:00, 8 officers, detectives and cadets are gathered for a short briefing at
 "Inspiring a whole generation of young men with anger-management issues to come to our nations great capitol in the hopes that one day they too would find themselves bashing hippie skulls on 'Heartbreak Boulevard'"
 - (Bjarki) "..." [staring at Danny in amazement]
 "I really like your stories Officer Danny..." [looking really serious]
-"They make me sentimental for a time I have never known!" [a cloud of sadness drifting across his face]
+"They give me melancholia for a time I have never known!" [a cloud of sadness drifting across his face]
 #end
