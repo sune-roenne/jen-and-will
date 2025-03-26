@@ -125,7 +125,7 @@ At 11:00, 8 officers, detectives and cadets are gathered for a short briefing at
 "Everyone thinking the world of themselves, and very little of the world"
 "A day without expansive mob-fights threatening to hurricanize and blow down the entire city or someone being bludgeoned to death on open street or any of the other deviant shit the Boulevard regularly had on offer, was considered an ill omen of some real serious shit to come"
 "Heartbreak Boulevard was the place where marriages died and dreams were shattered into pieces with bolt re-enforced baseball bats"
-- (Bjarki) "Jesus fucking Christ!" [in awe of Danny's story]
+- (Bjarki) "Jesus fucking Christ!"
 "How did something so beautiful turn into THIS?!" [gesturing with his hand at the gentrified boulevard and it's surroundings]
 - (Danny) "Preaching to the choir brother!" [sad nod of the head]
 #end 
