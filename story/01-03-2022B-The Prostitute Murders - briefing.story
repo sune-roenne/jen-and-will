@@ -26,7 +26,7 @@ At 11:00, 8 officers, detectives and cadets are gathered for a short briefing at
 "presumably with a butcher's knife, similarly to how it was done on the other 2 victims"
 - (Everyone else in the room) "..." [mumbles of 'Jesus Christ', 'Oh Man!' and the likes]
 "The one fact about the murders we have been careful to keep out of the press"
-- (Danny) "No matter how many he does like this, I'll never understand it..." [in a whisper to cadets Bjarni and Björki Gunnarson]
+- (Danny) "No matter how many he does like this, I'll never understand it..." [in a whisper to cadets Bjarki and Björki Gunnarson]
 "... I mean, that's like the most important par..."
 - (Jen) "OFFICER DUALE!"
 "Would you like to share your insights with the entire class?"
@@ -153,3 +153,72 @@ At 11:00, 8 officers, detectives and cadets are gathered for a short briefing at
 "I really like your stories Officer Danny..." [looking really serious]
 "They give me melancholia for a time I have never known!" [a cloud of sadness drifting across his face]
 #end
+
+...
+
+- (Receptionist) "NO OFFICERS!" [as Danny and Bjarki throw open the doors to Harold's House of Harpies for a grand entrance]
+"The days of the cop-freebies are long gone!"
+- (Danny) "What you think woman?! I gotta pay for it?!"
+- (Bjarki) "Beautiful women pay me to have sex with them" [utilizing only the bare minimum of facial muscles it takes to get the words across in a low, monotonous voice]
+"I have been destroying pussies since I used to throw stray kittens against the wall as a child" [waiting for a brief look of horror and disgust to roll over the poor woman's face before sending her a faint wink]
+- (Danny) "Now where the fuck is the old fatass at yo?!"
+- (Receptionist) "He isn't in"
+- (Danny) "Right, right..." [continuing past the receptionist and heading for the stairs to the upstairs office and employee lounge]
+
+...
+
+- (Bjarki) "How you wanna play this?" [low voice as they stand outside Harold's office]
+"Hang-Non Napalm Massacre?"
+- (Danny) "Yeah..." [nodding]
+"Great idea..." [excitement growing across his face]
+"Oooh... Let's play the race card!"
+- (Bjarki) "You ALWAYS play the race card!" [accusingly]
+- (Danny) "I don't always play the race card!"
+- (Bjarki) "You played the race card less than 30 minutes ago!"
+- (Danny) "Well... It's an evergreen!"
+"You can't fuck with the classics boy!"
+- (Bjarki) "Fucking evergreens man..."
+"Alright, we'll play the race card..."
+"But I'M playing it then!"
+- (Danny) "Oooohh... I can't wait to see this" [excited, gesturing for Bjarki to go right ahead and get the show on the road]
+- (Bjarki) "..." [opening the door to the office and stepping in]
+"MISTER HAROLD!"
+"HOW EXCITED WE ARE TO FIND YOU HERE SIR!"
+- (Harold) "..." [more than a little taken aback by the sudden entrance of two uniformed police officers]
+- (Bjarki) "AND YOU MISS...?"
+"What may we call you?" [struggling to make eye-contact with the young woman]
+"NO, NO..."
+"You don't have to get up..."
+"We're just here to chat with Mr. Harold..."
+"You can finish what you were doing..."
+"... or not..." [as the woman decides she was done doing what she was doing and runs out of the room]
+"AAAHHH THE YOUTH!" [directed at Harold about a woman who is at most 2 years his junior]
+"always running off to go somewhere..." 
+- (Harold) "..." [flustered]
+- (Bjarki) "Excuse me Sir, would you mind pointing your erection somewhere else?"
+"Frankly, I find it a little offensive to those of not who are not penis-inclined..."
+- (Harold) "..." [pulling his pants up and struggling to regain composure]
+"Would you mind telling me just what the fuck you are doing barging in like that?" [attempt at looking angry]
+- (Bjarki) "WHAT??!"
+"Barging??!"
+"Is that a racial remark?"
+"Like that's what incredibly pale people always do...?"
+"They barge?!"
+- (Harold) "WHAT?"
+- (Bjarki) "I'm terribly sorry Sir, but I find your lack of racial sensitivity extremely offensive"
+- (Harold) "I don't know what the fuck you are talking about!"
+- (Bjarki) "TALKING ABOUT???!"
+"TALKING ABOUT???!"
+"WHAT THE FUCK IS WRONG WITH YOU!" [getting himself worked up]
+"WE'RE JUST PLAYING ALL THE NASTY STEREOTYPES TODAY AREN'T WE SIR?!"
+"'LOOK AT THOSE STUPID ISLAND-BOYS... YAP, YAP,  MOTHERFUCKING YAP...'"
+"'ALL THE FUCKING DAY!!!"
+"YOU SIR, ARE A RASCIST!"
+- (Harold) "What the hell, man?" [looking at Danny]
+"You wanna introduce this kid to reality?!"
+- (Bjarki) "WHAT??!" [now shouting]
+"YOU'RE LOOKING TO THIS PRIME SPECIMENT OF THE HUMAN RACE TO GET YOUR IN-SENSITIVE, RASCIST ASS OUT OF TROUBLE..."
+"BECAUSE HE'S BLACK??!" [shouting in disbelief]
+- (Danny) "Now you fucking did it!" [shaking his head]
+- (Bjarki) "You Sir, need sensitivity training!"
+"..." [quickly cocking his body back and initiating a 'shot put'-like cross punch that dives to become a gut punch last minute]
