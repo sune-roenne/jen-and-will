@@ -208,7 +208,7 @@ At 11:00, 8 officers, detectives and cadets are gathered for a short briefing at
 - (Bjarki) "I'm terribly sorry Sir, but I find your lack of racial sensitivity extremely offensive"
 - (Harold) "I don't know what the fuck you are talking about!"
 - (Bjarki) "TALKING ABOUT???!"
-"TALKING ABOUT???!"
+"TALKING ABOUT???!"z
 "WHAT THE FUCK IS WRONG WITH YOU!" [getting himself worked up]
 "WE'RE JUST PLAYING ALL THE NASTY STEREOTYPES TODAY AREN'T WE SIR?!"
 "'LOOK AT THOSE STUPID ISLAND-BOYS... YAP, YAP,  MOTHERFUCKING YAP...'"
