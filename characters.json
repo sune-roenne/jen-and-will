@@ -179,7 +179,18 @@
 		"Color": "rgb(0,0,0)",
 		"SiteFont": "Old Standard TT",
 		"Font": "Old Standard TT"
-	}
+	},
+	{
+		"Character":"tommy",
+		"ShowName": "Tommy Schoznick",
+		"FullName": "Tommy Schoznick",
+		"KnownFor": "BDSM Killer",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	}	
     ]
 	
 }
+
+
