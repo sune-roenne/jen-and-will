@@ -1,4 +1,4 @@
-Will is laying flat on his stomach keeping out of the sun, in one of the ruins left over from the time of the Moors on the mountain-side overlooking the Southern European police capital: Torre Hayiz, when he hears what sounds like a semi-automatic gun being cocked only a couple of meters behind him. 
+Will is lying flat on his stomach keeping out of the sun, in one of the ruins left over from the time of the Moors on the mountain-side overlooking the Southern European police capital: Torre Hayiz, when he hears what sounds like a semi-automatic gun being cocked only a couple of meters behind him. 
 
 - (Jen) "10-count to secure the rifle, remove ammunition and put it 1m to the right side of you" [authoritative, expressionless voice]
 "1, 2, 3, 4 ..."

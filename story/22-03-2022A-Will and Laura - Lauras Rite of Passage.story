@@ -1,12 +1,8 @@
-#(quote)[Cold War Memoirs|The Pit]
-The soldier knew he was in trouble as soon as he came close enough to the camp grounds to see the forty or so people there grouped into a tight circle. The Pit.
-If he had wanted to escape, he should have done so as soon as he saw the assembly of drunk villagers. Once you saw The Pit, you could be damn sure The Pit had seen you.
-Luck had been on his side lately, but always lingering in the back of his mind had been the realization that it would have to end. Of course it would end in The Pit.
-He hated The Pit.
-It wasn't just the close-quarters aspect of it, nor the cheap slaps and kidney punches the drunk mob would sneak in once they got into it. They did nothing to add to the experience, but more than anything else it was the damn NOISE of The Pit.
-The noise always got to him. At a critical stage in the fight, someone would yell something that would yank his attention away from where it needed to be, and that would be it. He'd get caught by a haymaker to the jaw, or get swept or tackled and smash his face into a knee and the rest of the fight would be about saving face, so at least he could say that 'he gave it his all'.
-His opponent looked born and raised in the confines of The Pit.
-Luck had been on his side lately, but luck always runs out he told himself as The Pit opened up to suck him in.
+#(quote)[Cold War Memoirs|Committed]
+It was while walking through the still smoldering remains of yet another wasteland village claimed by the war between different insurgent groups and paramilitary units loyal to the central regime, the soldier realized that he had missed The Tipping Point. 
+The realization came to him as he watched a family of 4 huddling to keep warm around a fire made from burning rubber tires. During the beginning of a campaign, such sights would fill him with a set of diverging thoughts and emotions, but now, he accepted it as a necessary background on the stage that was gradually materializing in the distant horizon, for the campaigns final act .
+On the 'before-side' of The Tipping Point he would let himself believe that the cold and fatigue he was feeling, would evaporate once his resolve switched him into auto-pilot from the fact that he couldn't remember having felt these during the final stages of his previous campaigns. He now realized, that they were always there, even when he had gone onto 'full committal'. He just didn't pay much attention to them.
+Walking, gaze fixed against the horizon, the soldier wondered what other changes to his mental processing he had previously gotten wrong.
 #end
 
 ...
