@@ -207,7 +207,7 @@ As Jen walks into the main office of the Hafnia South East District Police Stati
 "..." [signaling for the room to quiet down]
 "I know many of you know Will personally, but this case has now reached a level where it's being discussed behind closed doors in the parliament"
 "The suspect is to be considered armed and dangerous..."
-"Ff any of you obtain any leads on his whereabouts, request backup and await orders!"
+"If you obtain any leads on his whereabouts, request backup and await orders!"
 "Early forensics on the body of Roberto Calvano suggests that Detective Tetens fixed him to a chair..."
 "secured plastic strips on every joint of the victim's fingers and toes..."
 "proceeded to cut off 15 joints on the helpless man one by one..."
