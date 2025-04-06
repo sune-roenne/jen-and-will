@@ -40,7 +40,7 @@ At 11:00, 8 officers, detectives and cadets are gathered for a short briefing at
 - (Jen) "Would you please refrain from using profane language?" [tired look]
 - (Danny) "What? Will?"
 - (Jen) "The decision of who the Europol will assign to the case, lies entirely with their daily operations manager..." [taking the high road and opting to ignore Danny's comment]
-- (Danny) "#1 Detictive Will Tetens, ladies and gentlemen" [dispersing a whisper across the room while barely being able to hold back his excitement]
+- (Danny) "#1 Detective Will Tetens, ladies and gentlemen" [dispersing a whisper across the room while barely being able to hold back his excitement]
 - (Jen) "Look, I know that we aren't exactly lacking in things to do at the moment..." [looking at the room with a tired sincerity]
 "I want you to comply with the standing orders of the Inspector, in a way that doesn't violate your professional integrity..."
 "Do any of you have any work on other assignments keeping you from dedicating time to the case today?"
@@ -243,7 +243,7 @@ At 11:00, 8 officers, detectives and cadets are gathered for a short briefing at
 ...
 
 #(dialog)
-- (Bjarki) "I think we handled that rather professionally" [leaving Harold's office, using tissue to wipe off blood from his hands]
+- (Bjarki) "I think we handled that rather professionally" [leaving Harold's office, using a tissue to wipe off blood from his hands]
 - (Danny) "I should certainly think so!" [strong conviction]
 #end
 
@@ -264,9 +264,46 @@ At 11:00, 8 officers, detectives and cadets are gathered for a short briefing at
 "and that I always work off the hours I charge..." [look of 'think you can handle that?']
 - (Woman) "That sounds good..." [smiling, takes Bjarki's business card]
 "but don't make other plans then, 'cause I'll probably need your services for about 5 hours" [turns around and walks away]
+- (Bjarki) "Ma'am" [tipping his hat to the woman before turning around and walking away]
 
 ...
 
 - (Danny) "Did the attractive prostitute in there just contract you for 5 hours of... cat-punishment?!" [face of pure disbelief]
 - (Bjarki) "It would appear so" [slight smile, continues walking, not meeting Danny's eyes]
+
+...
+
+#(dialog)
+- (Jen) "Did you learn anything at Harold's?"
+- (Danny) "Not really..."
+"Karina had been with Harold's for a little short of a year..."
+"after having done mostly escort services on an on- and off-basis in-between boyfriends and nursing"
+"Last year, she finally decided that there was more money to be had in prostitution than nursing and that the customers smelled better..."
+"her words, according to Harold" [shrugs]
+"She was well-liked among the other girls, and had a group of about 10 regular Johns she tended to more-or-less on schedule..."
+"She never had first encounters outside of Harold's, and only did 'deliveries' for the regulars"
+"Her last customer of the night yesterday was with a Fillip Hansen, 51"
+"works as an accountant or some such job" [defensively signaling with his hands that Jen can't possibly expect to keep track of the 'boring professions'"]
+- (Jen) "Have you talked to him?"
+- (Danny) "No, but I can do that..." [face expressing 'I CAN do it, but MUST I?']
+"..." [waiting for Jen to interrupt with 'no, don't bother']
+"... but I think it may call for a more delicate approach..."
+- (Jen) "Agreed! Take other twin" [smiling]
+"Did you learn of anyone who might have wanted to do her harm?"
+- (Danny) "Not according to Harold"
+"And I believe him..."
+"he seemed pretty committed to telling us the truth" [hoping his expression doesn't betray his knowledge of why Harold had been 'committed to telling the truth']
+- (Jen) "Drug problems?"
+- (Danny) "Well..."
+"According to Harold, she liked to party..."
+"but nothing more serious than habitual cocaine-use on the weekends"
+- (Jen) "Any crazy ex-boyfriends?"
+- (Danny) "Nope... By her own testament, she 'was going to burn out the remainder of her 20s and settle down with a rich IT-nerd and foster offspring sometime in her 30s'"
+- (Jen) "Ah, the dream life..." [sufficiently expressionless to not reveal to Danny her actual assessment of Karina's life-strategy]
+"How did Bjarki do...?"
+- (Danny) "He... exceeded any and all expectations" [nodding in awe]
+"He is a very talented young man!"
+- (Jen) "I'm glad you think so"
+#end
+
 

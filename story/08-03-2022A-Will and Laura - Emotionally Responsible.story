@@ -116,125 +116,124 @@ Will picks up his cell phone on the first ring.
 
 ...
 
-#section(Shrapnel - Our First Dance)
+#section(Shrapnel - When we came close)
 
 #(dialog)
-- (Jen) "What are you supposed to be?"
-- (Will) "I guess that depends on who you ask..."
-  "According to my father I was supposed to be an accountant"
-  "and according to my mother I was supposed to be a father"
-- (Jen) "Tough luck! 0 for 2 then"
-- (Will) "They'll be alright. The smart money's always been on my brother and I'm sure they realized that a long time ago" [shrugs]
-- (Jen) "I was referring to your costume though... or lack thereof...!"
-- (Will) "..." [staring at Jen in disbelief]
-- (Jen) "What? Why are you looking at me like that?"
-- (Will) "Is this a test?" [squints eyes]
-- (Jen) "...?" [puzzled]
-- (Will) "..." [leaning in to whisper in her ear]
-  "Did they set you up to see if I would blow my cover to you?" [whispering]
-- (Jen) "What... are... you... talking... about...?!" [mouthing]
-- (Will) "You really don't know?" [leaning back from Jen]
-  "With your straight A record I would have thought you'd be the first they'd ask"
-  "..." [leaning into Jen conspiratorially]
-  "I was approached by Deputy Inspector Bjarke Hansen this afternoon..." [whispering]
-  "THEY..." [pointing upwards]
-  "believe that evil actors have infiltrated the Academy, with the goal of selling illicit substances and counterfeit lederhosen"
-  "in an attempt to discredit our Great Police Corps"
-- (Jen) "NO!" [whispering, exaggerated worry]
-   "Not lederhosen!"
-- (Will) "Indeed..."
-  "My mission is to vibe slightly-retarded-cadet-who-forgot-to-bring-Halloween-costume to lure out the wrongdoers in our midst"
-  "So we can rid ourselves of this evil once and for all"
-- (Jen) "So you are like a secret agent?" [wide eyes]
-- (Will) "Yes" [gesturing for Jen to lower her voice]
-- (Jen) "Cooool"
-  "Do you know how to dance mr. double O slightly-retarded-cadet?"
-- (Will) "..." [seemingly pondering the question, eyes ping-ponging from side to side]
-  "Yes... I dance" [confident]
-- (Jen) "Shall we then?" [extending her arm]
-- (Will) "We shall" [taking her hand]
+- (Will) "I'm driving!"
+- (Jen) "Like hell you are!" [going for the driver's seat]
+- (Will) "Wait... What?!"
+  "I'M DRIVING!"
+- (Jen) "You are not driving! I've seen you drive and Danny said you nearly fell asleep behind the wheel the other day!" [getting into the driver's seat]
+- (Will) "..." [staring at the air left behind by Jen, hand on doorhandle of passenger side, baffled]
 #end
 
 ...
 
 #(dialog)
-- (Jen) "OH MY GOD! YOU SAID YOU KNEW HOW TO DANCE!!" 
-- (Will) "Yeah... about that..." [a little uncomfortable]
-- (Jen) "Yes...?!"
-- (Will) 
-  "..." [not knowing how to start]
-  "Alright..."
-  "I've got to tell you something..." [pulling a pack of cigarettes out of his pocket]
-  "I haven't been completely honest with you..." [offering Jen a cigarette]
-- (Jen) "I sort of figured as much" [taking a cigarette]
-- (Will) "Actually... I have outright lied" [lighting his cigarette]
+- (Jen) "Are you scowling?!"
+- (Will) "No!"
+- (Jen) "Then what the hell's the matter with you?"
+- (Will) "..."
+  "I should be driving!"
+- (Jen) "Because you're the man?"
+- (Will) "..."
+  "Well... yeah"
+- (Jen) "That's bullshit! You are a terrible driver!"
+- (Will) "..."
+  "I'm going to be taking a lot of shit from the other's for this!"
+- (Jen) "I thought you didn't care what they think...?!"
+- (Will) "Yeah... well..."
+#end
+
+...
+
+#(dialog)
+- (Will) "Alright... I'm through being angry with you"
+  "Shotgun DJs!" [sliding CD into radio]
+- (Jen) "What?!" [as corny Swedish 1980's glam rock starts blaring through the speakers]
+  "What the hell are you doing?!"
+- (Will) "It's Heartbreak Boulevard!" [shouting, rocking head to music]
+  "AND THAT'S WHERE WE'RE GOING!"
+  "TRADITION BABY!" [throwing mad devil-fingers in the air]
+- (Jen) "TURN IT THE FUCK OFF, NOW!" [at the top of her lungs]
+- (Will) "Jesus... chill woman..."
+  "What the hell's gotten into you?!" [turning off the radio]
+- (Jen) "CHILL WOMAN?!"
+   "We are driving an official police vehicle en route to an official police assignment!"
+- (Will) "And what?! We can't hear music while driving our official police vehicle?"
+- (Jen) "NO!"
+- (Will) "WHY?!"
+- (Jen) "...!" [staring at Will, shaking her head]
+- (Will) "What?"
+#end
+
+...
+
+#(dialog)
+- (Jen) "We need to talk"
+- (Will) "What?"
+- (Jen) "This..."
+  "This isn't working for me..."
+- (Will) "..." [staring at Jen, surprisingly perplexed]
   "..."
-  "I don't know how to dance!" [extending the lit lighter to Jen]
-- (Jen) "Which was pretty evident to everyone in there" [lighting her cigarette]
-  "But why did you say you knew how to dance when you've obviously never seen a beat, much less grooved to one?"
-- (Will) "The thing is... I sort of liked talking to you"
-  "and I was afraid if I told you the truth, you'd find someone else to dance with and then I wouldn't be talking to you"
-  "so..."
-  "In a sense, I didn't have a choice..."
-  "and you miss 100% of the chances you don't take, and maybe I would get lucky and nail dancing on my first attempt... Who knows?"
-- (Jen) "Yeah... you didn't nail dancing"
-- (Will) "..." [shrugs while taking a puff off his cigarette]
-- (Jen) "And what about your secret mission?"
-- (Will) "What about it?"
-- (Jen) "Was that also a lie?"
-- (Will) "NO!"
-  "Who would lie about something like that?"
-- (Jen) "So you mean to tell me there really are evil agents employed by the underbelly of society in there, working to lure us into moral decay with drugs and lederhosen?"
-- (Will) "I'm afraid so..."
-  "and I bet they'd just love to get their filthy hands on the Pride of the Police Academy..."
-  "Actually... I'd be surprised if you aren't at the top of their list!"
-- (Jen) "I don't know how I feel about that!" [exaggerated worry]
-- (Will) "Yes... I understand" [eyes staring off in the distant]
+  "Oh" [expression-gauge yanked down to despair]
+  "Alright..." [taking his eyes of Jen, leaning back in seat]
+- (Jen) "Look... I'm just not cut out for something like this..."
+  "We're together in the evenings, in the mornings... and now doing assignments together on top of it...?"
+- (Will) "You don't have to explain"
+- (Jen) "No, I do"
+  "I don't want you to be angry with me"
+- (Will) "I'm not" [not looking at Jen, expressionless]
+- (Jen) "It's got nothing to do with..."
+- (Will) "Jen, it's fine! You don't owe me anything!"
+  "The street's coming up, so can we just focus on carrying out our official police assignment?" [said in a sufficiently monotonous tone to make Jen unsure if the latter part was meant as an insult]
+- (Jen) "OK" [turning attention back on the road in resignation] 
+#end
+
+...
+
+#(dialog)
+- (Jen) "..." [about to say something]
+- (Will) "..." [staring deadpan out the window]
+- (Jen) "That was pretty sweet what you did back there"
+- (Will) "Thank you" [still looking out the window, expression not changing]
+- (Jen) "..."
+- (Will) "I had a friend growing up, whose parents were alcoholics" [relenting]
+  "He said the day his father got hauled in was the day he stopped being a 'father', and became just another unreasonable adult in his eyes"
   "..."
-  "You know what?" [looking at Jen, BRIGHT IDEA written across his face]
-  "I have access to a safe house not far from here where the bad guys won't be able to find you"
-- (Jen) "Gosh!" [looking thankfully at Will]
+  "And it wasn't that hard to accommodate for the little guy" [shrugging]
+- (Jen) "How did you even know they had a child in there?"
+- (Will) "The woman's stretch-marks was an indicator, and they didn't seem like the target-demographic for Teenage Mutant Ninja Turtles" [looking out the window, expressionless]
+- (Jen) "It was really sweet" [looking at Will, smiling]
+- (Will) "Yeah, well...." [shrugging]
+#end
+
+...
+
+#(dialog)
+- (Jen) "..." [pulling car into supermarket parking lot]
+- (Will) "What are you doing?"
+- (Jen) "I need to have a talk with you!"
+- (Will) "Jesus! It's alright Jen! You don't have to explain your reasons to me or whatever! You are free to break up with me, but I'm not going to have a fucking tea-party about it!"
+- (Jen) "Yeah, well, no!"
+  "You're wrong..."
+  "Or... you're not wrong!"
+  "I was going to break up with you, but I'm not sure I want to anymore"
+  "Will..." [turning in seat to face Will]
+  "I try to do things in their proper way and order... by the book..."
+  "and you are just so UNPROPER... and NOT BY THE BOOK"
+  "like ALL THE TIME"
+  "but I get a sense you're also more than that, and I think I might have been on the brink of missing out on something I need..."
   "..."
-  "Wait a minute..."
-  "Are you trying to lure me back to your apartment so you can attempt to persuade me into engaging in indecent activities with you?"
-- (Will) "...?" [looking bewildered]
-  "..."
-  "Oh! You're talking about sex!"
-  "I hadn't even considered that!"
-  "Yeah... I can see how that might look to you"
-  "..."
-  "Alright... look" [lighting another cigarette]
-  "I don't know a whole lot about this secret agent business I have selflessly gotten myself involved in..."
-  "and to be honest: I've never made it all the way through one of those double O movies..."
-  "but I can't imagine that James Bond would save a beautiful young damsel in distress just to toss her head-first into the abyss of 'indecent activities'...?"
-- (Jen) "No... that does sound kinda far-fetched now that you mention it..."
-  "No, you're right... James Bond wouldn't do that!"
-- (Will) "..." [nodding in agreement]
-- (Jen) "But would you?" [squaring off in front of Will, staring at him accusingly]
-- (Will) "Hmmm..." [lowering his cigarette so both hands are hanging by his sides]
-  "I hadn't even thought about sex or any other 'indecent activities' until you brought it up..." [squinting his eyes]
-- (Jen) "Is that so?!" 
-  "Are you thinking about it now?" [leaning forward towards Will in challenge]
-- (Will) "Let me see" [closes his eyes while taking a step back hitting back-against-the-wall]
-  "... nope" [opens his eyes, shaking his head]
-- (Jen) "Alright..." [taking a step towards Will]
-  "and how about now?" [kisses Will]
-- (Will) "Hmmm..." [closes eyes]
-  "..." 
-  "I'm not sure... A whole group of thoughts just speeded across my mind" [opens eyes]
-  "Try again..."
-  "I'll concentrate..." [closes eyes]
-- (Jen) "..." [kisses Will with greater intensity]
-- (Will) "Hmmm" [eyes remain closed]
-  "I think we might be in trouble if you do that!"
-- (Jen) "I can tell" [confirming Will's assertion with her right hand]
-- (Will) "Hmmm... That right there is definitely going to get us in trouble!"
-- (Jen) "Yeess..."
-  "Maybe we should rehearse this before going to the safe-house so we don't get into any precarious...positions!"
-- (Will) "Safety first!"
-- (Jen) "Do you think the lederhosen crowd can get to us in the administration building?" [launching another mouth-first assault on Will]
-- (Will) "..." [joining the battle for oral superiority]
-  "IMPOSSIBLE!"
-- (Jen) "Hmmmm... And what about right here?" [pulling Will's shirt over his head]
-- (Will) "Looks totally safe!" [lost in Jen's eyes, lips engaged in trench warfare]
+- (Will) "Look... I really like you Jen, and I know I'm a pain in the ass sometimes..." [turning to face Jen]
+  "and it's not that I want to be..." [turning back to looking out the window]
+  "I just get filled with this energy and I can't control it and I know I should just shut up but instead I find myself saying something stupid or retarded"
+  "but I do try not to!" [looking at Jen]
+  "I don't want to lose you, but I don't want to be with you if you don't feel the same way and..."
+- (Jen) "Will..." [pushing her hand against his thigh] 
+  "Let's stay away from doing assignments together, but let's keep the mornings and the evenings..."
+  "I actually really like those..."
+  "OK?" [smiling]
+- (Will) "... I can work with that" [smiling]
+  "... and Danny's got a much better taste in music than you, so I was gonna ditch you on the assignment-part anyways" [briefly glancing at Jen with a smile, looking back out the window]
 #end
