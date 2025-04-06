@@ -2,7 +2,7 @@ At 8:50 in the morning, a small group of fellow officers are gathered around Off
 
 - (Danny) "... and then the fucking guy just dead-ass looks at her and drops a line on her about smashing kittens and killing pussies"
 - (Everyone in unison) "Oh fucking hell!" [in disbelief]
-- (Björki) "That's my brother for you" [hands going 'what can I say?']
+- (Bjorki) "That's my brother for you" [hands going 'what can I say?']
 - (Danny) "and I swear: I could actually see the soul of the poor woman leaving her for a second"
 "He goes on to do a full-on rave-stomp on every inch of the fat fucks intestines..."
 "I'm getting tired from watching him stomp around on the guys ribs, but he doesn't break a sweat..."
@@ -21,7 +21,7 @@ At 8:50 in the morning, a small group of fellow officers are gathered around Off
 - (Bjarki) "AAAAARRRGHHH!" [apparently gripped by intense pain from the touch of Danny's arm]
 "Rope burns" [still in pain as he leaves the assembly again, seemingly a little embarrassed]
 - (Everybody) "..." [mouthing 'what the fuck?']
-- (Björki) "..." [expressing 'I'm as clueless as you guys']
+- (Bjorki) "..." [expressing 'I'm as clueless as you guys']
 - (Jen) "Alright everybody!" [while closing the door she has just entered through]
 "Please take a seat" [addressing the entire room]
 "Are you alright Bjarki?" [a little concerned]

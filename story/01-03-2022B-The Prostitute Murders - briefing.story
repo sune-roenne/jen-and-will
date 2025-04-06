@@ -26,7 +26,7 @@ At 11:00, 8 officers, detectives and cadets are gathered for a short briefing at
 "presumably with a butcher's knife, similarly to how it was done on the other 2 victims"
 - (Everyone else in the room) "..." [mumbles of 'Jesus Christ', 'Oh Man!' and the likes]
 "The one fact about the murders we have been careful to keep out of the press"
-- (Danny) "No matter how many he does like this, I'll never understand it..." [in a whisper to cadets Bjarki and Björki Gunnarson]
+- (Danny) "No matter how many he does like this, I'll never understand it..." [in a whisper to cadets Bjarki and Bjorki Gunnarson]
 "... I mean, that's like the most important par..."
 - (Jen) "OFFICER DUALE!"
 "Would you like to share your insights with the entire class?"
@@ -50,15 +50,15 @@ At 11:00, 8 officers, detectives and cadets are gathered for a short briefing at
 "Come see me before you leave Cadet Andersson"
 - (Danny) "Oh shiit... You in trouble now!" [whispering to Laura, drawing out he word 'shit' for maximum effect]
 - (Jen) "Officer Duale"
-"Please take either Bjarki or Björki... you decide..."
+"Please take either Bjarki or Bjorki... you decide..."
 - (Danny) "Eeny, meeny, miny, moe..." [ping-ponging his trigger-finger between the two twins]
 "I choose violence!"
 - (Jen) "Good! Bjarki, please follow Officer Duale to interview the crowd at Harold's Harpies and establish the whereabouts of the victim in the hours prior to her death"
 "Any questions?"
 - (Danny and Bjarki) "..." [shaking heads dismissively]
 - (Jen) "Then you are dismissed"
-"Michael and Björki..."
-- (Björki) "Yes Ma'am"
+"Michael and Bjorki..."
+- (Bjorki) "Yes Ma'am"
 - (Jen) "..." [a little taken aback, clearly not expecting nor appreciating being called 'maam']
 "Please talk to family and friends of the deceased..."
 "I want to make sure we're not just dealing with a crazy ex-boyfriend who has somehow gotten word of the details of the other murders"

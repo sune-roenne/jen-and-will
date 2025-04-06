@@ -121,9 +121,9 @@
 		"Font": "Old Standard TT"
 	},			
 	{
-		"Character":"björki",
-		"ShowName": "Björki",
-		"FullName": "Björki Gunnarson",
+		"Character":"bjorki",
+		"ShowName": "Bjorki",
+		"FullName": "Bjorki Gunnarson",
 		"Rank": "Cadet",
 		"Color": "rgb(0,0,0)",
 		"SiteFont": "Old Standard TT",
