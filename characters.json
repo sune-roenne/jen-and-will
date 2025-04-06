@@ -4,7 +4,7 @@
 		"Character":"laura",
 		"ShowName": "Laura",
 		"Rank": "Cadet",
-		"FullName": "Laura Andersson"
+		"FullName": "Laura Andersson",
 		"Color": "rgb(0,0,0)",
 		"SiteFont": "Old Standard TT",
 		"Font": "Old Standard TT"
@@ -13,7 +13,7 @@
 		"Character":"allan",
 		"ShowName": "Allan",
 		"Rank": "Cadet",
-		"FullName": "Allan Linden"
+		"FullName": "Allan Linden",
 		"Color": "rgb(0,0,0)",
 		"SiteFont": "Old Standard TT",
 		"Font": "Old Standard TT"
@@ -23,7 +23,7 @@
 		"Character":"danny",
 		"ShowName": "Danny",
 		"Rank": "Officer",
-		"FullName": "Danny Duale"
+		"FullName": "Danny Duale",
 		"Color": "rgb(0,0,0)",
 		"SiteFont": "Old Standard TT",
 		"Font": "Old Standard TT"
@@ -188,7 +188,16 @@
 		"Color": "rgb(0,0,0)",
 		"SiteFont": "Old Standard TT",
 		"Font": "Old Standard TT"
-	}	
+	},
+	{
+		"Character":"luna",
+		"ShowName": "Luna ",
+		"FullName": "Luna Blome",
+		"KnownFor": "Youngest of the Blome Sisters",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	}		
     ]
 	
 }

@@ -116,7 +116,7 @@ Will picks up his cell phone on the first ring.
 
 ...
 
-#section(Shrapnel - Our First Night)
+#section(Shrapnel - Our First Dance)
 
 #(dialog)
 - (Jen) "What are you supposed to be?"

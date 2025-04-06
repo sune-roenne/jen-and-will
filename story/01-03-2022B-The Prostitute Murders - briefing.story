@@ -159,9 +159,9 @@ At 11:00, 8 officers, detectives and cadets are gathered for a short briefing at
 - (Receptionist) "NO OFFICERS!" [as Danny and Bjarki throw open the doors to Harold's House of Harpies for a grand entrance]
 "The days of the cop-freebies are long gone!"
 - (Danny) "What you think woman?! I gotta pay for it?!"
-- (Bjarki) "Beautiful women pay me to have sex with them" [utilizing only the bare minimum of facial muscles it takes to get the words across in a low, monotonous voice]
+- (Bjarki) "Beautiful women pay me to have sex with them" [utilizing only the bare minimum of facial muscles required to get the words across in a low, monotonous voice]
 "I have been destroying pussies since I used to throw stray kittens against the wall as a child" [waiting for a brief look of horror and disgust to roll over the poor woman's face before sending her a faint wink]
-- (Danny) "Now where the fuck is the old fatass at yo?!"
+- (Danny) "Now where the fuck is the old fatass at?!"
 - (Receptionist) "He isn't in"
 - (Danny) "Right, right..." [continuing past the receptionist and heading for the stairs to the upstairs office and employee lounge]
 
@@ -176,11 +176,10 @@ At 11:00, 8 officers, detectives and cadets are gathered for a short briefing at
 - (Danny) "I don't always play the race card!"
 - (Bjarki) "You played the race card less than 30 minutes ago!"
 - (Danny) "Well... It's an evergreen!"
-"You can't fuck with the classics boy!"
 - (Bjarki) "Fucking evergreens man..."
 "Alright, we'll play the race card..."
-"But I'M playing it then!"
-- (Danny) "Oooohh... I can't wait to see this" [excited, gesturing for Bjarki to go right ahead and get the show on the road]
+"But I'm playing it then!"
+- (Danny) "Oooohh... I can't wait to see this" [excited, gesturing for Bjarki to go right ahead and get this show on the road]
 - (Bjarki) "..." [opening the door to the office and stepping in]
 "MISTER HAROLD!"
 "HOW EXCITED WE ARE TO FIND YOU HERE SIR!"
@@ -196,7 +195,7 @@ At 11:00, 8 officers, detectives and cadets are gathered for a short briefing at
 "always running off to go somewhere..." 
 - (Harold) "..." [flustered]
 - (Bjarki) "Excuse me Sir, would you mind pointing your erection somewhere else?"
-"Frankly, I find it a little offensive to those of not who are not penis-inclined..."
+"Frankly, I find it a little offensive to those of us who are not penis-inclined..."
 - (Harold) "..." [pulling his pants up and struggling to regain composure]
 "Would you mind telling me just what the fuck you are doing barging in like that?" [attempt at looking angry]
 - (Bjarki) "WHAT??!"
@@ -206,19 +205,68 @@ At 11:00, 8 officers, detectives and cadets are gathered for a short briefing at
 "They barge?!"
 - (Harold) "WHAT?"
 - (Bjarki) "I'm terribly sorry Sir, but I find your lack of racial sensitivity extremely offensive"
-- (Harold) "I don't know what the fuck you are talking about!"
+- (Harold) "I don't know what you are talking about!"
 - (Bjarki) "TALKING ABOUT???!"
-"TALKING ABOUT???!"z
-"WHAT THE FUCK IS WRONG WITH YOU!" [getting himself worked up]
+"TALKING ABOUT???!"
+"WHAT IS WRONG WITH YOU SIR?!" [getting himself worked up]
 "WE'RE JUST PLAYING ALL THE NASTY STEREOTYPES TODAY AREN'T WE SIR?!"
 "'LOOK AT THOSE STUPID ISLAND-BOYS... YAP, YAP,  MOTHERFUCKING YAP...'"
 "'ALL THE FUCKING DAY!!!"
+"excuse my French"
 "YOU SIR, ARE A RASCIST!"
 - (Harold) "What the hell, man?" [looking at Danny]
-"You wanna introduce this kid to reality?!"
-- (Bjarki) "WHAT??!" [now shouting]
-"YOU'RE LOOKING TO THIS PRIME SPECIMENT OF THE HUMAN RACE TO GET YOUR IN-SENSITIVE, RASCIST ASS OUT OF TROUBLE..."
-"BECAUSE HE'S BLACK??!" [shouting in disbelief]
-- (Danny) "Now you fucking did it!" [shaking his head]
-- (Bjarki) "You Sir, need sensitivity training!"
-"..." [quickly cocking his body back and initiating a 'shot put'-like cross punch that dives to become a gut punch last minute]
+- (Bjarki) "HELL?!"
+"Oh, so now we are moving into the land of religious persecution, are we now, Sir?"
+- (Harold) "What...?!"
+- (Bjarki) "Do you give any thought to the countless descendents of the victims of the inqusitions when you barf out your religious verdicts on the rest of us?" [look of 'would you at least tell me that much?!']
+- (Harold) "What is this gibberish?"
+- (Bjarki) "GIBBERISH?!"
+"TO A BLACK MAN?!"
+- (Danny) "Oh, you did it now fat ass!" [shaking his head ]
+- (Bjarki) "You Sir, need sensitivity training!" [as he sends off a full-force blow to Harold's solar plexus]
+
+...
+
+- (Bjarki) "I think we need to take this insensitive asshole down to the station for a prolonged sensitivity-session" [as he provokes another howl from the man on the floor by way of soccer-goalie kickoff to the kidney]
+- (Danny) "Arrhh... I don't know man..." [stomping Harold's other kidney]
+"our sensitivity program is over-booked these days as it is ..."
+"Tell you what..." [directed at Bjarki]
+"If he doesn't give within the next 5 minutes, I'll let you take him in for a high-voltage session..."
+"Deal?"
+- (Bjarki) "..." [nodding, seemingly pondering the suggestion]
+- (Harold) "GIVE ON WHAT?!" [turning around on the floor to face them, tears and snot dripping from all sides of his face]
+- (Danny and Bjarki) "THE DEAD HOOKER!"
+- (Bjarki) "What the fuck do you think we are talking about?!"
+- (Harold) "YOU NEVER TOLD ME!" [propping himself up on one elbow]
+- (Bjarki) "We never got the chance before you started spewing your hateful prejudices and pointing your erection at us!" [kicking Harold's now exposed ribs]
+
+...
+
+#(dialog)
+- (Bjarki) "I think we handled that rather professionally" [leaving Harold's office, using tissue to wipe off blood from his hands]
+- (Danny) "I should certainly think so!" [strong conviction]
+#end
+
+...
+
+- (Woman) "Excuse me officer?"
+- (Danny) "... yes ma'am?"
+- (Woman) "The other one" [curteous smile]
+- (Bjarki) "..." [pointing at himself, mouthing 'me?']
+- (Danny) "He's not an officer yet..."
+- (Woman) "..." [smiling at Danny]
+"I'm looking for someone to help me out with a feline problem"
+- (Bjarki) "Well, that would be me then..." [professional smile, approaches the woman]
+"..." [takes out a business-card from his coat pocket but pauses]
+"..." [doing a skeptic twice-over of the woman like a mechanic inspecting a Renault Twizy on its way to compete in the Dakar Rally]
+"You should know though..." [while slowly extending the business card to the woman]
+"that I charge a minimum of 2 hours..."
+"and that I always work off the hours I charge..." [look of 'think you can handle that?']
+- (Woman) "That sounds good..." [smiling, takes Bjarki's business card]
+"but don't make other plans then, 'cause I'll probably need your services for about 5 hours" [turns around and walks away]
+
+...
+
+- (Danny) "Did the attractive prostitute in there just contract you for 5 hours of... cat-punishment?!" [face of pure disbelief]
+- (Bjarki) "It would appear so" [slight smile, continues walking, not meeting Danny's eyes]
+
