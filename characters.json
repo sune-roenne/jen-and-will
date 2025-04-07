@@ -197,7 +197,17 @@
 		"Color": "rgb(0,0,0)",
 		"SiteFont": "Old Standard TT",
 		"Font": "Old Standard TT"
-	}		
+	},
+	
+	{
+		"Character":"susan",
+		"ShowName": "Susan",
+		"FullName": "Susan Kamper",
+		"Rank": "Officer",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	}	
     ]
 	
 }
