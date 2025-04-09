@@ -154,6 +154,8 @@ A group of officers and cadets is assembled around Officer Danny Duale in the ma
 - (Jen) "Jim Halbeck" [interrupting Will]
 - (Will) "Is he still on the sauce?"
 - (Jen) "I think so...!" [tired]
+"Here..." [slapping the bundle of papers she had arranged into Will's chest]
+"You can read up on the case on the way there..." [heading for the door]
 #end
 
 ...
