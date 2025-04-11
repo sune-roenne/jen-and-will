@@ -68,26 +68,29 @@ At 8:50 in the morning, a small group of fellow officers are gathered around Off
 - (Danny) "..." [throws his 'Hallelujah hands' at the Lord]
 - (Danny - singing) "His name is Will
                      Will Tetens
-					 Say it with me and praise the Lord
-					 Will Tetens" [to a jazzy beat that Officer Danny is probably the only person who can really hear]
+					 Say it with me and praise the Lord"
+- (Danny) "Will Tetens" [to a jazzy beat that no-one but Officer Danny hear]
 - (Bjarki) "WILL TETENS!" [jumping up from his seat cushion, one defiant closed fist in the air]
- "Awwww" [as shards of pain catches up to him from various places around his body]
-- (Jen) "Yes..." [looking a little tired considering the fact that the day has just started]
+ "Aaaarggghhh" [as fragments of pain discharged from various places around his body catches up to him ]
+- (Jen) "Yes..." [looking a little tired considering the time of day]
 "Detective Will Tetens..."
-- (Danny) "..." [grooving along to the same jazzy beat upon Jen saying Will's name]
+- (Danny) "..." [continuing his jazzy groove upon Jen saying Will's name]
 - (Jen) "Whom many of you already know..."
 "and those of you who don't..."
 "you will...!" [tired smile]
 
 ...
 
-A group of officers and cadets is assembled around Officer Danny Duale in the main office of the station when the door slides open. The motion is subtle and quiet, almost as if the door didn't want to draw unnecessary to itself, but it's not subtle and quiet enough to avoid the ever-attentive Officer Duale.
+A group of officers and cadets is assembled around Officer Danny Duale in the main office of the station when the door slides open. The motion is subtle and quiet, almost as if the door didn't want to draw unnecessary attention, but it's not subtle and quiet enough to avoid the ever-attentive eyes of Officer Duale.
 
 - (Danny - singing) "You won't take this from me baby!
-					 YOU WIL NOT TAKE THIS FROM ME BABIIII!" [gettin' his crib walk on]
-- (Danny - singing) "My niggas - some niggas that really do or die
-                     my niggas - will have you cowards ready to cry" [holding the imaginary mic out to Will for him to riff off the refrain]					 
-- (Will) "I'm not fucking doing it man!"
+					 YOU WIL NOT TAKE THIS FROM ME BABIIII!" 
+- (Danny) "..." [gettin' his crib walk on]
+- (Danny - singing) "My niggas - some niggas that you don't wanna try
+					 my niggas - some niggas that really do or die
+                     my niggas - will have you cowards ready to cry" 
+- (Danny) ".." [holding the imaginary mic for Will to riff off the refrain]					 
+- (Will) "I'm not fucking doing it man!" [defensive stance]
 - (Danny) "Come om brother, I dun' gave you an N-card" [body still groovin' to the beat that isn't there]
 - (Will) "Yeah, and if I ever get in the habit of playing said card, my distracted ass will accidentally pull it out while doing frisk searches in gang-land..."
 "Forget about it!"
@@ -96,26 +99,26 @@ A group of officers and cadets is assembled around Officer Danny Duale in the ma
 - (Danny) "When did you get in?" [putting Will back on the ground]
 - (Will) "Plane touched down around 9:00..."
 "Only just swung by my hotel for check-in and headed over here" [smiling]
-- (Danny) "It.. is... good... to... have... you... back..."
+- (Danny) "It.. is... good... to... have... you... back..." [probably laid out atop 'Danny's secret beat']
 - (Will) "..." [smiling]
-- (Danny) "Well, we'll have to skip the introductions, because we are heading out..."
-"We just stuck around to have first look of the Prodigal Son"
+- (Danny) "Well, we'll have to skip the introductions, because we are heading out..." [turning around to head out of the door]
+"We just stuck around to have first look of the Prodigal Son" [volume monotonically increasing as a function of his distance to Will]
 "So we don't have time to hear all of your Will-stories..."
-- (Will) "It's always you telling Will-stories..." [skeptical]
-- (Danny) "It's because they are better when I tell them..." [turning around to head out of the door]
+- (Will) "It's always you telling Will-stories..."
+- (Danny) "It's because they are better when I tell them..." [shouting]
 - (Will) "You can say that again" [half-muttering]
-- (Danny) "Deputy Inspector Jennifer Adams wants to see you!" [articulating Jen's name and title with emphasis, grooving towards the door]
+- (Danny) "Deputy Inspector Jennifer Adams wants to see you!" [articulating Jen's name and title with emphasis, groovin' on]
 
 ...
 
 #(dialog)
 - (Will) "..." [knocks on the door to Jen's office]
 - (Jen) "Come in!"
-- (Will) "A big black dude just told me to report to this office" [sticking his head through the partially opened door]
-"He seemed a little threatening, so I did not dare defy him" [putting on his best 'tourist who got mugged straight off the big-city bus'-look]
+- (Will) "A big black man just told me to report to this office" [sticking his head through the partially opened door]
+"He seemed a little threatening, so I didn't want to disobey him" [putting on his best 'tourist who got mugged straight off the big-city bus'-look]
 - (Jen) "Yeah..." [not looking up from the paper work in-front of her]
 "We've had reports to that effect recently..."
-"but we simply don't have the resources to investigate, so I'm afraid you'll just have to write it off as a multi-cultural life-lesson"
+"but we simply don't have the resources to investigate, so I'm afraid you'll just have to chalk it up to bad luck and consider it a well-deserved life-lesson of life in the city"
 "Hello Will..." [looking up at Will with a tired smile]
 "Come in" 
 - (Will) "..." [entering the room and taking a seat on the chair in-front of Jen]
@@ -127,36 +130,61 @@ A group of officers and cadets is assembled around Officer Danny Duale in the ma
 - (Will) "Thank you" [hugging Jen back]
 - (Jen) "How are you?" [as she releases the hug]
 - (Will) "I'm good"
-"I'd ask you the same, but I have a feeling what the answer will be..." [slight smile]
+"I'd ask you the same, but I have a feeling what the answer might be..." [slight smile]
 - (Jen) "Busy!" [acknowledging]
 - (Will) "The prostitute murders?"
 - (Jen) "There is that..."
-"On top of all the other shit floating around atop of the bowl that is the South East District Police Station..." [tired]
-"And that we should probably be 2 administrative personnel and 2 actively working administrative officers working on..."
-"but, you know..." [throwing her hands up in resignation to the discussion of why she even bothers that she doesn't intend to have]
+"On top of all the other shit floating around atop the bowl we call 'South East District Police Station'..." [tired]
+"and that we should probably be 2 administrative personnel and 2 ACTIVE administrative officers working on..."
+"but, you know..." [throwing her hands up in resignation to the discussion of why she even bothers, that she in no way intends to have]
 - (Will) "Well..."
 "I'd offer to help, but you know..."
 "It would be breach of protocol for me to have access to the local paperwork" [defensively holding out his hands in-front of himself]
 - (Jen) "Yeah..."
-"I know how big you are on following protocol..." [in a tone that suggests they cut the bull-shit before it turns into an argument]
+"I know how big you are on following protocol..." [in a tone that suggests they cut the bull-shit]
 - (Will) "Will you introduce me to the case?" [catching Jen's drift]
-- (Jen) "No... Inspector Hansen wants to personally have the honors" [slight roll of the eyes]
+- (Jen) "No... Inspector Hansen wants to personally have the honors" [holding back frustration]
 "Unfortunately, the Inspector has a doctors appointment today, so you'll have to wait until tomorrow..."
 - (Will) "Hmm... Unfortunate"
 - (Jen) "Yeah..."
 - (Will) "..." [turning around and heading for the door]
 - (Jen) "But..."
-"Since you are here, you could escort me on another case in the Woodland Heights...?"
+"Since you are here, you could come with me on a case in the Woodland Heights...?"
 - (Will) "I didn't know you still took on cases...?" [turning around again]
 - (Jen) "I don't..."
 "And I really don't have time for this, but I don't agree with the conclusions of the investigating officer..."
 - (Will) "Who is the..."
 - (Jen) "Jim Halbeck" [interrupting Will]
 - (Will) "Is he still on the sauce?"
-- (Jen) "I think so...!" [tired]
+- (Jen) "I don't know...!" [tired]
 "Here..." [slapping the bundle of papers she had arranged into Will's chest]
 "You can read up on the case on the way there..." [heading for the door]
 #end
+
+... 
+
+#(dialog)
+- (Will) "Nina Noerregaard, 20, studying to become dental hygienist..." [reading through the case files]
+"found murdered in a shelter morning of Monday the 28th of February..."
+"2 construction workers coming into work called it in at 06:13..."
+"body shows sign of sexual assault, assumed forced penetration..."
+"no semen or other DNA found on body..."
+"JESUS!"
+"somebody really did a number on the poor girl, didn't they?!" [studying the autopsy photo in-front of him]
+- (Jen) "I'd say!" [not taking her eyes off the road]
+- (Will) "Signs of blunt force trauma, possibly inflicted post-mortem with a sledgehammer...?!"
+"2 different axes used...?!"
+"Did she piss off the National Forester Association?!"
+- (Jen) "She testified in a case against her ex-boyfriend..."
+"full member of an Aarss-chapter of La Raza Mundial in September of last year..."
+"which is why she moved her studies here..."
+"She was offered protective custody, but didn't believe her life to be in danger"
+- (Will) "Bad call...!"
+- (Jen) "We have found nothing to tie her death to the local chapter of La Raza Mundial, and her ex-boyfriend is currently serving time..."
+"rumored to have shortly flirted with changing his colors for a Helldivers uniform..."
+"before leaving the gang-life behind for a chance through "
+#end
+
 
 ...
 
