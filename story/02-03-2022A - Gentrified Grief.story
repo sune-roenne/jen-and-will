@@ -165,28 +165,155 @@ A group of officers and cadets is assembled around Officer Danny Duale in the ma
 
 #(dialog)
 - (Will) "Nina Noerregaard, 20, studying to become dental hygienist..." [reading through the case files]
-"found murdered in a shelter morning of Monday the 28th of February..."
+"found murdered in a shelter, morning of Monday the 28th of February..."
 "2 construction workers coming into work called it in at 06:13..."
 "body shows sign of sexual assault, assumed forced penetration..."
 "no semen or other DNA found on body..."
 "JESUS!"
 "somebody really did a number on the poor girl, didn't they?!" [studying the autopsy photo in-front of him]
 - (Jen) "I'd say!" [not taking her eyes off the road]
-- (Will) "Signs of blunt force trauma, possibly inflicted post-mortem with a sledgehammer...?!"
+- (Will) "Cause of death: strangulation..."
+"signs of blunt force trauma, possibly inflicted post-mortem with a sledgehammer...?!"
 "2 different axes used...?!"
 "Did she piss off the National Forester Association?!"
 - (Jen) "She testified in a case against her ex-boyfriend..."
-"full member of an Aarss-chapter of La Raza Mundial in September of last year..."
+"member of an Aarss-chapter of La Raza Mundial in September of last year..."
 "which is why she moved her studies here..."
-"She was offered protective custody, but didn't believe her life to be in danger"
+"She was offered protective custody, but didn't believe her life to be in any serious danger"
 - (Will) "Bad call...!"
 - (Jen) "We have found nothing to tie her death to the local chapter of La Raza Mundial, and her ex-boyfriend is currently serving time..."
 "rumored to have shortly flirted with changing his colors for a Helldivers uniform..."
-"before leaving the gang-life behind for a chance through "
+"before leaving the gang-life completely by means of the public exit-plan"
+- (Will) "Kids! Where's 'loyalty' nowadays...?"
+"How about the Helldivers?"
+"If I'm not mistaken, their local fortress is located less than 2 km from Woodland Heights"
+- (Jen) "Jim went out there yesterday..."
+"Nothing"
+"Furthermore, interviews with residents reveal no noticeable Helldiver presence in the area"
+- (Will) "Hmm..."
+"Any known local gangs?"
+- (Jen) "Yes and no..."
+"The area is still being developed, with less than 25% of apartments inhabited..."
+"The nearby metro station is a 5 minute walk from Woodland Heights and all major faculties of the university are within 5 stops away, so the apartments are marketed as ideal for parental purchase for the upper middle-class..."
+- (Will) "Guess the 'suit n' tie'-boys need a little more time to organize their criminal activities..." [while continuing his browsing through the case files]
+"but there have been reports of 'blatant drug-dealing' in the area...?"
+- (Jen) "Yes..."
+"During his round interviews, Jim received 4 separate reports of 'mobile drug distribution'..."
+"kids, ages 12-14, riding around on bikes, selling anything from prescription pain-killers to meth amphetamine and low-quality cocaine..."
+- (Will) "They actually said 'low-quality cocaine'?!" [incredulously]
+- (Jen) "Probably son of a CEO hotshot who knows we can't touch him anyways..."
+- (Will) "Or son of a cop?" [suggestive]
+- (Jen) "Maybe" [shrugs]
+"It's right up here..." [pointing out front window, then opens the driver's seat door]
 #end
 
+...
+
+#(dialog) 
+- (Will) "Not a whole lot of blood, huh?" [standing in the middle of a BBQ shelter, looking down at the spot he had seen depicted on the crime-scene photos not 5 minutes earlier] 
+- (Jen) "Nope" [looking down at the same spot]
+- (Will) "Has the place been cleaned?"
+- (Jen) "Besides from taking away the body: not that I know of"
+- (Will) "Terribly open site for a sacrificial slaughter, wouldn't you say?"
+- (Jen) "Yep"
+- (Will) "And nobody saw the murder?"
+- (Jen) "Nope..."
+"But this part of the area has only just come out of construction..."
+"and is so far uninhabited"
+- (Will) "When do the apartments come up for sale?"
+- (Jen) "On Friday"
+- (Will) "Convenient"
+"Look at this..." [squatting over in examination]
+"There are small blood marks on the tiles here..."
+- (Jen) "Over here as well..." [squatting over herself, roughly 2 meters from Will]
+- (Will) "Exercising the imagination a bit, this might be the result of putting down a bloody ax"
+- (Jen) "This one as well..." [erecting herself]
+"I don't see any signs made by the sledgehammer..." [scanning the area]
+- (Will) "Me neither" [also getting up]
+"Hypothesis?"
+- (Jen) "At least 2 killers, positioned on either side of her body, swinging their axes..." [simulating swinging an ax down on an already dead girl]
+- (Will) "But probably 3..."
+- (Jen) "With the person wielding the sledgehammer up by her head..."
+"Consistent with the autopsy report"
+- (Will) "I'll buy it..."
+"Sledgehammer-Man must be in better shape than the other two, seeing as he didn't feel the same need for taking breaks..."
+- (Jen) "Or more experiences...?"
+- (Will) "That could be..." [in agreement]
+#end
 
 ...
+
+#(dialog)
+- (Jen) "Could these be tracks from a stroller or the likes?" [bending down on the grass outside of the hut]
+- (Will) "Definitely"
+"Let's see where they take us!"
+#end
+
+...
+
+#(dialog) 
+- (Will) "... and the esteemed Detective Halbeck has made no mention of this place?"
+- (Jen) "Since when was Jim Halbeck ever esteemed?"
+"... and no!"
+- (Will) "Remind me again: is mental retardation still a criminal offense in this part of Europe?"
+- (Jen) "We usually find something else to book them on" [slight smile]
+"I'll have forensics sample the sweater for DNA"
+- (Will) "Yes..." [nodding his head, deep in thought]
+"So, she is raped and killed in this deserted area of the park..."
+"and then the body is rolled roughly 1200 meters in a stroller-like transport..."
+"into the newly constructed part of Woodland Heights...?"
+- (Jen) "Looks that way" [nodding in agreement]
+- (Will) "Alright, I think I know where you want me on this one..."
+"and I think I follow your line of reasoning..."
+"but you call it"
+- (Jen) "The murder was done on orders..."
+"Most likely by members of either the Helldivers or La Raza Mundial"
+- (Will) "Because, how many people out there have the stomach for this type of rape and murder...?"
+- (Jen) "The perpetrators grabbed her coming home through the park, on the most deserted part of her walk home..."
+"Raped her..."
+"or committed some other act that would spell out 'RAPE' during autopsy"
+- (Will) "'Make it look like rape!'" [in character of some kind of crime-lord]
+- (Jen) "Then topped off the defilement in the middle of upper middle-class YA haven"
+- (Will) "'Make it shout for attention'" [still wearing mob-boss persona]
+"Hmm..."
+"It's speculative, but there's a certain harmony to it"
+"Play on!"
+- (Jen) "Somebody's about to make a large investment in the real estate market, and is hoping for a considerable premium..."
+- (Will) "'You can't expect us to pay asking price on this place... look at all the low-grade drugs and dead women scattered around out here!'" [in character of person making an offer to buy real estate]
+- (Jen) "Jim's conclusion is, that this was done by the 'Prostitute-killer'"
+- (Will) "This is my face of 'not surprised'" [staring at the torn-apart sweater on the grass]
+"Guy's a fucking loser!"
+- (Jen) "Of course, this was after he was 100% convinced Monday night, that it had been the work of 'the drug-crazed youth'"
+- (Will) "Looking for entertainment in-between sucking down whole cans of nitrous oxide no doubt" 
+- (Jen) "..." [letting out a small laugh]
+"Yes..."
+- (Will) "What have you told the media?"
+- (Jen) "That a woman was found dead in the area, and that we are investigating the incident as a possible homicide"
+- (Will) "I think you need to go public with the fact that she was murdered..."
+- (Jen) "If we want to avoid a repeat offense to get the point across..."
+- (Will) "Yes..."
+- (Jen) "Bjarke is going to love this one..." [a little concerned]
+- (Will) "Still got his media-fixation, does he?"
+- (Jen) "Well, to the extend he's even at the office..."
+- (Will) "Yeah, what's that all about?"
+- (Jen) "He got diagnosed with stage 3 cancer in November..."
+"By now, it's probably stage 4..."
+- (Will) "What the hell is he still doing holding on to 'Police Inspector'?"
+"Shouldn't he be saying his goodbyes to his wife and kid's and deciding on which unfortunate servants shall follow him into the after-life?"
+- (Jen) "Don't say that!"
+- (Will) "Oh... Yeah... Sorry..." [gesturing defensively: 'I spoke without thinking' with his hands]
+"Hell of a reward for 16 years of loyal service to the man..." [managing to creep himself out a little from the scenario]
+- (Jen) "Well..." [as she starts walking back in the direction from which they came]
+"I don't think you have anything to worry about"
+- (Will) "..." [nodding to himself, not moving]
+- (Jen) "Are you coming?" [stopping, turning around]
+- (Will) "No..."
+"I think I'll take a walk along the scenic route back to my hotel"
+- (Jen) "Suit yourself" [sets off walking away again]
+"See you tomorrow"
+- (Will) "Tomorrow"
+#end
+
 
 #section(Shrapnel - Our First Dance)
 
