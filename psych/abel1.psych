@@ -1,0 +1,35 @@
+{
+    "Date": "2018-02-02",
+    "Time": "15'ish",
+    "PatientNo": "HAFSE291032",
+    "Place": "Office",
+    "Entries" : [
+        {
+            "EntryType" : "quote",
+            "Importance" : "high",
+            "Content": [ "I was 9 years old when my mother broke my index-finger",
+                        "She came into my room while I was doing homework, and sat down on the chair next to me",
+                        "I pissed my pants then",
+                        "She looked me in the eyes while she slowly seized my right hand",
+                        "She unfolded the index-finger",
+                        "and broke it!"
+                      ],
+            "Context": "on the patient's relationship to his mother"            
+        },
+        {
+            "EntryType" : "observation",
+            "Content": [
+                "Patient tenses up (raises shoulders) when talking of 'mother'",
+                "avoids  eye-contact"
+            ]            
+        },
+        {
+            "EntryType": "reflection",
+            "Content": [
+                "Patient seems truthful",
+                "How far did the abuse extend?"
+            ]
+        }
+    ]
+
+}
