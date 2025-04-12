@@ -7,27 +7,64 @@
         {
             "EntryType" : "quote",
             "Importance" : "high",
-            "Content": [ "I was 9 years old when my mother broke my index-finger",
-                        "She came into my room while I was doing homework, and sat down on the chair next to me",
-                        "I pissed my pants then",
-                        "She looked me in the eyes while she slowly seized my right hand",
-                        "She unfolded the index-finger",
+            "Content": [ "I was 9 years old when my mother broke my index-finger.",
+                        "She came into my room while I was doing homework, and sat down on the chair next to me.",
+                        "She looked me in the eyes and seized my right hand.",
+                        "I pissed my pants then.",
+                        "She unfolded the index-finger.",
                         "and broke it!"
                       ],
-            "Context": "on the patient's relationship to his mother"            
+            "Context": "On the patient's relationship to his mother"            
+        },
+        {
+            "EntryType" : "observation",
+            "Importance": "high",
+            "Content": [
+                "Patient tenses up (raises shoulders) when talking about 'mother'.",
+                "Avoids  eye-contact."
+            ]            
         },
         {
             "EntryType" : "observation",
             "Content": [
-                "Patient tenses up (raises shoulders) when talking of 'mother'",
-                "avoids  eye-contact"
+                "Patient was raised in [redacted(20)] along with [redacted(20)].",
+                "Emotional and physical abuse extends as far back as he can remember.",
+                "Abuse almost exclusively carried out by mother.",
+                "Father suffered from PTSD from time served in [redacted(30)].",
+                "Father drove a truck and when home, he mostly slept or kept to himself.",
+                "In later years he was either drunk or getting high on prescription pills.",
+                "Died from overdose of heroin when patient was 18."
             ]            
         },
         {
+            "EntryType":"observation",
+            "Importance": "high",
+            "Content": [
+                "Patient appears emotionally distant when talking about his father."
+            ]
+        },
+        {
+            "EntryType":"observation",
+            "Content": [
+                "Effectively responsible for raising [redacted(10)] since age 6.",
+                "Mother disowned them because 'they were not like her' [patients own interpretation].",
+                "Example: patient talked [redacted(10)] out of killing stray kitten (!)"
+            ]
+        },
+        {
+            "EntryType":"observation",
+            "Content": [
+                "[redacted(10)] was also put through the 'broken finger'-test.",
+                "He hit mother out of rage.",
+                "Mother woke patient up in the middle of the night, to watch her strangle [redacted(10)] to near-death (!)",
+                "Patient wanted to say no but 'did not know how'."
+            ]
+        },
+        {
+            "Importance": "high",
             "EntryType": "reflection",
             "Content": [
-                "Patient seems truthful",
-                "How far did the abuse extend?"
+                "I consider the patient truthful, but also get a sense that he is holding something back."
             ]
         }
     ]
