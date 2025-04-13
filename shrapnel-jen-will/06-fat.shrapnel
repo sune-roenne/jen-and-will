@@ -1,3 +1,4 @@
+#(dialog)
 - (Will) "Jesus Fucking Christ!" [yelling, smashing his hand through their surprisingly cardboard-like kitchen door]
   "What the FUCK???!" [shouting]
 - (Jen) "Would you please calm the fuck down?!" [yelling herself]
@@ -25,9 +26,11 @@
 - (Jen) "HA! Take a look at yourself..."
   "YOU'RE SO FUCKING FAT THAT NO OTHER WOMAN WOULD TOUCH YOU WITH A 10-FOOT POLE!"
 - (Will) "..." [stopping for a second on his way out the door, then slams the door slightly less convincingly than he had intended]
+#end
 
 ...
 
+#(dialog)
 - (Will) "Jen..." [taking a seat in-front of Jen]
 - (Jen) "..." [looking into Will's eyes]
 - (Will) "You..."
@@ -54,9 +57,10 @@
   "But would you please ask me next time?"
 - (Will) "You looked busy getting ready yourself..."
 - (Jen) "I was... but I know you well enough to realize that it will be a net-gain in terms of time-management to help you out instead of trying to out-yell your speeding boulder" [smiling]
-
+#end
 ...
 
+#(dialog)
 - (Jen) "You know... I thought you were going to try for something indecent with me when you came home late last night..."
 - (Will) "What? Mid Where's-My-Fucking-Keys-Gate?!" [incredulously]
 - (Jen) "..." [shrugging]
@@ -64,3 +68,4 @@
   "I was mid-creeping-in on that fine ass of yours as you lay in bed when I remembered the war"
 - (Jen) "Maybe you should have gone for it..." [biting her lip, looking at Will in challenge]
 - (Will) "You're so fucking hot when you do that!" [targeting-system locked in, approaching target]
+#end

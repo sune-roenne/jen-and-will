@@ -1,3 +1,4 @@
+#(dialog)
 - (Will) "Alright everybody... thank you" [a little flustered]
   "..." [raising his arms for the room to stop the applause]
   "I look around the room tonight, and I know what you are all thinking..." [looking around the room and pausing the speech for dramatic effect]
@@ -31,9 +32,11 @@
 - (Will) "..." [turning back to face the room]
   "So while I really do appreciate your applause and thinly veiled ingratiation-in-the-hope-that-I-will-recommend-your-sorry-asses-for-the-European-adventure..."
   "I will ask you to instead give a round of applause to my FIANCÉE Jen!" [looking back at Jen]  
+#end
 
 ...
 
+#(dialog)
 - (Will) "Do you think I went too far tonight?"
 - (Jen) "..." [briefly taking her eyes off the road to consider Will]
   "You went WAY too far..."
@@ -62,9 +65,11 @@
   "I think that whatever is wrong with me is something WE should be able to work out..."
   "... I mean... If I can't do it with you, how would a stranger help?"
 - (Jen) "Will, I can't save you!" [expression sternly concerned]
+#end
 
 ...
 
+#(dialog)
 - (Will) "Do you love me?"
 - (Jen) "..."
   "I love you more than I think you realize..." [looking sad]
@@ -81,9 +86,11 @@
 - (Will) "Yeah..." [wiping tears and snot off his face]
   "..."
   "I'll think about talking to someone, OK?"
+#end
 
 ...
 
+#(dialog)
 - (Jen) "Could you keep the suit on a little while longer?" [biting her lip as she closes in on Will and establishes double under-hook]
 - (Will) "You really have a thing for suits don't you?"
 - (Jen) "Mmmm"
@@ -94,3 +101,4 @@
   "We both know THAT's a lie..."
   "I'm so fucking fat no other woman..."
 - (Jen) "Shut up social retard!" [driving Will towards the bed, throwing herself on him]
+#end

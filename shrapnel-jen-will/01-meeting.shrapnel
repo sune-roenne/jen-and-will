@@ -1,3 +1,4 @@
+#(dialog)
 - (Jen) "What are you supposed to be?"
 - (Will) "I guess that depends on who you ask..."
   "According to my father I was supposed to be an accountant"
@@ -32,9 +33,10 @@
   "Yes... I dance" [confident]
 - (Jen) "Shall we then?" [extending her arm]
 - (Will) "We shall" [taking her hand]
-
+#end
 ...
 
+#(dialog)
 - (Jen) "OH MY GOD! YOU SAID YOU KNEW HOW TO DANCE!!" 
 - (Will) "..." [shoulders rounded, staring down into the ground]
 - (Jen) "Well...?!"
@@ -112,3 +114,4 @@
   "IMPOSSIBLE!"
 - (Jen) "Hmmmm... And what about right here?" [pulling Will's shirt over his head]
 - (Will) "Looks totally safe!" [lost in Jen's eyes, lips engaged in trench warfare]
+#end

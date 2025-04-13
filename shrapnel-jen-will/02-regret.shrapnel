@@ -1,12 +1,15 @@
+#(dialog)
 - (Will) "I'm driving!"
 - (Jen) "Like hell you are!" [going for the driver's seat]
 - (Will) "Wait... What?!"
   "I'M DRIVING!"
 - (Jen) "You are not driving! I've seen you drive and Danny said you nearly fell asleep behind the wheel the other day!" [getting into the driver's seat]
 - (Will) "..." [staring at the air left behind by Jen, hand on doorhandle of passenger side, baffled]
+#end
 
 ...
 
+#(dialog)
 - (Jen) "Are you scowling?!"
 - (Will) "No!"
 - (Jen) "Then what the hell's the matter with you?"
@@ -20,9 +23,11 @@
   "I'm going to be taking a lot of shit from the other's for this!"
 - (Jen) "I thought you didn't care what they think...?!"
 - (Will) "Yeah... well..."
+#end
 
 ...
 
+#(dialog)
 - (Will) "Alright... I'm through being angry with you"
   "Shotgun DJs!" [sliding CD into radio]
 - (Jen) "What?!" [as corny Swedish 1980's glam rock starts blaring through the speakers]
@@ -40,9 +45,11 @@
 - (Will) "WHY?!"
 - (Jen) "...!" [staring at Will, shaking her head]
 - (Will) "What?"
+#end
 
 ...
 
+#(dialog)
 - (Jen) "We need to talk"
 - (Will) "What?"
 - (Jen) "This..."
@@ -61,9 +68,11 @@
 - (Will) "Jen, it's fine! You don't owe me anything!"
   "The street's coming up, so can we just focus on carrying out our official police assignment?" [said in a sufficiently monotonous tone to make Jen unsure if the latter part was meant as an insult]
 - (Jen) "OK" [turning attention back on the road in resignation] 
-  
+#end
+
 ...
 
+#(dialog)
 - (Jen) "..." [about to say something]
 - (Will) "..." [staring deadpan out the window]
 - (Jen) "That was pretty sweet what you did back there"
@@ -77,9 +86,11 @@
 - (Will) "The woman's stretch-marks was an indicator, and they didn't seem like the target-demographic for Teenage Mutant Ninja Turtles" [looking out the window, expressionless]
 - (Jen) "It was really sweet" [looking at Will, smiling]
 - (Will) "Yeah, well...." [shrugging]
+#end
 
 ...
- 
+
+#(dialog)
 - (Jen) "..." [pulling car into supermarket parking lot]
 - (Will) "What are you doing?"
 - (Jen) "I need to have a talk with you!"
@@ -105,3 +116,4 @@
   "OK?" [smiling]
 - (Will) "... I can work with that" [smiling]
   "... and Danny's got a much better taste in music than you, so I was gonna ditch you on the assignment-part anyways" [briefly glancing at Jen with a smile, looking back out the window]
+  #end

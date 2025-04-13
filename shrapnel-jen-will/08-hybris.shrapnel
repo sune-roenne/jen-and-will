@@ -1,3 +1,4 @@
+#(dialog)
 - (Will) "We HAVE to move on this!"
 - (Jen) "No! We have to leave this to the locals"
 - (Will) "You DO realize how unique a chance this is, don't you?"
@@ -19,16 +20,20 @@
   "You get to be big-swinging-dick-busting-drug-barons every day..."
 - (Will) "BUT NOT WITH YOU!"
   "EVERYTHING IS BETTER WHEN I DO IT WITH YOU!" [looking intensely at Jen]
+#end
 
 ...
 
+#(dialog)
 - (Will) "I can't let you throw away this opportunity for yourself..."
   "You'll thank me later..." [opening the car door and getting out]
 - (Jen) "FUCK!!!" [slamming the wheel]
   "..." [getting out of the car to follow Will]
+#end
 
 ...
 
+#(dialog)
 - (Will) "JEN!" [shouting, while firing frantically at the car speeding out of the parking lot]
   "JEN!"
   "Let me have a look..."
@@ -46,5 +51,6 @@
 - (Will) "I KNOW!"
 - (Jen) "But you didn't listen..." [expression of resignation]
   "You just NEVER FUCKING LISTEN!"
-  "When you decide to do something there's just no reasoning with you..." [expression a blend of sadness and indifference]
+  "When you decide to do something there's no reasoning with you..." [expression a blend of sadness and indifference]
 - (Will) "..." [sporting a look of not knowing what to do with himself]  
+#end

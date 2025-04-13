@@ -1,3 +1,4 @@
+#(dialog)
 - (Jen) "I need to talk"
 - (Will) "Alright" [expressing indifference]
 - (Jen) "Tomorrow..."
@@ -12,9 +13,11 @@
   "I know I fucked up..."
   "...but this thing is different..."
 - (Jen) "..." [snorting while shaking her head in indifference]
+#end
 
 ...
 
+#(dialog)
 - (Jen) "You know..."
   "When I talk to my family, they make a great deal out of not raising the topic of you..."
   "because they know they won't be able to hold back their contempt..."
@@ -27,9 +30,11 @@
 - (Will) "I didn't think you wanted an apology" [eyes closed]
 - (Jen) "I ALMOST DIED BECAUSE OF YOU!"
 - (Will) "..."
+#end
 
 ...
 
+#(dialog)
 - (Will) "I was going to apologize to you when we left the hospital" [keeping his distance of 2 meters from Jen]
   "... but I couldn't get the words across my lips..."
   "I knew I had fucked up big time, and it was as if apologizing would just make it all the more real"
@@ -44,19 +49,24 @@
   "and that closure was the only thing missing, for us to be over..."
   "... so I did the selfish thing..." [face of bitter contempt against 'this cruel world']
   "... and held on to you a little longer..." [crying]
+#end
 
 ...
 
+#(dialog)
 - (Jen) "Will..." [keeping her back to Will]
   "If you break protocol tomorrow..."
   "... then that's it!" [putting her face in her hands]
   "I'm not coming with you..."
 - (Will) "Yeah..." [expression of defiance]
+#end
 
 ...
 
+#(dialog)
 - (Jen) "Don't fucking do it Will!" [throwing herself back against the driver's seat, eyes closed]
 - (Will) "..." [putting his hand on the door handle]
   "Jen...?" [looking down at the door handle]
 - (Jen) "..." [shaking her head in disbelief, eyes still closed]
 - (Will) "I'm sorry" [getting out of the door]
+#end

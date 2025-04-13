@@ -1,3 +1,4 @@
+#(dialog)
 - (Jen) "I'm heading out now"
 - (Will) "Have fun" [not looking at Jen]
 - (Jen) "Hug me goodbye?"
@@ -63,9 +64,11 @@
 - (Will) "Sure..." [maintained look of mock contemplation]
   "You go out and have fun now, and I'll stay here and revise my 'service-plan'"
   "..." [shifting his gaze to meet Jen's with a grateful look]
+#end
 
 ...
 
+#(dialog)
 - (Jen) "You are still up?"
 - (Will) "Yeah..."
   "I tried for a couple of hours, but I couldn't sleep" [underhand-tosses a weak smile at Jen]
@@ -141,18 +144,22 @@
 - (Jen) "Would you at least CONSIDER talking to someone at some point?"
   "Maybe give it 2 or 3 sessions and see if you found some value in it?"
 - (Will) "... I'll think about it, alright...?"
+#end
 
 ...
 
+#(dialog)
 - (Jen) "Sometimes I talk to my friends about you"
   "and sometimes I talk about things about you that make me angry..."
   "Does that bother you?"
 - (Will) "Hmmm..." [pondering]
   "I think I'd prefer that you didn't..."
   "but they are your friends, and as long as you don't expect me to bond with them, it's not really my problem is it?"
+#end
 
 ...
 
+#(dialog)
 - (Jen) "Are you asleep?"
 - (Will) "Yes..."
   "..."
@@ -171,3 +178,4 @@
   "but HE seems to be taking to it quite nicely"
 - (Will) "I love you Jen" [kissing her]
 - (Jen) "I love you Will" 
+#end
