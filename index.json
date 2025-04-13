@@ -2,9 +2,9 @@
     {
         "ChapterName": "Introduction",
         "OrderKey": "2022-03-00",
-        "FileName": "abel1.psych"
+        "FileName": "abel1.psych",
+        "CarryOverBefore": true
     },
-
     {
         "ChapterName": "The Slaughterhouse Murder",
         "OrderKey": "2022-03-01A",
@@ -22,6 +22,12 @@
         "FileName": "02-03-2022A - Gentrified Grief.story"
     },    
     {
+        "ChapterName": "Shrapnel 01",
+        "OrderKey": "2022-03-02Z",
+        "FileName": "01-meeting.shrapnel",
+        "CarryOverAfter": true
+    },        
+    {
         "ChapterName": "???",
         "OrderKey": "2022-03-04A"
     },    
@@ -30,6 +36,13 @@
         "OrderKey": "2022-03-08A",
         "FileName": "08-03-2022A-Will and Laura - Emotionally Responsible.story"
     },    
+    {
+        "ChapterName": "Shrapnel 02",
+        "OrderKey": "2022-03-08Z",
+        "FileName": "02-regret.shrapnel",
+        "CarryOverAfter": true
+    },        
+     
     {
         "ChapterName": "Bondage in the Boondocks",
         "OrderKey": "2022-03-15A",
