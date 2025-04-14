@@ -128,7 +128,18 @@
 		"Color": "rgb(0,0,0)",
 		"SiteFont": "Old Standard TT",
 		"Font": "Old Standard TT"
-	},				
+	},	
+	{
+		"Character":"Jonas",
+		"ShowName": "Instructor Wilson",
+		"FullName": "Jonas Wilson",
+		"Rank": "Instructor Wilson",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},
+
+
 	{
 		"Character":"katja",
 		"ShowName": "Katja",
@@ -150,6 +161,14 @@
 		"Character":"k",
 		"ShowName": "K",
 		"FullName": "Cain Abramowicz",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},
+	{
+		"Character":"Josepp",
+		"ShowName": "Josepp",
+		"FullName": "Josepp Almon",
 		"Color": "rgb(0,0,0)",
 		"SiteFont": "Old Standard TT",
 		"Font": "Old Standard TT"

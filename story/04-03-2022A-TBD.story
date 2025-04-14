@@ -20,22 +20,22 @@ While Inspector Bjarke Hansen is addressing the personnel in the main office the
 "I understand you helped Deputy Inspector Jennifer Adams out on the Woodland Heights case yesterday...?" [seating himself behind his desk]
 - (Will) "Yes Sir"
 - (Bjarke) "And I understand you saw fit to offer advice on how said Deputy Inspector should handle the media?" [sternly]
-- (Will) "Yes Sir" [facial expression: blank]
+- (Will) "Yes Sir" [facial expression blank]
 - (Bjarke) "Then maybe you would like to enlighten me..."
-"because I'm having a little trouble seeing the reasoning behind the police contributing to mass-hysteria just prior to the public auctioning of realty worth an estimated 100's of million EUR...?"
-"Especially considering, that we yet have nothing to substantiate a real theory much less press charges against anyone..."
+"because I'm having a little trouble seeing the reasoning behind the police contributing to mass-hysteria just prior to the public auctioning of realty worth an estimated 200 million EUR...?"
+"Especially considering, that we have nothing to substantiate a real theory much less press charges against anyone..."
 - (Will) "Certainly Sir" 
 - (Bjarke) "..." [staring at Will]
 "By all means..." [gesturing for Will to get on with the explanation]
 - (Will) "As for pressing charges: it falls outside my mandate as consultant to have an opinion on the matter..."
 "But as far as the conclusions of Deputy Inspector Jennifer Adams: I stand by my assessment that they plot out the most likely explanation for the events leading up to the death of Nina Noerregaard"
 "In regards to the media-strategy, this again falls outside my mandate..."
-"but, I expect this to be one of those unfortunate situations where failure to act - in this case by addressing the media - can have just as dire - if not worse - consequences as acting"
+"but, I expect this to be one of those unfortunate situations where failure to act - in this case: addressing the media - can have just as dire - if not worse - consequences as acting"
 - (Bjarke) "I'm very glad you should mention that..."
 "What DO you think the consequences of our statement last night will be on the asking price of the condos tomorrow?"
 - (Will) "I expect they will be sold at a considerable premium..."
-- (Bjarke) "And do you think that maybe we could have postponed our announcement until AFTER the action tomorrow..."
-- (Will) "That would certainly be a possibility..."
+- (Bjarke) "And do you think that maybe we could have postponed our announcement until AFTER the auction tomorrow..."
+- (Will) "That would certainly have been a possibility..."
 "But of course, if Jen's... excuse me: OUR assessment is correct, we would probably be looking at having to disclose of yet another murder..."
 "If the people behind this affair are willing to commit one horrendous murder to drive down market prices"
 "there's no reason to assume they wouldn't be willing to do it again..."
@@ -44,20 +44,20 @@ While Inspector Bjarke Hansen is addressing the personnel in the main office the
 "many of them belonging to the general public by means of pension fund investments...?"
 - (Will) "Certainly not Sir"
 - (Bjarke) "Cut the bullshit Will..."
-"Your soft-heartedness still betrays you!" [in a voice of contempt for anything 'soft']
+"Your soft-heartedness betrays you!" [in a voice of contempt for anything 'soft']
 - (Will) "I object to your character-assessment of me..."
-"But leaving that be at the moment..."
+"But leaving that be for the moment..."
 "I think you are overlooking a possibly profitable opportunity"
 - (Bjarke) "Well then, please explain the details of my oversight..." [once again gesturing for Will to go on]
 - (Will) "Sir..." [taking the Inspector up on his offer]
 "I am very certain that someone is determined to drive down the price of the realty going on offer tomorrow..."
-"But..."
-"Their actions are not limited to affecting the price at which THEY will be able to purchase said realty..."
-"any other entity, be it private or institutional, can buy at the same price"
-"To make matters more interesting..."
-"Let's say a certain police pension fund chooses to make a major investment..."
-"and kept around 10% of the condos for low-rent apartments for active police officers..."
-"and maybe went public with a statement praising the area and highlight all the aspects of the area that has made it the preferred housing for several policemen..."
+"but..."
+"their actions are not limited to affecting the price at which THEY will be able to purchase said realty..."
+"any other entity, be it private or institutional, can buy at the same price..."
+"to make matters more interesting..."
+"let's say a certain police pension fund chose to make a major investment..."
+"and kept around 10% of the condos for low-rent apartments offered to active police officers..."
+"and maybe went public with a statement praising the area and highlighting it as the preferred housing for several policemen..."
 "I'm sure the investment could be turned into a nice profit within a couple of years"
 - (Bjarke) "Hmmm..." [seeming a little surprised]
 "Well... alright..."
@@ -90,7 +90,38 @@ While Inspector Bjarke Hansen is addressing the personnel in the main office the
 "I beg to differ!"
 - (Jen) "Really?"
 - (Will) "... seeing as it was in fact Will who came up with it" [continuing his walk]
-- (Jen) "..." [shakes her head and makes a turn for her office]
+- (Jen) "Not so fast Will!"
+- (Will) "..." [turning around]
+- (Jen) "What the hell happened to you?"
+- (Will) "You mean 'the door thing'?" [walking up to Jen]
+- (Jen) "I mean the fact that your face looks like it went THROUGH a couple of doors! Iron bolted!"
+- (Will) "Well..."
+"I had one of those once-in-a-lifetime-strokes of bad luck, mixed with a case of mistaken identity..."
+- (Jen) "Again!!? That's only your fourth or fifth once-in-a-lifetime-strokes of bad luck!"
+- (Will) "I'll spare you the details..."
+"if for no other reason than they are a lot more boring than what the result may suggest..."
+"the upshot to the whole misunderstanding was, that I had a unique chance to discuss the topic of organizational pressure on life in post-modern Western World societies with no other than the renowned Cain Abramowicz..."
+- (Jen) "You went to see K?!" [clearly not buying Will's beating around the bush]
+- (Will) "I'll grant you: it isn't exactly the 'nobody's going to get fired for using IBM' of police investigations, but if you think about it, I'm sure you'll realize that it's not a bad move either" [throwing a few chips in the pot by looking sternly at Jen]
+- (Jen) "Alright..." [folding a meaningless hand]
+"that explains the bruising..."
+"Did you learn anything?"
+- (Will) "Nothing that could be used in court..."
+"but it was definitely a Helldivers job..."
+"I don't think K knew about a possible Helldiver-involvement in the case prior to me asking him about it..."
+"but it might not be a bad investment to have a chat with Josepp Almon of the local Helldivers charter"
+- (Jen) "He's the vice president, isn't he?"
+- (Will) "Yes"
+- (Jen) "Alright, thank you Will..."
+- (Will) "There is more"
+- (Jen) "What?"
+- (Will) "I don't think you should send Detective Halbeck on this one"
+- (Jen) "What?" [clearly tired]
+- (Will) "This is the kind of topic where people usually write me off a conspiracy nut, and I'm honestly not all that invested in this case..."
+"but if you want to 'do your own research', you may want to do an internet search for 'Sons of Saturn' targeting horsenet.org and psychedelia.eu..." [gesturing: 'or not... you do you I suppose']
+- (Jen) "Alright... thank you Will..."
+- (Will) "Do you have a case file for me on the prostitute murders?"
+- (Jen) "Yes... follow me to my office"
 #end
 
 ...
@@ -103,7 +134,7 @@ While Inspector Bjarke Hansen is addressing the personnel in the main office the
 "WIIIIIIIILLLLLLLLL"
 "TETENS!!!"
 - (Will) "..." [doing a subtle boxers shuffle during the announcement, then lifting both arms in the air in a 'WHO FUCKING WANTS SOME?'-fashion]
-- (Danny) "A fucking door?!"
+- (Danny) "A door?!"
 "It must have been one hell of a door!"
 - (Will) "You're not wrong..."
 - (Danny) "Now tell us what really happened!"
@@ -112,34 +143,34 @@ While Inspector Bjarke Hansen is addressing the personnel in the main office the
 "I don't know him personally, but anyone who's served on the force in or around Hafnia know OF him!"
 "Alright..." [now addressing the crowd that has gathered around the two]
 "For those of you who don't know the Brothers Abramowicz..."
-"The older of the two... Abel... Known simply as 'Abe'..."
+"The older of the two... Abel... known simply as 'Abe'..."
 "was in the Academy the same time as Will and I..."
 "but got kicked off the force for beating a witness of a terror-bombing..."
-- (Will) "SUSPECTED TERROR-BOMBING"
+- (Will) "SUSPECTED TERROR-BOMBING!"
 - (Danny) "... for beating the victim of a suspected terror-bombing to within inches of his life"
 "Imagine this: you are ordering a round of 'police officer' at your local junk food dealer of choice..."
-"and decide to go 'max' on: size, speed and aggression..."
+"and decide to go 'full tilt' on: size, speed and aggression..."
 "and when you are hit with the order total, you realize that your pocket change won't cover it..."
 "so you ask the underage waiter if you can maybe save a little by opting out on the non-essentials..."
 "like: empathy, compassion, and social grace"
 - (Will) "..." [nodding his head in approval of the analogy]
 - (Danny) "Now, keeping this image in mind..." [still addressing the crowd]
 "Imagine that the local president of the outlaw group Helldivers just bore witness to your order..."
-"And decided that THAT was exactly what he wanted as well..."
-"Except, he isn't short on cash, so he goes:"
-"'What he had... but make it a double!" [mock mob boss voice]
+"And decided that THAT was exactly what HE wanted as well..."
+"except, he isn't short on cash, so he goes:"
+"'I'll have what he had... but make it a double!" [mock mob boss voice]
 "'Certainly Sir... Do you want empathy, compassion, and social grace with that?'" [squeaky underage-waiter-voice]
 "'Aw hell no!'" [mock mob boss voice]
-"And then you have Cain!"
+"And then you have Cain! More commonly referred to simply as 'K'"
 "All-time enforcer for the Helldivers!"
-- (Will) "That may just be the most accurate description of the Brothers Abramowicz I have ever heard!" [barely contained awe]
+- (Will) "That may just be the most accurate description of the Brothers Abramowicz I have ever heard!" [unrestrained approval]
 - (Danny) "This is what I do Sir!" [mock pretentious voice]
 "Alright, we got time for one little story..." [looking to Will for his acceptance of him stealing the stage]
 - (Will) "..." [gesturing: 'the stage was always yours brother!']
 - (Danny) "Back around 2014, the Castleton charter of the Helldivers were in armed conflict with some of the local gangs..."
 "kids' stuff really... blunt weapon attacks, some knifings, a couple of shoot-outs... all minor stuff"
-"Much to the distress of the Helldivers Regional Council and President Morten Djernes, the local gangs not only win the war but succeed in driving the Helldivers charter out of the town AND claiming their local fortress..."
-"so the charter president gets on the phone with President Djernes and puts on his Little Orphan Annie routine about how nobody came to help the Castleton charter in their hour of need..."
+"Much to the distress of the Helldivers Regional Council and President Morten Djernes, the local gangs not only won the war but succeed in driving the Helldivers charter out of the town AND claiming their local fortress..."
+"so the charter president calls President Djernes and puts on his Little Orphan Annie routine about how nobody came to help the Castleton charter in their hour of need..."
 "and President Djernes relents and says he'll send his best people..."
 "He sends just one person!"
 "You guessed it ladies and gentlemen: Cain Abramowicz!"
@@ -149,20 +180,20 @@ While Inspector Bjarke Hansen is addressing the personnel in the main office the
 "where he puts the damn thing on autopilot or whatever, heading it for direct impact with the fortress..."
 "Lobs 2 hand grenades through the windows, and then just waits for survivors of the destruction to come fleeting out the windows and doors..."
 "where 130 kg of pure and uncontrollable evil is waiting for them"
-"POW! BOOM! STOMP!" [really getting into his own story, playing the part of Cain Abramowicz with intense feeling]
+"POW! BOOM! STOMP!" [really getting into his own story, playing the part of Cain Abramowicz with sheer intensity]
 "7 people dead, right there!"
-"5 people bound to wheelchairs for the rest of their lives"
+"5 people in wheelchairs for the rest of their lives"
 "and of course, the local charter of Helldivers is all standing there cheering on the slaughter..."
 "letting the artist swing his bloody brush across the canvas of broken bones..."
 "and when K reaches the conclusion that he has done what there was to be done about the problem of the local gangs..."
 "he walks up to the local charter president, draws his gun, and shoots the president and vice president at point blank..."
 "both double-tapped and dead before hitting the ground!"
-"He then proceeds to reclaim every Helldiver artifact from the remaining crowd, and instructs them that next time any of them is seen with a Helldiver tattoo or anything else tying them to the organization, they will join their two former brothers laying dead on the ground"
-"He drives the car of the president to the hospital where the 4 people who had stood their ground in the battle for the fortress are admitted in the intensive unit..."
+"He then proceeds to reclaim every Helldiver artifact from the crowd and instructs them that next time any of them is seen with a Helldiver tattoo or anything else tying them to the organization, they will join their two former brothers laying dead on the ground"
+"He drives the car of the president to the hospital where the 4 people who had stood their ground in the battle for the fortress were admitted in the intensive care unit..."
 "and offers them membership in one of the other charters..."
 "Bjarki and Bjorki... Are you alright?!" [suddenly noticing the tears streaming down their faces]
-- (Bjarki) "That may just have been the must beautiful story I've ever heard..." [only just finishing his statement before breaking down in uncontrollable sobbing]
-- (Laura) "Ok, disregarding all of the downright unbelievable parts of this story..."
+- (Bjarki) "That may just have been the must beautiful story I've ever heard..." [trying hard not to get carried away by emotion but unable to suppress his hulking as soon as the crowd turns their focus back on Danny]
+- (Laura) "OK, disregarding all of the downright unbelievable parts of this story..."
 - (Danny) "It's gospel!" [looking to Will for confirmation]
 - (Will) "That's pretty much how I heard it..." [nodding]
 "though... I probably heard it from Danny, so I don't know..." [shrugs]
@@ -170,11 +201,10 @@ While Inspector Bjarke Hansen is addressing the personnel in the main office the
 "All the bullshit aside, please tell me that you nailed the guy afterwards...!"
 - (Danny) "Well..." [a little uncomfortable]
 - (Will) "No!"
-"SOMEBODY fucked up and contaminated the evidence!" [staring accusingly at Officer Jim Halbeck who replies by leaving the gathering in anger]
+"SOMEBODY fucked up and contaminated the evidence!" [staring accusingly at Detective Jim Halbeck who replies by leaving the gathering in anger]
 - (Laura) "Jesus Christ!" [probably not as shocked as she pretends to be]
 - (Danny) "Getting back to the matter at hand..."
 "The 130 kg of pure and uncontrollable evil..."
-"known by friends and enemies alike simple as 'K'..."
 "who Detective Will for some reason ran into yesterday..." [gesturing for Will to take the stage]
 - (Will) "Alright..."
 "I take it that Jen updated you on the Woodland Heights case before I came...?"
@@ -206,42 +236,46 @@ While Inspector Bjarke Hansen is addressing the personnel in the main office the
 "one minute, he's standing there, totally oblivious to my presence..."
 "then he pauses for a maximum of half a second..."
 "before slamming the door closed, and then I can't see where he went but my Spider-sense is off the charts, telling me that something BIG is on collision-course with my poor body..."
-"and before I know what hit me, I'm tackled to the floor and he's beating me senseless with the huge lumps of cartilage and bones he's trying to pass off as his hands..."
-"I try to cover up, but what good is that when you are being bombarded with something that Old-Testament God would thrown against the sinners among his believers...?"
+"and before I know what hit me, I'm tackled to the floor and he's beating me senseless with the huge lumps of cartilage and bones he's trying to pass off as hands..."
+"I try to cover up, but what good is that when you are being bombarded with something that Old-Testament God would thrown against the sinners amidst his believers...?"
 "And I'm drifting in and out of consciousness..."
 "left hook to wake me up, right hook to put me back under..."
-"and I remember laying there thinking that in this, my final moments on this earth, it at least gives me comfort to know that I had just - involuntarily I'll grant you - pissed myself on his carpet, and that he at least would be left with dealing with THAT mess!"
+"and I remember lying there thinking that in this, my final moment on this earth, it at least gives me comfort to know that I had just - involuntarily I'll grant you - pissed myself on his carpet, and that HE would be left to deal with the mess!"
 "And then..."
 "the guy just stopped, and asked me who I was..."
-"I tell him I'm Will Tetens with Europol and that I'm a great fan of his work and that I'm here to talk to him about blah blah blah..."
+"I tell him I'm Will Tetens with Europol and that I'm a great admirer of his work and that I'm here to talk to him about blah blah blah..."
 "and he just gets off me, like: 'sorry... I thought you were someone else'"
-"He doesn't actually say that, but it's pretty fucking clear that I was not who he was expecting..."
+"which of course he doesn't actually say, but it's pretty fucking clear that I was not who he was expecting..."
 "and that was pretty much that..."
 - (Danny) "So what did he give on the Woodland Heights deal?"
 - (Will) "He didn't really give anything on the Woodland Heights deal..."
-"he claimed to know nothing of the matter, and I'm tempted to believe him..."
+"he claimed to know nothing on the matter, and I'm tempted to believe him..."
 "somehow, it felt 'below him' when I accused him of being involved in the thing..."
 "some of these guys are kinda big on the whole 'no women and children' deal, and I could have him pegged as the type..."
 - (Danny) "So..."
 "In summary: you went over to his apartment, got your ass kicked, and walked back to your hotel in piss-stained pants... for nothing?"
-- (Will) "I went over there, got my ass kicked, and walked back to my hotel wearing my piss-stained pants..." [agreeing]
+- (Will) "I went over there, got my ass kicked, walked back to my hotel wearing my piss-stained pants..." [agreeing]
 "AND... had some Type III Fun in the process!"
 - (Danny) "MAN! I've missed you Will!"
-- (Will) "I hoped that all of you paid attention..." [addressing the crowd]
+- (Will) "I hoped you all paid attention..." [addressing the crowd]
 "because the next time you hear this story it will be from the lips of our very own Officer Danny Duale..."
 "and I'll probably be naked... for whatever reason... high on bath salt with a plunger as my only weapon..." [smiling]
-- (Danny) "I'll grant you... the story needs a little brushing up..."
-"but all-in-all: the material is pretty good as is" [nodding]
+- (Danny) "I'll grant you... the story could do with a little 'pep' here and there..."
+"but all-in-all I'd say the material is pretty good as is" [nodding]
 - (Will) "Well, now that we are on the subject..."
 "I would like to borrow 4 or 5 of the people in this room, preferably of varying height, build, and gender, for a little experiment... for science"
+- (Danny) "Like: 'Instructor Wilson'-type science?"
+- (Will) "You said it!"
 "It'll only take 5-10 minutes...?" [looking questioningly around the room]
-- (Danny) "Sure brother! Anything for science!"
-"You'll need a fine specimen like myself, that's a given..."
+- (Danny) "Well..."
+"You'll need a prime specimen of the human race like myself, that's a given..."
 "and let's take Laura..."
-"and one of the twins..." [looking at the twins to see which one volunteers]
+"and one of the twins..." [looking at the twins to see which one volunteers, then deciding to decide for them]
+"you know what: seeing as this is for science, we'll go with 'mind over maniac'... Bjorki! You're up!"
+"they come in flavors these days" [to Will]
 "and if Allan hasn't gone to sleep yet..." [checking his watch]
 "we'll take him for 'white and scrawny'..."
-"I think that's about as representative as the population in this here station gets"
+"I think that's about as representative of the general population we'll find it in this here station Boss"
 - (Will) "And that'll do!"
 "Do you guys still have the equipment room next to the gym?"
 
@@ -249,7 +283,7 @@ While Inspector Bjarke Hansen is addressing the personnel in the main office the
 
 - (Will) "Alright..."
 "So the thing I'm wondering is..."
-"Who did Cain Abramowicz think I was when he walked into his living room yesterday?"
+"Who did Cain Abramowicz think I was when he walked into his living room yesterday, and how much does that person look like me?"
 "I have replayed the scene over and over, and I'm 95% certain that he was blissfully unaware that anyone was in the apartment when he stepped in..."
 "and after glancing into the almost complete darkness of the apartment for 1 second at the most, he decided to charge..."
 "I'll step out of the room, and you guys will take turns sitting on that chair there in this dark room..."
@@ -260,10 +294,10 @@ While Inspector Bjarke Hansen is addressing the personnel in the main office the
 ...
 
 - (Will) "Well..."
-"The jury is unanimous: aside from #3 being a woman, I have absolutely no idea of which person was present at which time!"
-"I would have figured I'd at least be able to recognize Danny but no dice..."
+"I guess the conclusion has to be, that if K's perceptive abilities are on par with mine, whoever he thought I was, the person was not tall and black... or a woman..."
+"Which unfortunately still leaves about half the population in this region..."
 - (Allan) "Skill issue! I could do it!"
-- (Will) "Could you now?"
+- (Will) "Really?"
 
 ...
 
@@ -274,13 +308,32 @@ While Inspector Bjarke Hansen is addressing the personnel in the main office the
 ...
 
 - (Will) "Well I'll be damned!"
-"I'm beginning to think you may have what is known in layman's terms as 'talent'..."
+"I'm beginning to think you may have what is in layman's terms known as 'talent'..."
 "but of course: now we'll have to do a baseline-test..."
 
 ...
 
 - (Will) "Alright..."
-"I guess that settles it: no one is able to recognize even known colleagues through 5 meters of dark room, except for the young man here!"
+"I'll call it: the young man really does have talent!"
 - (Allan) "Allan"
-- (Will) "Except for Allan"   
+"... the name's Allan!"
 
+...
+
+#(dialog)
+- (Danny) "Hey!" [stopping Will and letting the others pass them on the way back to the main office]
+"Are you alright?"
+- (Will) "Well..."
+"It hurt like a son of a bitch all night, so I didn't really get much sleep..."
+"Around 6:30, I finally decided that I would have to find a street pharmacy if I was to get anything done during today..."
+"but of course, it didn't open until like a quarter past 8..."
+"and hey: what's the point of using child labor is those little fuckers are going to wait around for school to start before getting on with their work?!" [getting angry at the realization of the absurd laziness of today's youth]
+"If you are 12 years old, shouldn't you be doing your dope dealing OUTSIDE school hours, so you can maybe realize your dream of owning your OWN meth/fent lab someday?"
+- (Danny) "You went up to Woodland Heights to score dope?!"
+"Wait... don't answer that..."
+"you'll feed me some bullshit about supporting the initiative of the people even if we don't support the way..."
+"and I think I'll opt for plausible deniability on this one..."
+"What I meant was" [stopping to face Will]
+"Are you OK?"
+
+#end
