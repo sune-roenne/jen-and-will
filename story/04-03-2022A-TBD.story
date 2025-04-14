@@ -327,13 +327,63 @@ While Inspector Bjarke Hansen is addressing the personnel in the main office the
 "It hurt like a son of a bitch all night, so I didn't really get much sleep..."
 "Around 6:30, I finally decided that I would have to find a street pharmacy if I was to get anything done during today..."
 "but of course, it didn't open until like a quarter past 8..."
-"and hey: what's the point of using child labor is those little fuckers are going to wait around for school to start before getting on with their work?!" [getting angry at the realization of the absurd laziness of today's youth]
-"If you are 12 years old, shouldn't you be doing your dope dealing OUTSIDE school hours, so you can maybe realize your dream of owning your OWN meth/fent lab someday?"
+"and hey: what's the point of using child labor if those little fuckers are going to wait around for school to start before getting on with their work?!" [getting angry at the realization of the absurd laziness of today's youth]
+"If you are 12 years old, shouldn't you be doing your dope dealing OUTSIDE school hours, so you can maybe study and one day realize your dream of owning your OWN meth/fent lab?"
 - (Danny) "You went up to Woodland Heights to score dope?!"
 "Wait... don't answer that..."
-"you'll feed me some bullshit about supporting the initiative of the people even if we don't support the way..."
+"you'll feed me some bullshit about supporting the initiative of the people even if you don't support the means..."
 "and I think I'll opt for plausible deniability on this one..."
-"What I meant was" [stopping to face Will]
+"What I meant was..." [stopping to face Will]
 "Are you OK?"
-
+- (Will) "You mean about Jen...?"
+- (Danny) "Yes"
+- (Will) "I don't know" [looking uncharacteristically lost and sad]
+"I SHOULD be alright..."
+"We're coming up on 2 years..."
+"that's what they say, right?"
+- (Danny) "I don't think there's any fixed length to these kinda things..."
+"and you and Jen were different!"
+"you weren't just a couple... you were Jen & Will!"
+"I remember how you used to look at her!"
+- (Will) "Yeah..." [tearing up]
+"I've tried going into this thing and just take it at cost"
+"do the steps, jump through the hoops or whatever..."
+"I tried dating apps at one point... and failed horribly!"
+"I've tried making friends with women..."
+"like just friends... not even going for sex or anything..."
+"at this point, sex is actually pretty fucking far down on my list..."
+"I think what I miss more than anything is having her to talk to..."
+"I got a promotion at one point, and I was halfway through calling her when I realized that why the hell should she care...?"
+"I considered just transferring her the God-damned money just as an incentive for her to be excited..."
+"would have probably done it if it wasn't because I feared it would just make her afraid I was growing into the role of obsessed ex-boyfriend..."
+"and it's the little things..."
+"like how I used to bring her coffee in the morning..."
+"it was never anything we made a great deal about..."
+"I didn't expect her to thank me..."
+"I just knew it made her start of the day a little easier, and it felt good doing something good for her..."
+"pretty trivial right, but that's a part of me I've had to part with..."
+"I tried to exercise my altruistic side at the office and bring coffee to my colleagues once in a while..."
+"it was sufficiently out of character for them to get seriously suspicious about my motives..."
+"You should have seen the fuckers man..." [chuckling]
+"I'm pretty sure one of them ordered a nal von minden at one point!" [now full-on laughing at the memory]
+"which was of course all sorts of fun, but not really what I was going for..." [expression turning bleak again]
+"I'm rambling..." [closing his eyes, pinching the bridge of his nose]
+"I think that's my biggest problem: I can't find the right words!"
+"Whenever I try to talk about it, I end up stating a lot of facts..."
+"things I've done or thought about..."
+"I can't really convey what I feel!"
+"The closest I ever come is..."
+"that it feels like I'm still in that water..."
+"just keeping my legs busy so as not to drown..." [thousand yard stare]
+"and you know what the weird thing is?"
+"sometimes, it feels like I'm SUPPOSED to go under..."
+"like something is calling for me to dive under..."
+"like it's inevitable..."
+"under the waves..." [getting a distant, almost dreamy look]
+- (Danny) "Will... I think maybe you should talk to someone about this..."
+- (Will) "..." [snapping out of it]
+"I think you're right" [smiling]
+- (Danny) "You know you can always call me, right?"
+- (Will) "I do actually" [nodding, smiling]
+"And I really appreciate that brother!" [smiling, padding Danny on the back and gesturing for them to walk on] 
 #end
