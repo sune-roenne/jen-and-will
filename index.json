@@ -28,21 +28,32 @@
         "CarryOverAfter": true
     },        
     {
-        "ChapterName": "Settling In",
+        "ChapterName": "Slow Day at the Office",
         "OrderKey": "2022-03-03A",
-        "FileName": "04-03-2022A-TBD.story"
+        "FileName": "04-03-2022A-Slow day at the office.story"
     },    
+    {
+        "ChapterName": "Shrapnel 03",
+        "OrderKey": "2022-03-03AZ",
+        "FileName": "02-regret.shrapnel",
+        "CarryOverAfter": true
+    },        
+    {
+        "ChapterName": "A Change of Pace",
+        "OrderKey": "2022-03-03B",
+        "FileName": "04-03-2022B-A change of pace.story"
+    },    
+    {
+        "ChapterName": "Shrapnel 04",
+        "OrderKey": "2022-03-03BZ",
+        "FileName": "02-regret.shrapnel",
+        "CarryOverAfter": true
+    },        
     {
         "ChapterName": "The Prostitute Murders II",
         "OrderKey": "2022-03-08A",
         "FileName": "08-03-2022A-Will and Laura - Emotionally Responsible.story"
     },    
-    {
-        "ChapterName": "Shrapnel 02",
-        "OrderKey": "2022-03-08Z",
-        "FileName": "02-regret.shrapnel",
-        "CarryOverAfter": true
-    },        
      
     {
         "ChapterName": "Bondage in the Boondocks",

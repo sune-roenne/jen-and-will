@@ -340,7 +340,7 @@ While Inspector Bjarke Hansen is addressing the personnel in the main office the
 - (Will) "No karate, taekwondo, kong fu, or anything of the kind, where you have a choreographed sequence of movements..."
 "dance classes maybe?"
 - (Allan) "Back in high school, my friends and I taught ourselves the Shredder-kata from TMNT 2012"
-- (Will) "'The man who taught you that kata is no friend!" [caricature of karate sensei]
+- (Will) "'The man who taught you that kata is no friend!'" [caricature of karate sensei]
 "My nephew had a Turtles phase..." [to the crowd, shrugging]
 "Alright Allan..."
 "I'm going to need you to brush up on it, because you'll need it tomorrow"
