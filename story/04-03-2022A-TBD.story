@@ -312,12 +312,46 @@ While Inspector Bjarke Hansen is addressing the personnel in the main office the
 "but of course: now we'll have to do a baseline-test..."
 
 ...
-
-- (Will) "Alright..."
-"I'll call it: the young man really does have talent!"
+#(dialog)
+- (Will) "I'll call it: the young man really does have talent!"
 - (Allan) "Allan"
 "... the name's Allan!"
-
+- (Will) "Alright... Allan..."
+"Here's the bad news though: policing is a buyer's market when it comes to talent"
+"Unless you refine your talent to the state where it will make a difference in an investigation, it will be worth a total of absolute shit to you" [staring with an eerie lack of expression at Allan]
+- (Allan) "And how do I do that?"
+"... refine my talent..."
+- (Will) "Easy really..."
+"We'll send you through the merciless 'Tetens School for the Specially Gifted'..."
+"Classes start at 7 sharp tomorrow morning..."
+"think you can make it?"
+- (Allan) "Sure"
+- (Will) "That settles it!"
+"I have a feeling we can make a real Alberto out of you"
+- (Allan) "What's an Alberto?"
+- (Will) "First of all..."
+"there is no such thing as an 'Al-bird-oh'..."
+"it's: Albe|||r|||to!"
+"You have to roll the 'r'"
+- (Allan) "Albe||r||to"
+- (Will) "Better! But you should probably practice that"
+"Secondly: have you ever taken any traditional martial arts classes?"
+- (Allan) "No"
+- (Will) "No karate, taekwondo, kong fu, or anything of the kind, where you have a choreographed sequence of movements..."
+"dance classes maybe?"
+- (Allan) "Back in high school, my friends and I taught ourselves the Shredder-kata from TMNT 2012"
+- (Will) "'The man who taught you that kata is no friend!" [caricature of karate sensei]
+"My nephew had a Turtles phase..." [to the crowd, shrugging]
+"Alright Allan..."
+"I'm going to need you to brush up on it, because you'll need it tomorrow"
+- (Allan) "Got it"
+- (Will) "Thirdly..."
+"An Alberto is..." [stopping to look at Michael who has just appeared from around the corner]
+- (Michael) "We've been looking for you guys"
+"Main office in 5 minutes!"
+"There's been another! 
+- (Will) "An Alberto is a story you'll get some other time"
+#end
 ...
 
 #(dialog)
@@ -333,7 +367,7 @@ While Inspector Bjarke Hansen is addressing the personnel in the main office the
 "Wait... don't answer that..."
 "you'll feed me some bullshit about supporting the initiative of the people even if you don't support the means..."
 "and I think I'll opt for plausible deniability on this one..."
-"What I meant was..." [stopping to face Will]
+"What I mean is..." [stopping to face Will]
 "Are you OK?"
 - (Will) "You mean about Jen...?"
 - (Danny) "Yes"
