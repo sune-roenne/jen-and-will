@@ -177,6 +177,7 @@
 
 ...
 
+#(dialog)
 - (Otto) "Skull seems intact..."
 "no signs of trauma..."
 "no perforations..."
@@ -210,9 +211,123 @@
 - (Will) "Please!" [looking a little disgusted himself]
 - (Otto) "Lacerations and bruising at various parts of the legs..."
 "signs of recent burn damage..."
-"possibly the result of contact with something like a blow torch..."
+"possibly the result of something like a blow torch..."
 "full onset of rigor mortis..." [getting up from his crouching position]
 "All in all gentlemen..." [turning to face Will and Bjarki]
 "I'd say it's a hell of a way to go..." [sad expression]
-- (Will) "Estimated Time Of Death?"
+- (Will) "Estimated time of death?"
 - (Otto) "I'd say somewhere within the last 20 to 24 hours..."
+- (Will) "Cause of death?"
+- (Otto) "Won't call it..."
+"there are signs of strangulation and excessive bleeding, but I can't make any kind of even fairly accurate estimate until post RM and we've opened her up"
+- (Will) "Hmm...." [catching a glimpse of Bjarki]
+"do you have a spare evidence bag?" [directed at Otto]
+- (Otto) "..." [a little perplexed, but then getting a look at Bjarki himself]
+"If you can make it, please see if you can clear at least 10 meters from the apartment, so your DNA doesn't accidentally put you on the 'suspect-list'" [handing Bjarki a bag, overbearing smile]
+"..." [as Bjarki hurries out of the apartment]
+"His first time?" [at Will]
+- (Will) "I think so" [smiling]
+- (Otto) "He handled himself well"
+- (Will) "I think so" [smiling]
+"What is the shortest period of time it could possibly take for an assailant to inflict this level damage, would you say?" 
+- (Otto) "Hmm..."
+"Without knowing the details of 'downstairs'..."
+"let's say he spent 10 min down there..."
+- (Will) "What makes you so sure it's not a woman?"
+- (Otto) "..." [staring at Will]
+- (Will) "..." [deadpan]
+- (Otto) "Shit Will, you have a sick sense of humor sometimes..." [chuckling]
+- (Will) "..." [smiling]
+"Is there any way she wouldn't have passed out throughout the scene?"
+- (Otto) "Not likely..."
+- (Will) "So, he would have had to wake her up, at least 3-4 times...?"
+- (Otto) "That's a fair bet..."
+- (Will) "How long to make a burn like that?" [pointing to the body's leg]
+- (Otto) "Maybe 30-60 seconds if it's on full throttle..." [pitching a shrug of uncertainty]
+- (Will) "So..."
+"accounting for the time her would have had to spend on entering, pacifying and tying her down..."
+"maybe 30 minutes if he was speed running the thing?"
+- (Otto) "He might have done it in 25... I doubt it would be less than that..."
+- (Will) "How long is the longest it could have gone on?"
+- (Otto) "Well, technically, he could have tied her down a month ago and swung by to feed her and whatnot..."
+"but once the ear and areole came off, I can't see her staying alive for more than 30 minutes tops..."
+- (Will) "How strong do you have to be to dislocate the pelvis like that?"
+- (Otto) "If we were talking a 30 year old male in good physical shape, I'd say it would take something like a car accident to cause that type of dislocation..."
+"but for a woman of age, it could probably done by someone like Officer Danny..."
+"if she had previous damages to the ligaments, even I might be able to do it..."
+- (Will) "Could you guys check out her medical record when you do the autopsy?"
+- (Otto) "That's standard procedure Will" 
+"It's almost like asking them to cut the pizza when you order out" [smiling] 
+- (Will) "Oh hot damn..."
+"I could go for pizza by now!"
+#end
+
+...
+
+#(dialog)
+- (Will) "U good?"
+- (Bjarki) "Yes Sir" [not meeting Will's eyes]
+- (Will) "Splendid!"
+"I want to have a look around the apartment..."
+"ForIns are going to sweep for prints, collect DNA etc., so it's important that you leave the gloves on and touch nothing..."
+- (Bjarki) "Sure"
+- (Will) "These guys are pretty thorough so don't worry about combing for details..."
+"We're primarily interested in learning what went down here..."
+"aside from the obvious..." [nodding towards the mess in the bedroom]
+"and how long the perpetrator was here..."
+- (Bjarki) "Are we sure it was just one guy?"
+- (Will) "Not at all..."
+"but if the genital damage tells of a sexually motivated crime, it's the most likely case..."
+"hard enough to find people with compatible kinks without the pincers and pliers..." [shrugs]
+"You'll want to watch for indications of the perpetrator doing anything other than the evident while he was here..."
+"Empty cans of caffeinated beverages..."
+"news-magazines you wouldn't expect to find in the apartment of a 60 year old woman..."
+"things of that nature..."
+- (Bjarki) "Got it"
+#end
+
+...
+
+#(dialog)
+- (Bjarki) "How long have you known Officer Danny?"
+- (Will) "Hmm..." [not pausing his examination of the room]
+"We go back to start of the Academy, so we'd be coming up on 19 years I guess..."
+- (Bjarki) "Are you friends with him on social media?"
+- (Will) "I think so, why?"
+- (Bjarki) "Because Bjorki and I haven't been able to find him on there..."
+- (Will) "Maybe he doesn't want to be found...?"
+- (Bjarki) "But why?"
+- (Will) "Let's do a thing..."
+"Close your eyes for a second and forget where we are and what you are doing for a second..."
+- (Bjarki) "Done!" [eyes closed]
+- (Will) "Now imagine that you found his social media page and it contained the nastiest most vile thing you could possibly imagine..."
+- (Bjarki) "..." [mixed expression of horror and disgust traveling across his face]
+- (Will) "I don't need to know what it is..."
+"but would you still want to know?"
+- (Bjarki) "Nooooo" [horrified whisper]
+#end
+
+...
+
+#(dialog)
+- (Bjarki) "Look at this"
+- (Will) "The peephole?"
+- (Bjarki) "The area around it looks kinda dirty..."
+- (Will) "Hmm..." [approaching Bjarki and the door]
+"I agree..."
+"but wouldn't it naturally have to be though?" [rehearsing putting his eye to a peephole in the air] 
+- (Bjarki) "I guess..."
+"except every other surface in the apartment is squeaky clean"
+- (Will) "Hmmm..." [nodding in approval]
+#end
+
+- (Will) "Otto: would you guys make sure to dust for prints around the peephole?"
+- (Otto) "..." [glaring back at Will with a stern look]
+- (Will) "I think we just reached the limit of our welcome here..." [in a whisper to Bjarki]
+"let's go out and see if we can get anything from the other residents before Tim Halback manages to convince them that we are all babbling idiots"
+- (Bjarki) "Why don't you like Detective Halback?"
+- (Will) "Because he's a lazy, incompetent, and corrupt idiot..."
+"I can excuse pretty much any combination of 'lazy', 'incompetent', and 'corrupt' idiocy..."
+"but mix them all in one burned-out, fat little excuse of a man..."
+"and it's just too much man!"
+
