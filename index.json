@@ -30,10 +30,10 @@
     {
         "ChapterName": "Slow Day at the Office",
         "OrderKey": "2022-03-03A",
-        "FileName": "04-03-2022A-Slow day at the office.story"
+        "FileName": "03-03-2022A-Slow day at the office.story"
     },    
     {
-        "ChapterName": "Shrapnel 03",
+        "ChapterName": "Shrapnel 02",
         "OrderKey": "2022-03-03AZ",
         "FileName": "02-regret.shrapnel",
         "CarryOverAfter": true
@@ -41,14 +41,21 @@
     {
         "ChapterName": "A Change of Pace",
         "OrderKey": "2022-03-03B",
-        "FileName": "04-03-2022B-A change of pace.story"
+        "FileName": "03-03-2022B-A change of pace.story"
     },    
     {
-        "ChapterName": "Shrapnel 04",
+        "ChapterName": "Shrapnel 03",
         "OrderKey": "2022-03-03BZ",
-        "FileName": "02-regret.shrapnel",
+        "FileName": "03-birthday.shrapnel",
         "CarryOverAfter": true
     },        
+
+    {
+        "ChapterName": "Will Tetens School for the Specially Gifted",
+        "OrderKey": "2022-03-04B",
+        "FileName": "04-03-2022A-Wills school for the gifted.story"
+    },    
+
     {
         "ChapterName": "The Prostitute Murders II",
         "OrderKey": "2022-03-08A",

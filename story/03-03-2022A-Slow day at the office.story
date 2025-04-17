@@ -322,7 +322,7 @@ While Inspector Bjarke Hansen is addressing the personnel in the main office the
 - (Allan) "And how do I do that?"
 "... refine my talent..."
 - (Will) "Easy really..."
-"We'll send you through the merciless 'Tetens School for the Specially Gifted'..."
+"We'll send you through the merciless 'Will Tetens School for the Specially Gifted'..."
 "classes start at 7 sharp tomorrow morning..."
 "think you can make it?"
 - (Allan) "Sure"

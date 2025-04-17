@@ -324,7 +324,7 @@
 - (Will) "Otto: would you guys make sure to dust for prints around the peephole?"
 - (Otto) "..." [glaring back at Will with a stern look]
 - (Will) "I think we just reached the limit of our welcome here..." [in a whisper to Bjarki]
-"let's go out and see if we can get anything from the other residents before Tim Halback manages to convince them that we are all babbling idiots"
+"let's go out and see if we can get anything from the other residents before Jim Halback manages to convince them that we are all babbling idiots"
 - (Bjarki) "Why don't you like Detective Halback?"
 - (Will) "Because he's a lazy, incompetent, and corrupt idiot..."
 "I can excuse pretty much any combination of 'lazy', 'incompetent', and 'corrupt' idiocy..."
