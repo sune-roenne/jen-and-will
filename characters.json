@@ -140,7 +140,7 @@
 	},	
 
 	{
-		"Character":"Helmer",
+		"Character":"helmer",
 		"ShowName": "Instructor Watson",
 		"FullName": "Helmer Watson",
 		"Rank": "Instructor",
@@ -150,7 +150,7 @@
 		"Font": "Old Standard TT"
 	},
 	{
-		"Character":"Mads",
+		"Character":"mads",
 		"ShowName": "Instructor Wilkins",
 		"FullName": "Mads Wilkins",
 		"Rank": "Instructor",
@@ -160,7 +160,7 @@
 		"Font": "Old Standard TT"
 	},
 	{
-		"Character":"Jonas",
+		"Character":"jonas",
 		"ShowName": "Instructor Wilson",
 		"FullName": "Jonas Wilson",
 		"KnownFor": "Psycho instructor",
@@ -170,6 +170,16 @@
 		"Font": "Old Standard TT"
 	},
 
+	{
+		"Character":"otto",
+		"ShowName": "Otto",
+		"FullName": "Otto Hoffmann",
+		"KnownFor": "ForIns Team - North East Hanfia Police Department",
+		"Rank": "Forensics Investigator",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},
 
 	{
 		"Character":"katja",
