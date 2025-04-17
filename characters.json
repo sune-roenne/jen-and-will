@@ -12,7 +12,7 @@
 	{
 		"Character":"allan",
 		"ShowName": "Allan",
-		"Rank": "Cadet",
+		"Rank": "Officer",
 		"FullName": "Allan Linden",
 		"Color": "rgb(0,0,0)",
 		"SiteFont": "Old Standard TT",
@@ -130,10 +130,41 @@
 		"Font": "Old Standard TT"
 	},	
 	{
+		"Character":"hannah",
+		"ShowName": "Hannah",
+		"FullName": "Hannah Majer",
+		"Rank": "Officer",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},	
+
+	{
+		"Character":"Helmer",
+		"ShowName": "Instructor Watson",
+		"FullName": "Helmer Watson",
+		"Rank": "Instructor",
+		"KnownFor": "Psycho instructor",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},
+	{
+		"Character":"Mads",
+		"ShowName": "Instructor Wilkins",
+		"FullName": "Mads Wilkins",
+		"Rank": "Instructor",
+		"KnownFor": "Big on legality",
+		"Color": "rgb(0,0,0)",
+		"SiteFont": "Old Standard TT",
+		"Font": "Old Standard TT"
+	},
+	{
 		"Character":"Jonas",
 		"ShowName": "Instructor Wilson",
 		"FullName": "Jonas Wilson",
-		"Rank": "Instructor Wilson",
+		"KnownFor": "Psycho instructor",
+		"Rank": "Instructor",
 		"Color": "rgb(0,0,0)",
 		"SiteFont": "Old Standard TT",
 		"Font": "Old Standard TT"
@@ -144,6 +175,7 @@
 		"Character":"katja",
 		"ShowName": "Katja",
 		"FullName": "Katja Severinsen",
+		"KnownFor": "Police psych team",
 		"Color": "rgb(0,0,0)",
 		"SiteFont": "Old Standard TT",
 		"Font": "Old Standard TT"
@@ -212,7 +244,7 @@
 		"Character":"luna",
 		"ShowName": "Luna ",
 		"FullName": "Luna Blome",
-		"KnownFor": "Youngest of the Blome Sisters",
+		"KnownFor": "3rd in the line of Blome Sisters",
 		"Color": "rgb(0,0,0)",
 		"SiteFont": "Old Standard TT",
 		"Font": "Old Standard TT"
