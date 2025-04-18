@@ -29,7 +29,22 @@
 	"CaseNo": "H72839223",
 	"Victim": "Karina Mærsk-Jensen",
 	"GroupKey": "prostitute"
+},
+{
+	"CaseNo": "H72839247",
+	"Victim": "Caroline Samson",
+	"GroupKey": "prostitute"
+},
+{
+	"CaseNo": "H72839248",
+	"Victim": "Inga Jovanovic",
+	"Essence": "Leverage",
+	"GroupKey": "abramowicz"
+},
+{
+	"CaseNo": "H72839262",
+	"Victim": "Louise Nielsen",
+	"GroupKey": "abramowicz"
 }
-
 
 ]

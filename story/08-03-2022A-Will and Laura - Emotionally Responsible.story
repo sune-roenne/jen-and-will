@@ -6,6 +6,172 @@ More than anything, the soldier thought about how he himself changed along the a
 Walking alone through the Siberian waste land, the soldier reminded himself to catch the tipping point. 
 #end
 
+...
+
+#(dialog)
+- (Will) "..." [knocking on Jen's door]
+- (Jen) "Come in" [shouting]
+- (Will) "Do you have 5?"
+- (Jen) "..." [not looking up from her computer]
+"I have 5..." [looking up at Will]
+"but that's about all..." 
+"I'm hopelessly behind on Bjarne's paperwork" [continuing her work]
+- (Will) "5 will do..." [closing the door behind him and taking a seat]
+"may I have access to the case file on Louise Nielsen?"
+- (Jen) "Bjarne didn't restore your access?" [focusing on her work]
+- (Will) "No"
+- (Jen) "..." [deep sigh of frustration]
+"I'm not authorized to have your credentials restored..."
+"Don't say it Will!" [knowing full well Will's view on the balance between obligations and liberties of Jen's job]
+"I'll get you a printout and ask Bjarne to get you set up the next time I see him..."
+"OK?"
+- (Will) "That will do" [shrugging]
+#end
+
+...
+
+#(dialog)
+- (Jen) "Please stay here and read it!" [as Will is about to exit her office with the printouts]
+- (Will) "Are you afraid I'm going to take off with it?" 
+- (Jen) "I'm afraid you'll get distracted by Danny on one of your ramblings about 'The Old Days' and leave it somewhere for someone to find and remark upon" [once again focusing on her laptop]
+"with my credentials identifying the source of the data breach..."
+- (Will) "Alright..." [not bothering to argue the point that Danny is out of the house, partly from knowing that he still may get distracted and accidentally break the department's GDPR policies]
+#end
+
+...
+
+#(dialog)
+- (Will) "She doesn't really look like a 'Louise Nielsen', does she?" [studying the morgue-photo of Louise Nielsen's face]
+- (Jen) "..." [a little annoyed with herself for not emphasizing to Will that he should stay in her office and read: 'IN SILENCE']
+- (Will) "She looks Eastern European more than anything"
+- (Jen) "Mmmmm" [hummed in a low tone, hoping Will catches the hint]
+- (Will) "How can she have no next of kin?" 
+"she must have been quite the looker when she was young..."
+"hard to believe she never spawned offspring..." [still staring at the photo of Louise Nielsen]
+- (Jen) "It's good to hear you've broadened your taste in women, but don't you think you're overdoing it a bit?" 
+- (Will) "Did she have some kind of mental illness?" [either not hearing Jen's remark or choosing to ignore it]
+- (Jen) "I guess you'd have to ask Detective Halback" [trying to keep her irritation under control]
+- (Will) "Or the bathroom door..." [almost mesmerized by the photo]
+#end
+
+...
+
+#(dialog)
+- (Will) "Jesus Fucking Christ!" 
+- (Jen) "WHAT WILL?!" [unable to keep her irritation at bay]
+- (Will) "No next of kin?!" [putting an autopsy-photo down in-front of Jen]
+- (Jen) "..." [examining the photo in irritation until taking on an embarrassed expression]
+"I swear, I didn't know..."
+- (Will) "You shouldn't have to!"
+"The guy's a fucking detective..."
+"he shouldn't need a babysitter!"
+- (Jen) "..." [shaking her head as she walks to the door of her office]
+"DETECTIVE HALBACK! GET THE FUCK IN HERE!"
+#end
+
+...
+
+#(dialog)
+- (Jim) "What's the matter?" [trying to appear cool] 
+- (Jen) "You wrote in your report, that Louise Nielsen had no next of kin, correct?"
+- (Jim) "That's correct" [seeming a little relieved at the topic]
+"Both her parents died a long time ago..."
+"no siblings..."
+"never married and never had any children..."
+- (Jen) "Hmmm..." [nodding]
+"Then tell me Detective..."
+"if she never had any children, why is her stomach covered in stretch marks?!"
+- (Jim) "..." [surprised]
+"Uuuhh...."
+"I don't know..."
+"maybe she was fat?" [expression of 'what do I know?']
+- (Jen) "Then wouldn't there be stretch marks on other parts of her body?"
+- (Jim) "I don't know..." [in a tone of voice that suggests that the question falls outside his job-description as well as his usual interest in the female anatomy]
+- (Jen) "Another thing..."
+"have a look this image of her face..."
+- (Jim) "Yes...?"
+- (Jen) "Does she look like a 'Louise Nielsen'?"
+- (Jim) "..." [looking at the photo, dumbfounded]
+"I don't know..."
+"that's what the computer said..."
+- (Jen) "..." [staring at Jim in disbelief]
+- (Jim) "HEY! What do you expect me to do?!" [taking an aggressive stance that he quickly abandons when he notices Will cracking his knuckles while looking hungrily at him]
+- (Jen) "Your job!"
+"Which right now is to find out who this woman was!"
+#end
+
+#(dialog)
+- (Jen) "..." [following Jim with a scornful look as he leaves her office]
+"Thank you Will" [briefly glancing at Will before getting back to her paperwork]
+- (Will) "..." [shrugs 'for what? I didn't even get to hit him!' before leaving Jen's office]
+#end
+
+...
+
+#(dialog)
+- (Will) "Are you any good?"
+- (Laura) "What?!" [clearly confused from being addressed by the weird Europol guy whom she has never spoken to one-on-one]
+- (Will) "CAN..." [articulating slowly]
+"YOU..." [pointing at Laura]
+"POLICEMAN?" [making a twirly finger with his right hand, possibly supposed to mimic police lights]
+- (Laura) "What?!" [now clearly angry on top of confused]
+- (Will) "You're not one of those mentally retarded people, are you?" [examining Laura's neck]
+"Do you have one of those fancy sunflower ribbons tucked away in there?"
+- (Laura) "What do you want?" [annoyed with herself that this is the best she can think of saying]
+- (Will) "I need someone to chaperone me on official police business downtown..."
+"'Old Cancerous' doesn't trust me to go unsupervised..."
+- (Laura) "I wonder why?!" [a little shocked that the guy would actually take to calling a cancer-ridden man 'Old Cancerous' but also a little more confident in her ability to answer back]
+#end
+
+...
+
+#(dialog)
+- (Laura) "Do you want to drive?" [as they are walking towards the patrol car]
+- (Will) "I don't drive" [not looking at Laura]
+- (Laura) "How masculine..." [whispered sufficiently loud that Laura is sure Will hears it]
+- (Will) "..." [stopping, looking at Laura]
+"..." [blinking a couple of times in quick succession as if tearing up, then tilting his head slightly in manner he hopes conveys 'empathetic']
+"It was really kind of you to point out my masculinity..." [doing his best at 'sincere']
+"I feel sometimes, we as men are expected to play on such a broad scale of conflicting roles..." [as if drawing the words straight out from the 'well of his heart']
+"and then to have someone I don't even know re-affirm me in my masculinity..."
+"it really means a lot to me!" [hurling himself off scale in the peak of his little theatrics performance]
+- (Laura) "..." [about to retort but a little unsure of what to make of Will's performance]
+- (Will) "Especially considering that I was kind of a jerk to you back there..." [resuming his walk]
+"I was just a little frustrated that life had just robbed me out of a chance to pummel the will to live out of Old Fat Halback..."
+"but I'm over it now..." [throwing Laura an attempt at a comforting smile]
+"I'm Will by the way"
+- (Laura) "I know!" [while catching up to Will]
+"I'm Laura"
+- (Will) "I know" [not looking over at Laura]
+#end
+
+...
+
+#(dialog) 
+- (Laura) "Is that your normal meet-n'-greet routine?" [getting in the driver's seat]
+- (Will) "Nah... I don't think I've ever done that one before..." [already seated, apparently pondering if this is indeed the first time he has done this routine]
+"but I'm usually an asshole, if that's what you are asking..." [snapping out of his thoughts, smiling at Laura as if he had just casually declared that he prefers the pork buffet for Christmas]
+- (Laura) "Is that what it takes to make it in Europol?"
+- (Will) "Sure doesn't hurt..."
+"you see..." [turning in his seat, as if getting ready to explain something fascinating about astrophysics or the likes] 
+"humans are hopelessly insufficient at 'absolute valuations'..."
+"we are much better at measuring 'changes'..."
+"you can spend 10 years as volunteer traffic guard helping little 'ol ladies across the street..."
+"but rob just one of those old bags just once, and people will say you've become a real asshole..."
+"reversely..."
+"if you set the bar sufficiently the low upon first introductions and just do the bare minimum in terms of 'social grace'..."
+"people will say: 'that Will sure is a swell guy! Really working on improving himself'..." [turning back in his seat, and taking out a blister of what appears to be counterfeit pain-medication]
+- (Laura) "Profound!" [nodding mockingly]
+"Think maybe you're going a little heavy on the opiates?" [looking at the pills in Will's hands]
+- (Will) "It's alright... these are the 'NON-ADDICTIVE' opiates..." [throwing a smile at Laura]
+- (Laura) "..." [about to tell Will what an idiot he is but once again unsure of how deep the act goes]
+- (Will) "..." [signaling: 'relax guy... it's a joke' with his hands, then tossing the pills in his mouth]
+"It's the circumstances" [pointing out the swelling and bruising on his face while chewing the pills, making a face of eating something sour]
+- (Laura) "..." [shaking her head as if trying to shred the whole scene]
+"Anywho... where are we going?"
+#end
+
+...
 
 #(dialog)
 - (Laura) "So, how are you getting on after your breakup with the Deputy Inspector?"
@@ -89,17 +255,4 @@ Walking alone through the Siberian waste land, the soldier reminded himself to c
 "You do that" [leaning back in his seat and closes his eyes, slight smile on his lips]
 #end
 
-...
-
-Will picks up his cell phone on the first ring.
-
-- (Will - phone) "¡Hola!"
-"Un momento"
-"How do you say 'corn' in Spanish?" [looking at Laura]
-- (Laura) "I don't know"
-- (Will - phone) "Hmmm... Fresa o maíz"
-"..." [listening for reply from other end]
-"De la Iglesia Virgen del Valle al Ayuntamiento"
-"... más o menos"
-"¡Hasta luego!"
 
