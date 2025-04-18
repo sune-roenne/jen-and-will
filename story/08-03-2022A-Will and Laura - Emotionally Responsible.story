@@ -42,7 +42,7 @@ Walking alone through the Siberian waste land, the soldier reminded himself to c
 
 #(dialog)
 - (Will) "She doesn't really look like a 'Louise Nielsen', does she?" [studying the morgue-photo of Louise Nielsen's face]
-- (Jen) "..." [a little annoyed with herself for not emphasizing to Will that he should stay in her office and read: 'IN SILENCE']
+- (Jen) "..." [a little annoyed with herself for not emphasizing to Will that he should stay in her office and read 'IN SILENCE']
 - (Will) "She looks Eastern European more than anything"
 - (Jen) "Mmmmm" [hummed in a low tone, hoping Will catches the hint]
 - (Will) "How can she have no next of kin?" 
@@ -66,7 +66,7 @@ Walking alone through the Siberian waste land, the soldier reminded himself to c
 "The guy's a fucking detective..."
 "he shouldn't need a babysitter!"
 - (Jen) "..." [shaking her head as she walks to the door of her office]
-"DETECTIVE HALBACK! GET THE FUCK IN HERE!"
+"DETECTIVE HALBACK! GET THE IN HERE!"
 #end
 
 ...
@@ -130,11 +130,11 @@ Walking alone through the Siberian waste land, the soldier reminded himself to c
 - (Will) "I don't drive" [not looking at Laura]
 - (Laura) "How masculine..." [whispered sufficiently loud that Laura is sure Will hears it]
 - (Will) "..." [stopping, looking at Laura]
-"..." [blinking a couple of times in quick succession as if tearing up, then tilting his head slightly in manner he hopes conveys 'empathetic']
+"..." [blinking a couple of times in quick succession as if tearing up, then tilting his head slightly in a manner he hopes conveys 'empathetic']
 "It was really kind of you to point out my masculinity..." [doing his best at 'sincere']
 "I feel sometimes, we as men are expected to play on such a broad scale of conflicting roles..." [as if drawing the words straight out from the 'well of his heart']
-"and then to have someone I don't even know re-affirm me in my masculinity..."
-"it really means a lot to me!" [hurling himself off scale in the peak of his little theatrics performance]
+"and then to have someone you don't even know re-affirm you in your masculinity..."
+"it really means a lot to me!" [hurling himself off scale at the peak of his little theatrics performance]
 - (Laura) "..." [about to retort but a little unsure of what to make of Will's performance]
 - (Will) "Especially considering that I was kind of a jerk to you back there..." [resuming his walk]
 "I was just a little frustrated that life had just robbed me out of a chance to pummel the will to live out of Old Fat Halback..."
@@ -157,7 +157,7 @@ Walking alone through the Siberian waste land, the soldier reminded himself to c
 "humans are hopelessly insufficient at 'absolute valuations'..."
 "we are much better at measuring 'changes'..."
 "you can spend 10 years as volunteer traffic guard helping little 'ol ladies across the street..."
-"but rob just one of those old bags just once, and people will say you've become a real asshole..."
+"but rob just one of those old windbags just once, and people will say you've become a real asshole..."
 "reversely..."
 "if you set the bar sufficiently the low upon first introductions and just do the bare minimum in terms of 'social grace'..."
 "people will say: 'that Will sure is a swell guy! Really working on improving himself'..." [turning back in his seat, and taking out a blister of what appears to be counterfeit pain-medication]
@@ -169,6 +169,7 @@ Walking alone through the Siberian waste land, the soldier reminded himself to c
 "It's the circumstances" [pointing out the swelling and bruising on his face while chewing the pills, making a face of eating something sour]
 - (Laura) "..." [shaking her head as if trying to shred the whole scene]
 "Anywho... where are we going?"
+- (Will) "Heartbreak Boulevard!"
 #end
 
 ...
